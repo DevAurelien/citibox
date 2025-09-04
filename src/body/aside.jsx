@@ -1,4 +1,4 @@
-import CardObject from "../components/CardObject"
+import CardObject from "../components/CardObject.jsx"
 
 export default function Aside() {
   return (

@@ -16,7 +16,7 @@ export default function Corps() {
             placeholder="Stations"
           />
           <div className="grid grid-cols-2 gap-1">
-            <CardObject/>
+            <CardObject/> 
             <CardObject/>
             <CardObject/>
           </div>
