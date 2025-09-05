@@ -1,5 +1,6 @@
 idées :
 
+- la barre de recherche principal sert à tout, elle emmènera partout. (ships, maps, calculatordps, trade... ) 
 - mettre des stations en favori
 - autorecherche au fur et a mesure de la frappe
 - Pouvoir ajouter une station (ou un produit) non existante (si bd pas a jour ou simple note pour banque)
