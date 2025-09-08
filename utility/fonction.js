@@ -1,4 +1,5 @@
 import axios from "axios";
+import { API_KEY, RSI_URL, BASE_URL} from "./config.mjs"; 
 
 export async function searchApi(url) {
   try {
@@ -8,4 +9,9 @@ export async function searchApi(url) {
     console.error(err.response?.status, err.message);
     throw err;
   }
+}
+
+export async function search_citizenApi(mot) {
+  const retour = await axios.get(`${BASE_URL}${API_KEY}/${mot}`)
+  .then(data => console.log(data));
 }

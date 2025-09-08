@@ -4,11 +4,11 @@ import { searchApi } from "../../utility/fonction";
 export default function CardObject() {
   const [data, setData] = useState(null);
 
-  useEffect(() => {
-    searchApi("api.fleetyards.net/v1/components") // api.fleetyards.net/v1/commodities
-      .then((result) => setData(result))
-      .catch((err) => setData("Erreur"));
-  }, []);
+  // useEffect(() => {
+  //   searchApi("api.fleetyards.net/v1/components") // api.fleetyards.net/v1/commodities
+  //     .then((result) => setData(result))
+  //     .catch((err) => setData("Erreur"));
+  // }, []);
 
   return (
     <div className="flex flex-col my-2 h-[10%] w-full">

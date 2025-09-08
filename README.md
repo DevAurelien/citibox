@@ -7,3 +7,6 @@ idées :
   (abonnement sur un compte pour en suivre le stock si besoin, permet de voir le stock de quelqu'un qui a autorisé l'acces mais aucune modification ne peux etre faite)
 - Fonction de tri
 - clic sur l'objet et drag and drop 
+- ajout de combat inter-team (avec creation d'event, nb de joueurs, planetes etc... )
+- star map en 3d
+- gestion des pyam (timers), cz, lieu des differentes cartes, asd (taux de probabilité de drop ) 
