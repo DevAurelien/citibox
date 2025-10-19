@@ -23,23 +23,10 @@ dist-ssr
 *.sln
 *.sw?
 *.json
+*.py
 
 # Confidential
 config.env
-celestial_objects_data.json
-equipment_data.json
-features_data.json
-images_data.json
-manufacturers_data.json
-model_paints_data.json
-models_data.json
-models_details_data.json
-ships_data.json
-shops_data.json
-starsystems_data.json
-stations_data.json
-stations_details_data.json
-stationsarc_data.json
-trade_routes_data.json
-components_data.json
-.json
+tri.js
+Composants_ships_json
+Archive
