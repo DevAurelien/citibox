@@ -1,0 +1,12 @@
+[
+  {
+    "Name": "SafeTow S3 Towing Beam",
+    "Size": 3,
+    "Max force": "5,000,000,000",
+    "Optimal range": 200,
+    "Max range": 300,
+    "Max angle": 90,
+    "Max volume": "300,000",
+    "Manufacturer": "Greycat Industrial"
+  }
+]

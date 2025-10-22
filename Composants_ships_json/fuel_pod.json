@@ -1,0 +1,26 @@
+[
+  {
+    "Name": "CR-60",
+    "Size": 2,
+    "Capacity": "0.06 SCU",
+    "Fill rate": "0 L/s",
+    "Drain rate": "0 L/s",
+    "Manufacturer": "Musashi Industrial and Starflight Concern"
+  },
+  {
+    "Name": "GSX-HP",
+    "Size": 2,
+    "Capacity": "0.06 SCU",
+    "Fill rate": "0 L/s",
+    "Drain rate": "0 L/s",
+    "Manufacturer": "Stor*All"
+  },
+  {
+    "Name": "GSX-RF",
+    "Size": 2,
+    "Capacity": "0.06 SCU",
+    "Fill rate": "0 L/s",
+    "Drain rate": "0 L/s",
+    "Manufacturer": "Stor*All"
+  }
+]

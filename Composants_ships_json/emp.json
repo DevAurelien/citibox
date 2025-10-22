@@ -1,0 +1,38 @@
+[
+  {
+    "Name": "Magstrand EMP Generator",
+    "Size": 4,
+    "EMP radius": "1,100 m",
+    "Charge": "22 s",
+    "Cooldown": "16 s",
+    "Duration": "1.5 s",
+    "Manufacturer": "Roberts Space Industries"
+  },
+  {
+    "Name": "REP-8 EMP Generator",
+    "Size": 4,
+    "EMP radius": "750 m",
+    "Charge": "20 s",
+    "Cooldown": "22 s",
+    "Duration": "1.5 s",
+    "Manufacturer": "Aegis Dynamics"
+  },
+  {
+    "Name": "REP-VS EMP Generator",
+    "Size": 4,
+    "EMP radius": "900 m",
+    "Charge": "26 s",
+    "Cooldown": "40 s",
+    "Duration": "1.5 s",
+    "Manufacturer": "Aegis Dynamics"
+  },
+  {
+    "Name": "TroMag Burst Generator",
+    "Size": 1,
+    "EMP radius": "400 m",
+    "Charge": "12 s",
+    "Cooldown": "6 s",
+    "Duration": "0.75 s",
+    "Manufacturer": "MaxOx"
+  }
+]

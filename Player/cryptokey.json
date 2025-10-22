@@ -1,0 +1,20 @@
+[
+  {
+    "Name": "IcePick",
+    "Duration": "50 %",
+    "Error": "50 %",
+    "Manufacturer": "microTech"
+  },
+  {
+    "Name": "Re-Authorizer",
+    "Duration": "100 %",
+    "Error": "10 %",
+    "Manufacturer": "Lortell Computing"
+  },
+  {
+    "Name": "Tigersclaw",
+    "Duration": "75 %",
+    "Error": "50 %",
+    "Manufacturer": "Blue Triangle Inc."
+  }
+]

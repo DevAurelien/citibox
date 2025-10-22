@@ -1,0 +1,191 @@
+[
+  {
+    "Name": "Arrester III Missile",
+    "Size": 3,
+    "Physical damage": "2,526.42 🗡️",
+    "Energy damage": "3,368.56 🗡️",
+    "Tracking signal": "Cross Section",
+    "Lock time": "1 s",
+    "Manufacturer": "FireStorm Kinetics"
+  },
+  {
+    "Name": "Arrow I Missile",
+    "Size": 1,
+    "Physical damage": "1,232.8 🗡️",
+    "Energy damage": "2,332.8 🗡️",
+    "Tracking signal": "Infrared",
+    "Lock time": "0.5 s",
+    "Manufacturer": "Vanduul Clans"
+  },
+  {
+    "Name": "Assailant IV Missile",
+    "Size": 4,
+    "Physical damage": "4,255.03 🗡️",
+    "Energy damage": "4,255.03 🗡️",
+    "Tracking signal": "Cross Section",
+    "Lock time": "1.3 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Bullet II Missile",
+    "Size": 2,
+    "Physical damage": "2,799.36 🗡️",
+    "Energy damage": "2,799.36 🗡️",
+    "Tracking signal": "Infrared",
+    "Lock time": "0.8 s",
+    "Manufacturer": "Vanduul Clans"
+  },
+  {
+    "Name": "Chaos III Missile",
+    "Size": 3,
+    "Physical damage": "3,359.23 🗡️",
+    "Energy damage": "3,359.23 🗡️",
+    "Tracking signal": "Infrared",
+    "Lock time": "1 s",
+    "Manufacturer": "Vanduul Clans"
+  },
+  {
+    "Name": "Dominator II Missile",
+    "Size": 2,
+    "Physical damage": "2,400.451 🗡️",
+    "Energy damage": "3,265.92 🗡️",
+    "Tracking signal": "Electromagnetic",
+    "Lock time": "0.84 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Dragon IV Missile",
+    "Size": 4,
+    "Physical damage": "4,031.08 🗡️",
+    "Energy damage": "4,031.08 🗡️",
+    "Tracking signal": "Infrared",
+    "Lock time": "1.3 s",
+    "Manufacturer": "Vanduul Clans"
+  },
+  {
+    "Name": "Hellion VII Missile",
+    "Size": 7,
+    "Physical damage": "94,562.27 🗡️",
+    "Energy damage": "94,562.27 🗡️",
+    "Tracking signal": "Infrared",
+    "Lock time": "2 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Ignite II Missile",
+    "Size": 2,
+    "Physical damage": "2,378.678 🗡️",
+    "Energy damage": "2,954.88 🗡️",
+    "Tracking signal": "Infrared",
+    "Lock time": "0.3 s",
+    "Manufacturer": "FireStorm Kinetics"
+  },
+  {
+    "Name": "Marksman I Missile",
+    "Size": 1,
+    "Physical damage": "1,140.15 🗡️",
+    "Energy damage": "2,073.6 🗡️",
+    "Tracking signal": "Infrared",
+    "Lock time": "0.5 s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "Pathfinder IV Missile",
+    "Size": 4,
+    "Physical damage": "4,202.925 🗡️",
+    "Energy damage": "4,702.925 🗡️",
+    "Tracking signal": "Infrared",
+    "Lock time": "1.3 s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "Pioneer I Missile",
+    "Size": 1,
+    "Physical damage": "1,088.5 🗡️",
+    "Energy damage": "2,177.28 🗡️",
+    "Tracking signal": "Electromagnetic",
+    "Lock time": "0.9 s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "Raptor IV Missile",
+    "Size": 4,
+    "Physical damage": "3,950.969 🗡️",
+    "Energy damage": "4,702.925 🗡️",
+    "Tracking signal": "Electromagnetic",
+    "Lock time": "1.7 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Rattler II Missile",
+    "Size": 2,
+    "Physical damage": "1,970 🗡️",
+    "Energy damage": "2,332.8 🗡️",
+    "Tracking signal": "Infrared",
+    "Lock time": "0.8 s",
+    "Manufacturer": "Nova Pyrotechnica"
+  },
+  {
+    "Name": "Scimitar V Missile",
+    "Size": 5,
+    "Physical damage": "16,382.54 🗡️",
+    "Energy damage": "16,382.54 🗡️",
+    "Tracking signal": "Electromagnetic",
+    "Lock time": "2.3 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Spark I Missile",
+    "Size": 1,
+    "Physical damage": "1,075.91 🗡️",
+    "Energy damage": "2,339.28 🗡️",
+    "Tracking signal": "Cross Section",
+    "Lock time": "0.4 s",
+    "Manufacturer": "FireStorm Kinetics"
+  },
+  {
+    "Name": "StrikeForce II Missile",
+    "Size": 2,
+    "Physical damage": "2,057.53 🗡️",
+    "Energy damage": "3,265.92 🗡️",
+    "Tracking signal": "Cross Section",
+    "Lock time": "0.1 s",
+    "Manufacturer": "Thermyte Concern"
+  },
+  {
+    "Name": "TaskForce I Missile",
+    "Size": 1,
+    "Physical damage": "1,156 🗡️",
+    "Energy damage": "2,313.36 🗡️",
+    "Tracking signal": "Electromagnetic",
+    "Lock time": "0.1 s",
+    "Manufacturer": "Thermyte Concern"
+  },
+  {
+    "Name": "Tempest II Missile",
+    "Size": 2,
+    "Physical damage": "1,670.246 🗡️",
+    "Energy damage": "2,807.136 🗡️",
+    "Tracking signal": "Cross Section",
+    "Lock time": "0.1 s",
+    "Manufacturer": "FireStorm Kinetics"
+  },
+  {
+    "Name": "Thunderbolt III Missile",
+    "Size": 3,
+    "Physical damage": "3,276.372 🗡️",
+    "Energy damage": "3,723.15 🗡️",
+    "Tracking signal": "Electromagnetic",
+    "Lock time": "1 s",
+    "Manufacturer": "FireStorm Kinetics"
+  },
+  {
+    "Name": "Viper III Missile",
+    "Size": 3,
+    "Physical damage": "3,219.364 🗡️",
+    "Energy damage": "2,799.36 🗡️",
+    "Tracking signal": "Infrared",
+    "Lock time": "1 s",
+    "Manufacturer": "Nova Pyrotechnica"
+  }
+]

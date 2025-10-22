@@ -1,0 +1,27 @@
+[
+  {
+    "Name": "ComfortAir",
+    "Size": 1,
+    "Manufacturer": "Tyler Design & Tech"
+  },
+  {
+    "Name": "ComfortAir Lite",
+    "Size": 0,
+    "Manufacturer": "Tyler Design & Tech"
+  },
+  {
+    "Name": "ComfortAir Max",
+    "Size": 3,
+    "Manufacturer": "Tyler Design & Tech"
+  },
+  {
+    "Name": "ComfortAir Plus",
+    "Size": 2,
+    "Manufacturer": "Tyler Design & Tech"
+  },
+  {
+    "Name": "Idris life support generator",
+    "Size": 4,
+    "Manufacturer": "Aegis Dynamics"
+  }
+]

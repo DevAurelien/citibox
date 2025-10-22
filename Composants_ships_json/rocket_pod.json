@@ -1,0 +1,74 @@
+[
+  {
+    "Name": "Jericho",
+    "Size": 1,
+    "Damage": "150 🗡️",
+    "Range": "2,100 m",
+    "Ammo": 12,
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Jericho X",
+    "Size": 2,
+    "Damage": "150 🗡️",
+    "Range": "2,100 m",
+    "Ammo": 24,
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Jericho XL",
+    "Size": 3,
+    "Damage": "150 🗡️",
+    "Range": "2,100 m",
+    "Ammo": 36,
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Liberator (rocket pod)",
+    "Size": 1,
+    "Damage": "150 🗡️",
+    "Range": "2,100 m",
+    "Ammo": 8,
+    "Manufacturer": "Thermyte Concern"
+  },
+  {
+    "Name": "Liberator Prime",
+    "Size": 2,
+    "Damage": "150 🗡️",
+    "Range": "2,100 m",
+    "Ammo": 16,
+    "Manufacturer": "Thermyte Concern"
+  },
+  {
+    "Name": "Liberator Ultra",
+    "Size": 3,
+    "Damage": "150 🗡️",
+    "Range": "2,100 m",
+    "Ammo": 24,
+    "Manufacturer": "Thermyte Concern"
+  },
+  {
+    "Name": "Yebira I",
+    "Size": 1,
+    "Damage": "150 🗡️",
+    "Range": "2,100 m",
+    "Ammo": 6,
+    "Manufacturer": "FireStorm Kinetics"
+  },
+  {
+    "Name": "Yebira II",
+    "Size": 2,
+    "Damage": "150 🗡️",
+    "Range": "2,100 m",
+    "Ammo": 12,
+    "Manufacturer": "FireStorm Kinetics"
+  },
+  {
+    "Name": "Yebira III",
+    "Size": "",
+    "Damage": "",
+    "Range": "",
+    "Ammo": "",
+    "Manufacturer": "FireStorm Kinetics"
+  }
+]

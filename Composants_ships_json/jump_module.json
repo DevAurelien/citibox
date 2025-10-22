@@ -1,0 +1,30 @@
+[
+  {
+    "Name": "Excelsior",
+    "Size": 2,
+    "Class": "Civilian",
+    "Grade": "C",
+    "Manufacturer": "Tarsus"
+  },
+  {
+    "Name": "Exfiltrate",
+    "Size": 4,
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "Wei-Tek"
+  },
+  {
+    "Name": "Exodus",
+    "Size": 3,
+    "Class": "Civilian",
+    "Grade": "C",
+    "Manufacturer": "Tarsus"
+  },
+  {
+    "Name": "Explorer",
+    "Size": 1,
+    "Class": "Civilian",
+    "Grade": "C",
+    "Manufacturer": "Tarsus"
+  }
+]

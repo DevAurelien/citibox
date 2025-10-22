@@ -1,0 +1,284 @@
+[
+  {
+    "Name": "Aril Backpack",
+    "Size": 2,
+    "Inventory": "127,500 µSCU",
+    "Manufacturer": "Greycat Industrial"
+  },
+  {
+    "Name": "Aril Backpack Black Cherry",
+    "Size": 2,
+    "Inventory": "127,500 µSCU",
+    "Manufacturer": "Greycat Industrial"
+  },
+  {
+    "Name": "Aril Backpack Harvester",
+    "Size": 2,
+    "Inventory": "127,500 µSCU",
+    "Manufacturer": "Greycat Industrial"
+  },
+  {
+    "Name": "Aril Backpack Hazard",
+    "Size": 2,
+    "Inventory": "127,500 µSCU",
+    "Manufacturer": "Greycat Industrial"
+  },
+  {
+    "Name": "Aril Backpack Quicksilver",
+    "Size": 2,
+    "Inventory": "127,500 µSCU",
+    "Manufacturer": "Greycat Industrial"
+  },
+  {
+    "Name": "Aril Backpack Red Alert",
+    "Size": 2,
+    "Inventory": "127,500 µSCU",
+    "Manufacturer": "Greycat Industrial"
+  },
+  {
+    "Name": "Cataby Backpack MPUV-1C Edition",
+    "Size": 1,
+    "Inventory": "75,000 µSCU",
+    "Manufacturer": "Hardin Tactical"
+  },
+  {
+    "Name": "CSP-68H Backpack",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Clark Defense Systems"
+  },
+  {
+    "Name": "CSP-68H Backpack Red Alert",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Clark Defense Systems"
+  },
+  {
+    "Name": "CSP-68L Backpack",
+    "Size": 1,
+    "Inventory": "54,000 µSCU",
+    "Manufacturer": "Clark Defense Systems"
+  },
+  {
+    "Name": "CSP-68L Backpack Cayman",
+    "Size": 1,
+    "Inventory": "54,000 µSCU",
+    "Manufacturer": "Clark Defense Systems"
+  },
+  {
+    "Name": "CSP-68L Backpack Forest Camo",
+    "Size": 1,
+    "Inventory": "54,000 µSCU",
+    "Manufacturer": "Clark Defense Systems"
+  },
+  {
+    "Name": "CSP-68L Backpack Night Camo",
+    "Size": 1,
+    "Inventory": "54,000 µSCU",
+    "Manufacturer": "Clark Defense Systems"
+  },
+  {
+    "Name": "CSP-68M Backpack",
+    "Size": 2,
+    "Inventory": "105,000 µSCU",
+    "Manufacturer": "Clark Defense Systems"
+  },
+  {
+    "Name": "GCD-Army Backpack",
+    "Size": 2,
+    "Inventory": "105,000 µSCU",
+    "Manufacturer": "Clark Defense Systems"
+  },
+  {
+    "Name": "Inmate Workpack",
+    "Size": 1,
+    "Inventory": "75,000 µSCU",
+    "Manufacturer": "Universal Body Armor"
+  },
+  {
+    "Name": "MacFlex \"Rucksack\" Backpack",
+    "Size": 1,
+    "Inventory": "75,000 µSCU",
+    "Manufacturer": "Roberts Space Industries"
+  },
+  {
+    "Name": "MacFlex Backpack Canary Yellow",
+    "Size": 1,
+    "Inventory": "75,000 µSCU",
+    "Manufacturer": "Roberts Space Industries"
+  },
+  {
+    "Name": "MacFlex Backpack Granite Red",
+    "Size": 1,
+    "Inventory": "75,000 µSCU",
+    "Manufacturer": "Roberts Space Industries"
+  },
+  {
+    "Name": "MacFlex Backpack Grey",
+    "Size": 1,
+    "Inventory": "75,000 µSCU",
+    "Manufacturer": "Roberts Space Industries"
+  },
+  {
+    "Name": "MacFlex Backpack Orange",
+    "Size": 1,
+    "Inventory": "75,000 µSCU",
+    "Manufacturer": "Roberts Space Industries"
+  },
+  {
+    "Name": "MacFlex Backpack White",
+    "Size": 1,
+    "Inventory": "75,000 µSCU",
+    "Manufacturer": "Roberts Space Industries"
+  },
+  {
+    "Name": "Morozov-CH Backpack",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "Morozov-CH Backpack (Modified) (Nine Tails)",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "Morozov-CH Backpack Aftershock",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "Morozov-CH Backpack Brushdrift",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "Morozov-CH Backpack Crusader Edition",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "Morozov-CH Backpack Gold Horizon",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "Morozov-CH Backpack Pyrotechnic",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "Morozov-CH Backpack Red Alert",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "Morozov-CH Backpack Redshift",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "Morozov-CH Backpack Snowdrift",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "Morozov-CH Backpack Terracotta",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "Morozov-CH Backpack Thule",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "Novikov \"Ascension\" Backpack",
+    "Size": 3,
+    "Inventory": "180,000 µSCU",
+    "Manufacturer": "Caldera"
+  },
+  {
+    "Name": "Novikov \"Expo\" Backpack",
+    "Size": 3,
+    "Inventory": "180,000 µSCU",
+    "Manufacturer": "Caldera"
+  },
+  {
+    "Name": "Novikov Backpack",
+    "Size": 3,
+    "Inventory": "180,000 µSCU",
+    "Manufacturer": "Caldera"
+  },
+  {
+    "Name": "Pembroke Backpack",
+    "Size": 3,
+    "Inventory": "180,000 µSCU",
+    "Manufacturer": "Caldera"
+  },
+  {
+    "Name": "Pembroke Backpack RSI Edition (Modified) (Nine Tails)",
+    "Size": 3,
+    "Inventory": "180,000 µSCU",
+    "Manufacturer": "Caldera"
+  },
+  {
+    "Name": "Pembroke Backpack RSI Graphite Edition",
+    "Size": 3,
+    "Inventory": "180,000 µSCU",
+    "Manufacturer": "Caldera"
+  },
+  {
+    "Name": "Pembroke Backpack RSI Ivory Edition",
+    "Size": 3,
+    "Inventory": "180,000 µSCU",
+    "Manufacturer": "Caldera"
+  },
+  {
+    "Name": "Pembroke Backpack RSI Sunburst Edition",
+    "Size": 3,
+    "Inventory": "180,000 µSCU",
+    "Manufacturer": "Caldera"
+  },
+  {
+    "Name": "Sinkhole Backpack",
+    "Size": 2,
+    "Inventory": "105,000 µSCU",
+    "Manufacturer": "Doomsday"
+  },
+  {
+    "Name": "Warden Backpack",
+    "Size": 3,
+    "Inventory": "150,000 µSCU",
+    "Manufacturer": "Virgil Ltd"
+  },
+  {
+    "Name": "Zeus Exploration Backpack Starscape",
+    "Size": 3,
+    "Inventory": "180,000 µSCU",
+    "Manufacturer": "Roberts Space Industries"
+  },
+  {
+    "Name": "Zeus Exploration Suit Backpack",
+    "Size": 3,
+    "Inventory": "180,000 µSCU",
+    "Manufacturer": "Roberts Space Industries"
+  },
+  {
+    "Name": "Zeus Exploration Suit Backpack Solar",
+    "Size": 3,
+    "Inventory": "180,000 µSCU",
+    "Manufacturer": "Roberts Space Industries"
+  }
+]

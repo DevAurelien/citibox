@@ -1,0 +1,50 @@
+[
+  {
+    "Name": "Argo Ore Pod",
+    "Size": 1,
+    "Manufacturer": "Argo Astronautics",
+    "Inventory": "12,000,000 µSCU"
+  },
+  {
+    "Name": "Drake Ore Pod",
+    "Size": 1,
+    "Manufacturer": "Drake Interplanetary",
+    "Inventory": "16,000,000 µSCU"
+  },
+  {
+    "Name": "GEO Resource Pod",
+    "Size": 1,
+    "Manufacturer": "Argo Astronautics",
+    "Inventory": "100,000 µSCU"
+  },
+  {
+    "Name": "Greycat ROC Ore Pod",
+    "Size": 1,
+    "Manufacturer": "Greycat Industrial",
+    "Inventory": "1,200,000 µSCU"
+  },
+  {
+    "Name": "Greycat ROC-DS Ore Pod",
+    "Size": 1,
+    "Manufacturer": "Greycat Industrial",
+    "Inventory": "3,400,000 µSCU"
+  },
+  {
+    "Name": "MISC Ore Pod",
+    "Size": 1,
+    "Manufacturer": "Musashi Industrial and Starflight Concern",
+    "Inventory": "8,000,000 µSCU"
+  },
+  {
+    "Name": "Stor*All Big Box Model A",
+    "Size": 4,
+    "Manufacturer": "Stor*All",
+    "Inventory": "6,000,000 µSCU"
+  },
+  {
+    "Name": "Stor*All Mini",
+    "Size": 4,
+    "Manufacturer": "Stor*All",
+    "Inventory": "3,000,000 µSCU"
+  }
+]

@@ -1,0 +1,1172 @@
+[
+  {
+    "Name": "'WAR' Cannon",
+    "Size": 5,
+    "Type": "Neutron Cannon",
+    "Damage": "567 🗡️",
+    "Range": "2,794.96 m",
+    "Ammo": 28,
+    "Muzzle velocity": "1,288 m/s",
+    "Manufacturer": "Vanduul Clans"
+  },
+  {
+    "Name": "'WARLORD' Cannon",
+    "Size": 3,
+    "Type": "",
+    "Damage": "526.5 🗡️",
+    "Range": "2,600 m",
+    "Ammo": 10,
+    "Muzzle velocity": "1,600 m/s",
+    "Manufacturer": "Vanduul Clans"
+  },
+  {
+    "Name": "'WASP' Repeater",
+    "Size": 2,
+    "Type": "Laser Repeater",
+    "Damage": "89.1 🗡️",
+    "Range": "2,304 m",
+    "Ammo": 62,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Vanduul Clans"
+  },
+  {
+    "Name": "'WEAK' Repeater",
+    "Size": 1,
+    "Type": "Laser Repeater",
+    "Damage": "72.9 🗡️",
+    "Range": "1,998 m",
+    "Ammo": 102,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Vanduul Clans"
+  },
+  {
+    "Name": "'WHIP' Cannon",
+    "Size": 2,
+    "Type": "",
+    "Damage": "273.132 🗡️",
+    "Range": "2,300 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Vanduul Clans"
+  },
+  {
+    "Name": "'WRATH' Cannon",
+    "Size": 5,
+    "Type": "Plasma Canon",
+    "Damage": "972 🗡️",
+    "Range": "2,794.96 m",
+    "Ammo": 12,
+    "Muzzle velocity": "1,288 m/s",
+    "Manufacturer": "Vanduul Clans"
+  },
+  {
+    "Name": "10-Series Greatsword Cannon",
+    "Size": 2,
+    "Type": "Ballistic Cannon",
+    "Damage": "72.99 🗡️",
+    "Range": "2,304 m",
+    "Ammo": 467,
+    "Muzzle velocity": "1,600 m/s",
+    "Manufacturer": "KnightBridge Arms"
+  },
+  {
+    "Name": "11-Series Broadsword Cannon",
+    "Size": 3,
+    "Type": "Ballistic Cannon",
+    "Damage": "109.26 🗡️",
+    "Range": "2,608 m",
+    "Ammo": 500,
+    "Muzzle velocity": "1,600 m/s",
+    "Manufacturer": "KnightBridge Arms"
+  },
+  {
+    "Name": "9-Series Longsword Cannon",
+    "Size": 1,
+    "Type": "Ballistic Cannon",
+    "Damage": "48.6 🗡️",
+    "Range": "2,000 m",
+    "Ammo": 433,
+    "Muzzle velocity": "1,600 m/s",
+    "Manufacturer": "KnightBridge Arms"
+  },
+  {
+    "Name": "Absolution Distortion Scattergun",
+    "Size": 5,
+    "Type": "Distortion Scattergun",
+    "Damage": "90 🗡️",
+    "Range": "1,400 m",
+    "Ammo": 10,
+    "Muzzle velocity": "700 m/s",
+    "Manufacturer": "Preacher Armament"
+  },
+  {
+    "Name": "AD4B Ballistic Gatling",
+    "Size": 4,
+    "Type": "Ballistic Gatling",
+    "Damage": "84.4 🗡️",
+    "Range": "2,997 m",
+    "Ammo": "1,500",
+    "Muzzle velocity": "900 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "AD5B Ballistic Gatling",
+    "Size": 5,
+    "Type": "Ballistic Gatling",
+    "Damage": "126.5 🗡️",
+    "Range": "3,303 m",
+    "Ammo": "1,800",
+    "Muzzle velocity": "900 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "AD6B Ballistic Gatling",
+    "Size": 6,
+    "Type": "Ballistic Gatling",
+    "Damage": "189.9 🗡️",
+    "Range": "3,600 m",
+    "Ammo": "2,100",
+    "Muzzle velocity": "900 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "Ardor-1 Salvaged Repeater",
+    "Size": 1,
+    "Type": "Laser Repeater",
+    "Damage": "73.2 🗡️",
+    "Range": "2,000 m",
+    "Ammo": 174,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Ardor-2 Salvaged Repeater",
+    "Size": 2,
+    "Type": "Laser Repeater",
+    "Damage": "109.7 🗡️",
+    "Range": "2,300 m",
+    "Ammo": 175,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Ardor-3 Salvaged Repeater",
+    "Size": 3,
+    "Type": "Laser Repeater",
+    "Damage": "151.6 🗡️",
+    "Range": "2,600 m",
+    "Ammo": 174,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Attrition-1 Repeater",
+    "Size": 1,
+    "Type": "Laser Repeater",
+    "Damage": "66.51 🗡️",
+    "Range": "2,000 m",
+    "Ammo": 349,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Attrition-2 Repeater",
+    "Size": 2,
+    "Type": "Laser Repeater",
+    "Damage": "99.72 🗡️",
+    "Range": "2,300 m",
+    "Ammo": 350,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Attrition-3 Repeater",
+    "Size": 3,
+    "Type": "Laser Repeater",
+    "Damage": "134.784 🗡️",
+    "Range": "2,600 m",
+    "Ammo": 346,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Attrition-4 Repeater",
+    "Size": 4,
+    "Type": "Laser Repeater",
+    "Damage": "202.176 🗡️",
+    "Range": "3,000 m",
+    "Ammo": 350,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Attrition-5 Repeater",
+    "Size": 5,
+    "Type": "Laser Repeater",
+    "Damage": "336.78 🗡️",
+    "Range": "3,300 m",
+    "Ammo": 350,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Attrition-6 Repeater",
+    "Size": 6,
+    "Type": "Laser Repeater",
+    "Damage": "505.35 🗡️",
+    "Range": "3,600 m",
+    "Ammo": 349,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "ATVS Repeater",
+    "Size": 2,
+    "Type": "Distortion Repeater",
+    "Damage": "27 🗡️",
+    "Range": "2,302.3 m",
+    "Ammo": 250,
+    "Muzzle velocity": "1,430 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "BRVS Repeater",
+    "Size": 2,
+    "Type": "Ballistic Repeater",
+    "Damage": "54 🗡️",
+    "Range": "2,310 m",
+    "Ammo": "1,000",
+    "Muzzle velocity": "1,320 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "C-788 Cannon",
+    "Size": 4,
+    "Type": "Ballistic Cannon",
+    "Damage": "430 🗡️",
+    "Range": "6,525 m",
+    "Ammo": 100,
+    "Muzzle velocity": "900 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "CF-117 Bulldog Repeater",
+    "Size": 1,
+    "Type": "Laser Repeater",
+    "Damage": "17.496 🗡️",
+    "Range": "1,998 m",
+    "Ammo": 375,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Klaus & Werner"
+  },
+  {
+    "Name": "CF-227 Badger Repeater",
+    "Size": 2,
+    "Type": "Laser Repeater",
+    "Damage": "26.244 🗡️",
+    "Range": "2,304 m",
+    "Ammo": 375,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Klaus & Werner"
+  },
+  {
+    "Name": "CF-337 Panther Repeater",
+    "Size": 3,
+    "Type": "Laser Repeater",
+    "Damage": "43.65 🗡️",
+    "Range": "2,592 m",
+    "Ammo": 374,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Klaus & Werner"
+  },
+  {
+    "Name": "CF-447 Rhino Repeater",
+    "Size": 4,
+    "Type": "Laser Repeater",
+    "Damage": "65.43 🗡️",
+    "Range": "3,006 m",
+    "Ammo": 375,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Klaus & Werner"
+  },
+  {
+    "Name": "CF-557 Galdereen Repeater",
+    "Size": 5,
+    "Type": "Laser Repeater",
+    "Damage": "98.19 🗡️",
+    "Range": "3,294 m",
+    "Ammo": 374,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Klaus & Werner"
+  },
+  {
+    "Name": "CF-667 Mammoth Repeater",
+    "Size": 6,
+    "Type": "Laser Repeater",
+    "Damage": "147.33 🗡️",
+    "Range": "3,600 m",
+    "Ammo": 374,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Klaus & Werner"
+  },
+  {
+    "Name": "Condemnation Distortion Scattergun",
+    "Size": 6,
+    "Type": "Distortion Scattergun",
+    "Damage": "130 🗡️",
+    "Range": "1,400 m",
+    "Ammo": 10,
+    "Muzzle velocity": "700 m/s",
+    "Manufacturer": "Preacher Armament"
+  },
+  {
+    "Name": "Conqueror-7",
+    "Size": 7,
+    "Type": "Ballistic Cannon Turret",
+    "Damage": "6,750 🗡️",
+    "Range": "3,999.24 m",
+    "Ammo": 317,
+    "Muzzle velocity": "756 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "CVSA Cannon",
+    "Size": 2,
+    "Type": "Ballistic Cannon",
+    "Damage": "162 🗡️",
+    "Range": "2,310 m",
+    "Ammo": 350,
+    "Muzzle velocity": "1,320 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "Deadbolt I Cannon",
+    "Size": 1,
+    "Type": "Ballistic Cannon",
+    "Damage": "202.5 🗡️",
+    "Range": "1,998 m",
+    "Ammo": 217,
+    "Muzzle velocity": "900 m/s",
+    "Manufacturer": "Esperia"
+  },
+  {
+    "Name": "Deadbolt II Cannon",
+    "Size": 2,
+    "Type": "Ballistic Cannon",
+    "Damage": "303.3 🗡️",
+    "Range": "2,304 m",
+    "Ammo": 233,
+    "Muzzle velocity": "900 m/s",
+    "Manufacturer": "Esperia"
+  },
+  {
+    "Name": "Deadbolt III Cannon",
+    "Size": 3,
+    "Type": "Ballistic Cannon",
+    "Damage": "455.4 🗡️",
+    "Range": "2,601 m",
+    "Ammo": 250,
+    "Muzzle velocity": "900 m/s",
+    "Manufacturer": "Esperia"
+  },
+  {
+    "Name": "Deadbolt IV Cannon",
+    "Size": 4,
+    "Type": "Ballistic Cannon",
+    "Damage": "683.1 🗡️",
+    "Range": "2,998.08 m",
+    "Ammo": 267,
+    "Muzzle velocity": "864 m/s",
+    "Manufacturer": "Esperia"
+  },
+  {
+    "Name": "Deadbolt V Cannon",
+    "Size": 5,
+    "Type": "Ballistic Cannon",
+    "Damage": "1,024.2 🗡️",
+    "Range": "3,303.72 m",
+    "Ammo": 283,
+    "Muzzle velocity": "828 m/s",
+    "Manufacturer": "Esperia"
+  },
+  {
+    "Name": "Deadbolt VI Cannon",
+    "Size": 6,
+    "Type": "Ballistic Cannon",
+    "Damage": "1,537.2 🗡️",
+    "Range": "3,603.6 m",
+    "Ammo": 300,
+    "Muzzle velocity": "792 m/s",
+    "Manufacturer": "Esperia"
+  },
+  {
+    "Name": "Destroyer Mass Driver Cannon",
+    "Size": 10,
+    "Type": "Mass Driver Cannon",
+    "Damage": "144,160 🗡️",
+    "Range": "10,000 m",
+    "Ammo": 500,
+    "Muzzle velocity": "5,000 m/s",
+    "Manufacturer": "Klaus & Werner"
+  },
+  {
+    "Name": "Dominance-1 Scattergun",
+    "Size": 1,
+    "Type": "Laser Scattergun",
+    "Damage": "63 🗡️",
+    "Range": "2,000 m",
+    "Ammo": 160,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Dominance-2 Scattergun",
+    "Size": 2,
+    "Type": "Laser Scattergun",
+    "Damage": "99 🗡️",
+    "Range": "2,000 m",
+    "Ammo": 160,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Dominance-3 Scattergun",
+    "Size": 3,
+    "Type": "Laser Scattergun",
+    "Damage": "139.5 🗡️",
+    "Range": "2,000 m",
+    "Ammo": 160,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "DR Model-XJ1 Repeater",
+    "Size": 1,
+    "Type": "Distortion Repeater",
+    "Damage": "25.7 🗡️",
+    "Range": "2,000.284 m",
+    "Ammo": 175,
+    "Muzzle velocity": "1,300 m/s",
+    "Manufacturer": "Associated Sciences & Development"
+  },
+  {
+    "Name": "DR Model-XJ2 Repeater",
+    "Size": 2,
+    "Type": "Distortion Repeater",
+    "Damage": "38.5 🗡️",
+    "Range": "2,301.026 m",
+    "Ammo": 174,
+    "Muzzle velocity": "1,300 m/s",
+    "Manufacturer": "Associated Sciences & Development"
+  },
+  {
+    "Name": "DR Model-XJ3 Repeater",
+    "Size": 3,
+    "Type": "Distortion Repeater",
+    "Damage": "57.9 🗡️",
+    "Range": "2,594.774 m",
+    "Ammo": 174,
+    "Muzzle velocity": "1,300 m/s",
+    "Manufacturer": "Associated Sciences & Development"
+  },
+  {
+    "Name": "Draugar Gatling",
+    "Size": 6,
+    "Type": "Ballistic Gatling",
+    "Damage": "142.4 🗡️",
+    "Range": "3,600 m",
+    "Ammo": "2,800",
+    "Muzzle velocity": "1,200 m/s",
+    "Manufacturer": "Apocalypse Arms"
+  },
+  {
+    "Name": "EVSD Cannon",
+    "Size": 2,
+    "Type": "Distortion Cannon",
+    "Damage": "81 🗡️",
+    "Range": "2,301.026 m",
+    "Ammo": 75,
+    "Muzzle velocity": "1,300 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "Exodus-10 Laser Beam",
+    "Size": 10,
+    "Type": "Laser Beam",
+    "Damage": "0 🗡️",
+    "Range": "2,800 m",
+    "Ammo": 237,
+    "Muzzle velocity": "700 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "FL-11 Cannon",
+    "Size": 1,
+    "Type": "Laser Cannon",
+    "Damage": "49.248 🗡️",
+    "Range": "1,998 m",
+    "Ammo": 145,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Kroneg"
+  },
+  {
+    "Name": "FL-22 Cannon",
+    "Size": 2,
+    "Type": "Laser Cannon",
+    "Damage": "74.034 🗡️",
+    "Range": "2,304 m",
+    "Ammo": 145,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Kroneg"
+  },
+  {
+    "Name": "FL-33 Cannon",
+    "Size": 3,
+    "Type": "Laser Cannon",
+    "Damage": "110.808 🗡️",
+    "Range": "2,592 m",
+    "Ammo": 145,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Kroneg"
+  },
+  {
+    "Name": "GVSR Repeater",
+    "Size": 2,
+    "Type": "Laser Repeater",
+    "Damage": "99.72 🗡️",
+    "Range": "2,300 m",
+    "Ammo": 350,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "Havoc Scattergun",
+    "Size": 1,
+    "Type": "Ballistic Scattergun",
+    "Damage": "46.8 🗡️",
+    "Range": "2,000 m",
+    "Ammo": 80,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Apocalypse Arms"
+  },
+  {
+    "Name": "Havoc Scattergun Sharkmouth Edition",
+    "Size": 1,
+    "Type": "Ballistic Scattergun",
+    "Damage": "46.8 🗡️",
+    "Range": "2,000 m",
+    "Ammo": 80,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Apocalypse Arms"
+  },
+  {
+    "Name": "Hellion Scattergun",
+    "Size": 2,
+    "Type": "Ballistic Scattergun",
+    "Damage": "70 🗡️",
+    "Range": "2,000 m",
+    "Ammo": 90,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Apocalypse Arms"
+  },
+  {
+    "Name": "Lightstrike I Cannon",
+    "Size": 1,
+    "Type": "Laser Cannon",
+    "Damage": "49.248 🗡️",
+    "Range": "1,998 m",
+    "Ammo": 145,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Esperia"
+  },
+  {
+    "Name": "Lightstrike II Cannon",
+    "Size": 2,
+    "Type": "Laser Cannon",
+    "Damage": "74.034 🗡️",
+    "Range": "2,304 m",
+    "Ammo": 145,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Esperia"
+  },
+  {
+    "Name": "Lightstrike III Cannon",
+    "Size": 3,
+    "Type": "Laser Cannon",
+    "Damage": "110.808 🗡️",
+    "Range": "2,592 m",
+    "Ammo": 145,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Esperia"
+  },
+  {
+    "Name": "Lightstrike IV Cannon",
+    "Size": 4,
+    "Type": "Laser Cannon",
+    "Damage": "166.212 🗡️",
+    "Range": "3,006.72 m",
+    "Ammo": 145,
+    "Muzzle velocity": "1,728 m/s",
+    "Manufacturer": "Esperia"
+  },
+  {
+    "Name": "Lightstrike V Cannon",
+    "Size": 5,
+    "Type": "Laser Cannon",
+    "Damage": "248.67 🗡️",
+    "Range": "3,295.44 m",
+    "Ammo": 145,
+    "Muzzle velocity": "1,656 m/s",
+    "Manufacturer": "Esperia"
+  },
+  {
+    "Name": "Lightstrike VI Cannon",
+    "Size": 6,
+    "Type": "Laser Cannon",
+    "Damage": "374.139 🗡️",
+    "Range": "3,595.68 m",
+    "Ammo": 145,
+    "Muzzle velocity": "1,584 m/s",
+    "Manufacturer": "Esperia"
+  },
+  {
+    "Name": "M3A Cannon",
+    "Size": 1,
+    "Type": "Laser Cannon",
+    "Damage": "182.25 🗡️",
+    "Range": "2,000 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "M4A Cannon",
+    "Size": 2,
+    "Type": "Laser Cannon",
+    "Damage": "273.375 🗡️",
+    "Range": "2,300 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "M5A Cannon",
+    "Size": 3,
+    "Type": "Laser Cannon",
+    "Damage": "410.184 🗡️",
+    "Range": "2,600 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "M6A Cannon",
+    "Size": 4,
+    "Type": "Laser Cannon",
+    "Damage": "615.276 🗡️",
+    "Range": "3,004.8 m",
+    "Ammo": 100,
+    "Muzzle velocity": "960 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "M7A Cannon",
+    "Size": 5,
+    "Type": "Laser Cannon",
+    "Damage": "921.78 🗡️",
+    "Range": "3,302.8 m",
+    "Ammo": 100,
+    "Muzzle velocity": "920 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "M8A Cannon",
+    "Size": 6,
+    "Type": "Laser Cannon",
+    "Damage": "1,383.48 🗡️",
+    "Range": "3,599.2 m",
+    "Ammo": 100,
+    "Muzzle velocity": "880 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "M9A Cannon",
+    "Size": 7,
+    "Type": "Laser Cannon",
+    "Damage": "2,306.34 🗡️",
+    "Range": "3,999.24 m",
+    "Ammo": 317,
+    "Muzzle velocity": "756 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "Mantis GT-220 Gatling",
+    "Size": 3,
+    "Type": "Ballistic Gatling",
+    "Damage": "19 🗡️",
+    "Range": "2,608 m",
+    "Ammo": "2,133",
+    "Muzzle velocity": "1,600 m/s",
+    "Manufacturer": "Gallenson Tactical Systems"
+  },
+  {
+    "Name": "Maris Cannon",
+    "Size": 6,
+    "Type": "Ballistic Cannon",
+    "Damage": "3,400 🗡️",
+    "Range": "4,895 m",
+    "Ammo": 900,
+    "Muzzle velocity": "890 m/s",
+    "Manufacturer": "Roberts Space Industries"
+  },
+  {
+    "Name": "MVSA Cannon",
+    "Size": 2,
+    "Type": "Laser Cannon",
+    "Damage": "272.97 🗡️",
+    "Range": "2,301 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,300 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "NDB-26 Repeater",
+    "Size": 1,
+    "Type": "Neutron Repeater",
+    "Damage": "37.98 🗡️",
+    "Range": "2,002 m",
+    "Ammo": 333,
+    "Muzzle velocity": "1,400 m/s",
+    "Manufacturer": "MaxOx"
+  },
+  {
+    "Name": "NDB-28 Repeater",
+    "Size": 2,
+    "Type": "Neutron Repeater",
+    "Damage": "56.97 🗡️",
+    "Range": "2,296 m",
+    "Ammo": 333,
+    "Muzzle velocity": "1,400 m/s",
+    "Manufacturer": "MaxOx"
+  },
+  {
+    "Name": "NDB-30 Repeater",
+    "Size": 3,
+    "Type": "Neutron Repeater",
+    "Damage": "85.5 🗡️",
+    "Range": "2,604 m",
+    "Ammo": 333,
+    "Muzzle velocity": "1,400 m/s",
+    "Manufacturer": "MaxOx"
+  },
+  {
+    "Name": "NN-13 Cannon",
+    "Size": 1,
+    "Type": "Neutron Cannon",
+    "Damage": "97.2 🗡️",
+    "Range": "2,002 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,400 m/s",
+    "Manufacturer": "MaxOx"
+  },
+  {
+    "Name": "NN-14 Cannon",
+    "Size": 2,
+    "Type": "Neutron Cannon",
+    "Damage": "145.8 🗡️",
+    "Range": "2,296 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,400 m/s",
+    "Manufacturer": "MaxOx"
+  },
+  {
+    "Name": "NV57 Ballistic Gatling",
+    "Size": 5,
+    "Type": "Ballistic Gatling Gun",
+    "Damage": "162.5 🗡️",
+    "Range": "4,000 m",
+    "Ammo": "3,200",
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "Omnisky III Cannon",
+    "Size": 1,
+    "Type": "Laser Cannon",
+    "Damage": "97.2 🗡️",
+    "Range": "2,002 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,400 m/s",
+    "Manufacturer": "Amon & Reese Co."
+  },
+  {
+    "Name": "Omnisky IX Cannon",
+    "Size": 3,
+    "Type": "Laser Cannon",
+    "Damage": "218.7 🗡️",
+    "Range": "2,604 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,400 m/s",
+    "Manufacturer": "Amon & Reese Co."
+  },
+  {
+    "Name": "Omnisky VI Cannon",
+    "Size": 2,
+    "Type": "Laser Cannon",
+    "Damage": "145.8 🗡️",
+    "Range": "2,296 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,400 m/s",
+    "Manufacturer": "Amon & Reese Co."
+  },
+  {
+    "Name": "Omnisky XII Cannon",
+    "Size": 4,
+    "Type": "Laser Cannon",
+    "Damage": "327.888 🗡️",
+    "Range": "2,997.12 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,344 m/s",
+    "Manufacturer": "Amon & Reese Co."
+  },
+  {
+    "Name": "Omnisky XV Cannon",
+    "Size": 5,
+    "Type": "Laser Cannon",
+    "Damage": "492.156 🗡️",
+    "Range": "3,310.16 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,288 m/s",
+    "Manufacturer": "Amon & Reese Co."
+  },
+  {
+    "Name": "Omnisky XVIII Cannon",
+    "Size": 6,
+    "Type": "Laser Cannon",
+    "Damage": "738.396 🗡️",
+    "Range": "3,597.44 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,232 m/s",
+    "Manufacturer": "Amon & Reese Co."
+  },
+  {
+    "Name": "Predator Scattergun",
+    "Size": 3,
+    "Type": "Ballistic Scattergun",
+    "Damage": "105 🗡️",
+    "Range": "2,000 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Apocalypse Arms"
+  },
+  {
+    "Name": "PyroBurst Scattergun",
+    "Size": 3,
+    "Type": "Plasma Scattergun",
+    "Damage": "49.5 🗡️",
+    "Range": "2,400 m",
+    "Ammo": 35,
+    "Muzzle velocity": "1,200 m/s",
+    "Manufacturer": "Amon & Reese Co."
+  },
+  {
+    "Name": "Quarreler Cannon",
+    "Size": 3,
+    "Type": "Laser Cannon",
+    "Damage": "218.7 🗡️",
+    "Range": "2,604 m",
+    "Ammo": 100,
+    "Muzzle velocity": "1,400 m/s",
+    "Manufacturer": "Kruger Intergalactic"
+  },
+  {
+    "Name": "Reign-3 Repeater",
+    "Size": 3,
+    "Type": "Laser Repeater",
+    "Damage": "350 🗡️",
+    "Range": "5,000 m",
+    "Ammo": 346,
+    "Muzzle velocity": "1,000 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Revenant Gatling",
+    "Size": 4,
+    "Type": "Ballistic Gatling",
+    "Damage": "63.3 🗡️",
+    "Range": "3,000 m",
+    "Ammo": "2,000",
+    "Muzzle velocity": "1,200 m/s",
+    "Manufacturer": "Apocalypse Arms"
+  },
+  {
+    "Name": "Salvation Distortion Scattergun",
+    "Size": 4,
+    "Type": "Distortion Scattergun",
+    "Damage": "60 🗡️",
+    "Range": "1,400 m",
+    "Ammo": 10,
+    "Muzzle velocity": "700 m/s",
+    "Manufacturer": "Preacher Armament"
+  },
+  {
+    "Name": "Scorpion GT-215 Gatling",
+    "Size": 2,
+    "Type": "Ballistic Gatling",
+    "Damage": "12.7 🗡️",
+    "Range": "2,304 m",
+    "Ammo": "1,600",
+    "Muzzle velocity": "1,600 m/s",
+    "Manufacturer": "Gallenson Tactical Systems"
+  },
+  {
+    "Name": "SF7B Gatling",
+    "Size": 7,
+    "Type": "Ballistic Gatling",
+    "Damage": "292 🗡️",
+    "Range": "3,996 m",
+    "Ammo": "3,600",
+    "Muzzle velocity": "900 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "SF7E Cannon",
+    "Size": 7,
+    "Type": "Laser Cannon",
+    "Damage": "5,150 🗡️",
+    "Range": "3,999 m",
+    "Ammo": 106,
+    "Muzzle velocity": "860 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "Singe Cannon (S1)",
+    "Size": 1,
+    "Type": "Tachyon Cannon",
+    "Damage": "517.5 🗡️",
+    "Range": "1,050 m",
+    "Ammo": 3,
+    "Muzzle velocity": "3,000 m/s",
+    "Manufacturer": "Banu Souli"
+  },
+  {
+    "Name": "Singe Cannon (S2)",
+    "Size": 2,
+    "Type": "Tachyon Cannon",
+    "Damage": "942.5 🗡️",
+    "Range": "1,200 m",
+    "Ammo": 3,
+    "Muzzle velocity": "3,000 m/s",
+    "Manufacturer": "Banu Souli"
+  },
+  {
+    "Name": "Singe Cannon (S3)",
+    "Size": 3,
+    "Type": "Tachyon Cannon",
+    "Damage": "1,707.5 🗡️",
+    "Range": "1,500 m",
+    "Ammo": 3,
+    "Muzzle velocity": "3,000 m/s",
+    "Manufacturer": "Banu Souli"
+  },
+  {
+    "Name": "Slayer Cannon",
+    "Size": 5,
+    "Type": "Ballistic Cannon",
+    "Damage": "32,000 🗡️",
+    "Range": "6,147.6 m",
+    "Ammo": 60,
+    "Muzzle velocity": "564 m/s",
+    "Manufacturer": "Hurston Dynamics"
+  },
+  {
+    "Name": "Sledge I Mass Driver Cannon",
+    "Size": 1,
+    "Type": "Mass Driver Cannon",
+    "Damage": "225 🗡️",
+    "Range": "1,050 m",
+    "Ammo": 70,
+    "Muzzle velocity": "3,000 m/s",
+    "Manufacturer": "Klaus & Werner"
+  },
+  {
+    "Name": "Sledge II Mass Driver Cannon",
+    "Size": 2,
+    "Type": "Mass Driver Cannon",
+    "Damage": "525 🗡️",
+    "Range": "1,200 m",
+    "Ammo": 70,
+    "Muzzle velocity": "3,000 m/s",
+    "Manufacturer": "Klaus & Werner"
+  },
+  {
+    "Name": "Sledge III Mass Driver Cannon",
+    "Size": 3,
+    "Type": "Mass Driver Cannon",
+    "Damage": "1,125 🗡️",
+    "Range": "1,500 m",
+    "Ammo": 70,
+    "Muzzle velocity": "3,000 m/s",
+    "Manufacturer": "Klaus & Werner"
+  },
+  {
+    "Name": "Strife Mass Driver Cannon",
+    "Size": 2,
+    "Type": "Mass Driver Cannon",
+    "Damage": "525 🗡️",
+    "Range": "5,500 m",
+    "Ammo": 80,
+    "Muzzle velocity": "5,000 m/s",
+    "Manufacturer": "Apocalypse Arms"
+  },
+  {
+    "Name": "Suckerpunch Cannon",
+    "Size": 1,
+    "Type": "Distortion Cannon",
+    "Damage": "81 🗡️",
+    "Range": "2,000.284 m",
+    "Ammo": 50,
+    "Muzzle velocity": "1,300 m/s",
+    "Manufacturer": "Joker Engineering"
+  },
+  {
+    "Name": "Suckerpunch-L Cannon",
+    "Size": 2,
+    "Type": "Distortion Cannon",
+    "Damage": "121.5 🗡️",
+    "Range": "2,301.026 m",
+    "Ammo": 50,
+    "Muzzle velocity": "1,300 m/s",
+    "Manufacturer": "Joker Engineering"
+  },
+  {
+    "Name": "Suckerpunch-XL Cannon",
+    "Size": 3,
+    "Type": "Distortion Cannon",
+    "Damage": "182.52 🗡️",
+    "Range": "2,594.774 m",
+    "Ammo": 50,
+    "Muzzle velocity": "1,300 m/s",
+    "Manufacturer": "Joker Engineering"
+  },
+  {
+    "Name": "SureGrip TH2 Tractor Beam",
+    "Size": 2,
+    "Type": "Tractor Beam",
+    "Damage": "",
+    "Range": "",
+    "Ammo": "",
+    "Muzzle velocity": "",
+    "Manufacturer": "Greycat Industrial"
+  },
+  {
+    "Name": "SW16BR1 \"Buzzsaw\" Repeater",
+    "Size": 1,
+    "Type": "Ballistic Repeater",
+    "Damage": "36 🗡️",
+    "Range": "2,004 m",
+    "Ammo": 833,
+    "Muzzle velocity": "1,200 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "SW16BR2 \"Sawbuck\" Repeater",
+    "Size": 2,
+    "Type": "Ballistic Repeater",
+    "Damage": "54 🗡️",
+    "Range": "2,304 m",
+    "Ammo": "1,000",
+    "Muzzle velocity": "1,200 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "SW16BR3 \"Shredder\" Repeater",
+    "Size": 3,
+    "Type": "Ballistic Repeater",
+    "Damage": "81 🗡️",
+    "Range": "2,604 m",
+    "Ammo": "1,167",
+    "Muzzle velocity": "1,200 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "Tarantula GT-870 Mark 1 Cannon",
+    "Size": 1,
+    "Type": "Ballistic Cannon",
+    "Damage": "60.75 🗡️",
+    "Range": "2,000 m",
+    "Ammo": 433,
+    "Muzzle velocity": "1,600 m/s",
+    "Manufacturer": "Gallenson Tactical Systems"
+  },
+  {
+    "Name": "Tarantula GT-870 Mark 2 Cannon",
+    "Size": 2,
+    "Type": "Ballistic Cannon",
+    "Damage": "91.26 🗡️",
+    "Range": "2,304 m",
+    "Ammo": 467,
+    "Muzzle velocity": "1,600 m/s",
+    "Manufacturer": "Gallenson Tactical Systems"
+  },
+  {
+    "Name": "Tarantula GT-870 Mark 3 Cannon",
+    "Size": 3,
+    "Type": "Ballistic Cannon",
+    "Damage": "136.62 🗡️",
+    "Range": "2,608 m",
+    "Ammo": 500,
+    "Muzzle velocity": "1,600 m/s",
+    "Manufacturer": "Gallenson Tactical Systems"
+  },
+  {
+    "Name": "Tigerstrike T-19P",
+    "Size": 2,
+    "Type": "Ballistic Gatling",
+    "Damage": "",
+    "Range": "",
+    "Ammo": "",
+    "Muzzle velocity": "",
+    "Manufacturer": "Kruger Intergalactic"
+  },
+  {
+    "Name": "Tigerstrike T-21 Gatling",
+    "Size": 3,
+    "Type": "Ballistic Gatling",
+    "Damage": "33.8 🗡️",
+    "Range": "2,604 m",
+    "Ammo": "1,600",
+    "Muzzle velocity": "1,200 m/s",
+    "Manufacturer": "Kruger Intergalactic"
+  },
+  {
+    "Name": "TMSB-5 Gatling",
+    "Size": 4,
+    "Type": "Ballistic Gatling (x2)",
+    "Damage": "52.7 🗡️",
+    "Range": "2,835 m",
+    "Ammo": "1,750",
+    "Muzzle velocity": "1,050 m/s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "YellowJacket GT-210 Gatling",
+    "Size": 1,
+    "Type": "Ballistic Gatling",
+    "Damage": "7.56 🗡️",
+    "Range": "2,000 m",
+    "Ammo": "1,067",
+    "Muzzle velocity": "1,600 m/s",
+    "Manufacturer": "Gallenson Tactical Systems"
+  },
+  {
+    "Name": "Yeng'tu Repeater",
+    "Size": 3,
+    "Type": "Laser Repeater",
+    "Damage": "36.45 🗡️",
+    "Range": "2,592 m",
+    "Ammo": 374,
+    "Muzzle velocity": "1,800 m/s",
+    "Manufacturer": "Torral Aggregate"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "Name": "BoreMax",
+    "Size": 2,
+    "Type": "Mining Gadget",
+    "Class": "",
+    "Ammo": "",
+    "Manufacturer": "Thermyte Concern",
+    "Base variant": true
+  },
+  {
+    "Name": "Cambio SRT",
+    "Size": 2,
+    "Type": "Utility",
+    "Class": "Gadget",
+    "Ammo": 50,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": true
+  },
+  {
+    "Name": "Industrial Cutting Tool",
+    "Size": "",
+    "Type": "",
+    "Class": "",
+    "Ammo": "",
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": ""
+  },
+  {
+    "Name": "MaxLift Tractor Beam",
+    "Size": 2,
+    "Type": "Tractor Beam",
+    "Class": "Gadget",
+    "Ammo": 60,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": true
+  },
+  {
+    "Name": "Okunis",
+    "Size": 2,
+    "Type": "Mining Gadget",
+    "Class": "",
+    "Ammo": "",
+    "Manufacturer": "Shubin Interstellar",
+    "Base variant": true
+  },
+  {
+    "Name": "OptiMax",
+    "Size": 2,
+    "Type": "Mining Gadget",
+    "Class": "",
+    "Ammo": "",
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": true
+  },
+  {
+    "Name": "Pyro RYT \"ArcCorp\" Multi-Tool",
+    "Size": 1,
+    "Type": "Utility",
+    "Class": "Gadget",
+    "Ammo": 100,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": false
+  },
+  {
+    "Name": "Pyro RYT \"Black Cherry\" Multi-Tool",
+    "Size": 1,
+    "Type": "Utility",
+    "Class": "Gadget",
+    "Ammo": 100,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": false
+  },
+  {
+    "Name": "Pyro RYT \"Bloodline\" Multi-Tool",
+    "Size": 1,
+    "Type": "Utility",
+    "Class": "Gadget",
+    "Ammo": 100,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": false
+  },
+  {
+    "Name": "Pyro RYT \"Crusader\" Multi-Tool",
+    "Size": 1,
+    "Type": "Utility",
+    "Class": "Gadget",
+    "Ammo": 100,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": false
+  },
+  {
+    "Name": "Pyro RYT \"Ghost\" Multi-Tool",
+    "Size": 1,
+    "Type": "Utility",
+    "Class": "Gadget",
+    "Ammo": 100,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": false
+  },
+  {
+    "Name": "Pyro RYT \"Harvester\" Multi-Tool",
+    "Size": 1,
+    "Type": "Utility",
+    "Class": "Gadget",
+    "Ammo": 100,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": false
+  },
+  {
+    "Name": "Pyro RYT \"Hurston\" Multi-Tool",
+    "Size": 1,
+    "Type": "Utility",
+    "Class": "Gadget",
+    "Ammo": 100,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": false
+  },
+  {
+    "Name": "Pyro RYT \"microTech\" Multi-Tool",
+    "Size": 1,
+    "Type": "Utility",
+    "Class": "Gadget",
+    "Ammo": 100,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": false
+  },
+  {
+    "Name": "Pyro RYT \"Mirage\" Multi-Tool",
+    "Size": 1,
+    "Type": "Utility",
+    "Class": "Gadget",
+    "Ammo": 100,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": false
+  },
+  {
+    "Name": "Pyro RYT \"Quicksilver\" Multi-Tool",
+    "Size": 1,
+    "Type": "Utility",
+    "Class": "Gadget",
+    "Ammo": 100,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": false
+  },
+  {
+    "Name": "Pyro RYT Multi-Tool",
+    "Size": 1,
+    "Type": "Utility",
+    "Class": "Gadget",
+    "Ammo": 100,
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": true
+  },
+  {
+    "Name": "Sabir",
+    "Size": 2,
+    "Type": "Mining Gadget",
+    "Class": "",
+    "Ammo": "",
+    "Manufacturer": "Shubin Interstellar",
+    "Base variant": true
+  },
+  {
+    "Name": "Stalwart",
+    "Size": 2,
+    "Type": "Mining Gadget",
+    "Class": "",
+    "Ammo": "",
+    "Manufacturer": "Thermyte Concern",
+    "Base variant": true
+  },
+  {
+    "Name": "WaveShift",
+    "Size": 2,
+    "Type": "Mining Gadget",
+    "Class": "",
+    "Ammo": "",
+    "Manufacturer": "Greycat Industrial",
+    "Base variant": true
+  }
+]

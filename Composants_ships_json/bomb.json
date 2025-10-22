@@ -1,0 +1,35 @@
+[
+  {
+    "Name": "Colossus Bomb",
+    "Size": 10,
+    "Physical": "",
+    "Energy": "",
+    "Min radius": "",
+    "Max radius": "",
+    "Arm time": "",
+    "Ignite time": "",
+    "Manufacturer": "FireStorm Kinetics"
+  },
+  {
+    "Name": "Stormburst Bomb",
+    "Size": 5,
+    "Physical": "",
+    "Energy": "",
+    "Min radius": "",
+    "Max radius": "",
+    "Arm time": "",
+    "Ignite time": "",
+    "Manufacturer": "FireStorm Kinetics"
+  },
+  {
+    "Name": "Thunderball Bomb",
+    "Size": 3,
+    "Physical": "",
+    "Energy": "",
+    "Min radius": "",
+    "Max radius": "",
+    "Arm time": "",
+    "Ignite time": "",
+    "Manufacturer": "FireStorm Kinetics"
+  }
+]

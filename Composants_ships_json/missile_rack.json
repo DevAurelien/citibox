@@ -1,0 +1,177 @@
+[
+  {
+    "Name": "HMF-T12 \"Hammerfall\" Torpedo Launcher",
+    "Size": 10,
+    "Port count": 20,
+    "Port size": 12,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "IFR-532 Missile Rack",
+    "Size": 5,
+    "Port count": 16,
+    "Port size": 3,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "IFR-810 Missile Rack",
+    "Size": 8,
+    "Port count": 10,
+    "Port size": 5,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-111 Missile Rack",
+    "Size": 1,
+    "Port count": 1,
+    "Port size": 1,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-212 Missile Rack",
+    "Size": 2,
+    "Port count": 1,
+    "Port size": 2,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-221 Missile Rack",
+    "Size": 2,
+    "Port count": 2,
+    "Port size": 1,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-313 Missile Rack",
+    "Size": 3,
+    "Port count": 1,
+    "Port size": 3,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-322 Missile Rack",
+    "Size": 3,
+    "Port count": 2,
+    "Port size": 2,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-341 Missile Rack",
+    "Size": 3,
+    "Port count": 4,
+    "Port size": 1,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-414 Missile Rack",
+    "Size": 4,
+    "Port count": 1,
+    "Port size": 4,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-423 Missile Rack",
+    "Size": 4,
+    "Port count": 2,
+    "Port size": 3,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-442 Missile Rack",
+    "Size": 4,
+    "Port count": 4,
+    "Port size": 2,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-481 Missile Rack",
+    "Size": 4,
+    "Port count": 8,
+    "Port size": 1,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-515 Missile Rack",
+    "Size": 5,
+    "Port count": 1,
+    "Port size": 5,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-524 Missile Rack",
+    "Size": 5,
+    "Port count": 2,
+    "Port size": 4,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-543 Missile Rack",
+    "Size": 5,
+    "Port count": 4,
+    "Port size": 3,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-582 Missile Rack",
+    "Size": 5,
+    "Port count": 8,
+    "Port size": 2,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-616 Missile Rack",
+    "Size": 6,
+    "Port count": 1,
+    "Port size": 6,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-625 Missile Rack",
+    "Size": 6,
+    "Port count": 2,
+    "Port size": 5,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-644 Missile Rack",
+    "Size": 6,
+    "Port count": 4,
+    "Port size": 4,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "MSD-683 Missile Rack",
+    "Size": 6,
+    "Port count": 8,
+    "Port size": 3,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "SNT-171 Missile Rack",
+    "Size": 2,
+    "Port count": 8,
+    "Port size": 1,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "SNT-205 Missile Rack",
+    "Size": 4,
+    "Port count": 8,
+    "Port size": 2,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "SNT-481 Missile Rack",
+    "Size": 4,
+    "Port count": 8,
+    "Port size": 2,
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "SNT-543 Missile Rack",
+    "Size": 5,
+    "Port count": 4,
+    "Port size": 3,
+    "Manufacturer": "Behring Applied Technology"
+  }
+]

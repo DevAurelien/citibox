@@ -1,0 +1,189 @@
+[
+  {
+    "Name": "Arbor MH1 Mining Laser",
+    "Mining laser power": "189 - 1890",
+    "Extraction laser power": "1,850",
+    "Optimal range": "60 m",
+    "Maximum range": "180 m",
+    "Resistance": "25 %",
+    "Inert materials": "",
+    "Optimal charge window": "40 %",
+    "Manufacturer": "Greycat Industrial"
+  },
+  {
+    "Name": "Arbor MH2 Mining Laser",
+    "Mining laser power": "480 - 2400",
+    "Extraction laser power": "2,590",
+    "Optimal range": "90 m",
+    "Maximum range": "270 m",
+    "Resistance": "25 %",
+    "Inert materials": "",
+    "Optimal charge window": "40 %",
+    "Manufacturer": "Greycat Industrial"
+  },
+  {
+    "Name": "Arbor MHV Mining Laser",
+    "Mining laser power": "",
+    "Extraction laser power": "",
+    "Optimal range": "15 m",
+    "Maximum range": "20 m",
+    "Resistance": "",
+    "Inert materials": "",
+    "Optimal charge window": "",
+    "Manufacturer": "Greycat Industrial"
+  },
+  {
+    "Name": "Helix I Mining Laser",
+    "Mining laser power": "630 - 3150",
+    "Extraction laser power": "1,850",
+    "Optimal range": "15 m",
+    "Maximum range": "45 m",
+    "Resistance": "-30 %",
+    "Inert materials": "",
+    "Optimal charge window": "-40 %",
+    "Manufacturer": "Thermyte Concern"
+  },
+  {
+    "Name": "Helix II Mining Laser",
+    "Mining laser power": "1020 - 4080",
+    "Extraction laser power": "2,590",
+    "Optimal range": "30 m",
+    "Maximum range": "90 m",
+    "Resistance": "-30 %",
+    "Inert materials": "",
+    "Optimal charge window": "-40 %",
+    "Manufacturer": "Thermyte Concern"
+  },
+  {
+    "Name": "Hofstede-S1 Mining Laser",
+    "Mining laser power": "105 - 2100",
+    "Extraction laser power": "1,295",
+    "Optimal range": "45 m",
+    "Maximum range": "135 m",
+    "Resistance": "-30 %",
+    "Inert materials": "",
+    "Optimal charge window": "",
+    "Manufacturer": "Shubin Interstellar"
+  },
+  {
+    "Name": "Hofstede-S2 Mining Laser",
+    "Mining laser power": "336 - 3360",
+    "Extraction laser power": "1,295",
+    "Optimal range": "60 m",
+    "Maximum range": "180 m",
+    "Resistance": "-30 %",
+    "Inert materials": "",
+    "Optimal charge window": "",
+    "Manufacturer": "Shubin Interstellar"
+  },
+  {
+    "Name": "Impact I Mining Laser",
+    "Mining laser power": "420 - 2100",
+    "Extraction laser power": "2,775",
+    "Optimal range": "45 m",
+    "Maximum range": "135 m",
+    "Resistance": "10 %",
+    "Inert materials": "",
+    "Optimal charge window": "20 %",
+    "Manufacturer": "Thermyte Concern"
+  },
+  {
+    "Name": "Impact II Mining Laser",
+    "Mining laser power": "840 - 3360",
+    "Extraction laser power": "3,145",
+    "Optimal range": "60 m",
+    "Maximum range": "180 m",
+    "Resistance": "10 %",
+    "Inert materials": "",
+    "Optimal charge window": "20 %",
+    "Manufacturer": "Thermyte Concern"
+  },
+  {
+    "Name": "Klein-S1 Mining Laser",
+    "Mining laser power": "378 - 2220",
+    "Extraction laser power": "2,220",
+    "Optimal range": "45 m",
+    "Maximum range": "135 m",
+    "Resistance": "-45 %",
+    "Inert materials": "",
+    "Optimal charge window": "20 %",
+    "Manufacturer": "Shubin Interstellar"
+  },
+  {
+    "Name": "Klein-S2 Mining Laser",
+    "Mining laser power": "720 - 3600",
+    "Extraction laser power": "2,775",
+    "Optimal range": "60 m",
+    "Maximum range": "180 m",
+    "Resistance": "-45 %",
+    "Inert materials": "",
+    "Optimal charge window": "20 %",
+    "Manufacturer": "Shubin Interstellar"
+  },
+  {
+    "Name": "Lancet MH1 Mining Laser",
+    "Mining laser power": "504 - 2520",
+    "Extraction laser power": "1,850",
+    "Optimal range": "30 m",
+    "Maximum range": "90 m",
+    "Resistance": "",
+    "Inert materials": "",
+    "Optimal charge window": "-60 %",
+    "Manufacturer": "Greycat Industrial"
+  },
+  {
+    "Name": "Lancet MH2 Mining Laser",
+    "Mining laser power": "900 - 3600",
+    "Extraction laser power": "2,590",
+    "Optimal range": "45 m",
+    "Maximum range": "135 m",
+    "Resistance": "",
+    "Inert materials": "",
+    "Optimal charge window": "-60 %",
+    "Manufacturer": "Greycat Industrial"
+  },
+  {
+    "Name": "Lawson Mining Laser",
+    "Mining laser power": "",
+    "Extraction laser power": "",
+    "Optimal range": "25 m",
+    "Maximum range": "25 m",
+    "Resistance": "",
+    "Inert materials": "",
+    "Optimal charge window": "",
+    "Manufacturer": "Shubin Interstellar"
+  },
+  {
+    "Name": "Pitman Mining Laser",
+    "Mining laser power": 3150,
+    "Extraction laser power": "",
+    "Optimal range": "40 m",
+    "Maximum range": "45 m",
+    "Resistance": "",
+    "Inert materials": "",
+    "Optimal charge window": "",
+    "Manufacturer": "Drake Interplanetary"
+  },
+  {
+    "Name": "S0 Helix",
+    "Mining laser power": "",
+    "Extraction laser power": "",
+    "Optimal range": "",
+    "Maximum range": "",
+    "Resistance": "",
+    "Inert materials": "",
+    "Optimal charge window": "",
+    "Manufacturer": "Thermyte Concern"
+  },
+  {
+    "Name": "S00 Hofstede",
+    "Mining laser power": "",
+    "Extraction laser power": "",
+    "Optimal range": "",
+    "Maximum range": "",
+    "Resistance": "",
+    "Inert materials": "",
+    "Optimal charge window": "",
+    "Manufacturer": "Shubin Interstellar"
+  }
+]

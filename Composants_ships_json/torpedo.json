@@ -1,0 +1,164 @@
+[
+  {
+    "Name": "Argos IX Torpedo",
+    "Size": 9,
+    "Physical damage": "395,620.4 🗡️",
+    "Energy damage": "395,620.4 🗡️",
+    "Tracking signal": "Cross Section",
+    "Lock time": "5 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Calamity XII-CS Torpedo",
+    "Size": 12,
+    "Physical damage": "1,230,000 🗡️",
+    "Energy damage": "",
+    "Tracking signal": "Cross Section",
+    "Lock time": "10 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Calamity XII-IR Torpedo",
+    "Size": 12,
+    "Physical damage": "1,230,000 🗡️",
+    "Energy damage": "",
+    "Tracking signal": "Electromagnetic",
+    "Lock time": "10 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "EX-T10-CS \"Executor\" Torpedo",
+    "Size": 10,
+    "Physical damage": "610,000 🗡️",
+    "Energy damage": "",
+    "Tracking signal": "Cross Section",
+    "Lock time": "7 s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "EX-T10-EM \"Executor\" Torpedo",
+    "Size": 10,
+    "Physical damage": "610,000 🗡️",
+    "Energy damage": "",
+    "Tracking signal": "Electromagnetic",
+    "Lock time": "7 s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "EX-T10-IR \"Executor\" Torpedo",
+    "Size": 10,
+    "Physical damage": "610,000 🗡️",
+    "Energy damage": "",
+    "Tracking signal": "Infrared",
+    "Lock time": "7 s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "EX-T12-CS \"Executor\" Torpedo",
+    "Size": 12,
+    "Physical damage": "910,000 🗡️",
+    "Energy damage": "",
+    "Tracking signal": "Cross Section",
+    "Lock time": "10 s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "EX-T12-EM \"Executor\" Torpedo",
+    "Size": 12,
+    "Physical damage": "910,000 🗡️",
+    "Energy damage": "",
+    "Tracking signal": "Electromagnetic",
+    "Lock time": "10 s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "EX-T12-IR \"Executor\" Torpedo",
+    "Size": 12,
+    "Physical damage": "910,000 🗡️",
+    "Energy damage": "",
+    "Tracking signal": "Infared",
+    "Lock time": "10 s",
+    "Manufacturer": "Behring Applied Technology"
+  },
+  {
+    "Name": "Reaper V Missile",
+    "Size": 5,
+    "Physical damage": "14,838.21 🗡️",
+    "Energy damage": "14,838.21 🗡️",
+    "Tracking signal": "Electromagnetic",
+    "Lock time": "1 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Seeker IX Torpedo",
+    "Size": 9,
+    "Physical damage": "425,676.8 🗡️",
+    "Energy damage": "425,676.8 🗡️",
+    "Tracking signal": "Electromagnetic",
+    "Lock time": "5 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Stalker V Missile",
+    "Size": 5,
+    "Physical damage": "17,091.71 🗡️",
+    "Energy damage": "17,091.71 🗡️",
+    "Tracking signal": "Cross Section",
+    "Lock time": "1 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Typhoon IX Torpedo",
+    "Size": 9,
+    "Physical damage": "407,676.7 🗡️",
+    "Energy damage": "407,676.7 🗡️",
+    "Tracking signal": "Infrared",
+    "Lock time": "5 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Valkyrie V Missile",
+    "Size": 5,
+    "Physical damage": "15,464.96 🗡️",
+    "Energy damage": "15,464.96 🗡️",
+    "Tracking signal": "Infrared",
+    "Lock time": "1 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Vanquisher X-CS Torpedo",
+    "Size": 10,
+    "Physical damage": "805,000 🗡️",
+    "Energy damage": "",
+    "Tracking signal": "Cross Section",
+    "Lock time": "7 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Vanquisher X-EM Torpedo",
+    "Size": 10,
+    "Physical damage": "805,000 🗡️",
+    "Energy damage": "",
+    "Tracking signal": "Electromagnetic",
+    "Lock time": "7 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "Vanquisher X-IR Torpedo",
+    "Size": 10,
+    "Physical damage": "805,000 🗡️",
+    "Energy damage": "",
+    "Tracking signal": "Infrared",
+    "Lock time": "7 s",
+    "Manufacturer": "Talon Weapons Systems"
+  },
+  {
+    "Name": "VT-T10 \"Veritas\" Torpedo",
+    "Size": 10,
+    "Physical damage": "750,000 🗡️",
+    "Energy damage": "",
+    "Tracking signal": "Infrared",
+    "Lock time": "7 s",
+    "Manufacturer": "Behring Applied Technology"
+  }
+]

@@ -1,0 +1,46 @@
+[
+  {
+    "Name": "Burke QD",
+    "Size": 1,
+    "Grade": "A",
+    "Jammer range": "4,000 m",
+    "Interdiction range": "1 m",
+    "Charge": "90 s",
+    "Cooldown": "1 s",
+    "Duration": "30 s",
+    "Manufacturer": "Wei-Tek"
+  },
+  {
+    "Name": "Captor QD",
+    "Size": 3,
+    "Grade": "",
+    "Jammer range": "4,500 m",
+    "Interdiction range": "1 m",
+    "Charge": "90 s",
+    "Cooldown": "1 s",
+    "Duration": "30 s",
+    "Manufacturer": "Roberts Space Industries"
+  },
+  {
+    "Name": "Reynie QED",
+    "Size": 1,
+    "Grade": "C",
+    "Jammer range": "12,000 m",
+    "Interdiction range": "20,000 m",
+    "Charge": "90 s",
+    "Cooldown": "1 s",
+    "Duration": "30 s",
+    "Manufacturer": "Wei-Tek"
+  },
+  {
+    "Name": "Tidelock QD",
+    "Size": 3,
+    "Grade": "",
+    "Jammer range": "5,000 m",
+    "Interdiction range": "1 m",
+    "Charge": "90 s",
+    "Cooldown": "1 s",
+    "Duration": "30 s",
+    "Manufacturer": "Roberts Space Industries"
+  }
+]

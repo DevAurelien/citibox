@@ -1,0 +1,198 @@
+[
+  {
+    "Name": "Backlund",
+    "Size": "",
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "WillsOp"
+  },
+  {
+    "Name": "Battani",
+    "Size": "",
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "WillsOp"
+  },
+  {
+    "Name": "BroadSpec",
+    "Size": "",
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "Chimera Communications"
+  },
+  {
+    "Name": "Broadspec-Lite",
+    "Size": 2,
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "Chimera Communications"
+  },
+  {
+    "Name": "Capston",
+    "Size": 1,
+    "Class": "Civilian",
+    "Grade": "C",
+    "Manufacturer": "WillsOp"
+  },
+  {
+    "Name": "Chernykh",
+    "Size": 2,
+    "Class": "Civilian",
+    "Grade": "C",
+    "Manufacturer": "WillsOp"
+  },
+  {
+    "Name": "Denning",
+    "Size": 0,
+    "Class": "Civilian",
+    "Grade": "C",
+    "Manufacturer": "WillsOp"
+  },
+  {
+    "Name": "Ecouter",
+    "Size": 1,
+    "Class": "Military",
+    "Grade": "C",
+    "Manufacturer": "Groupe Nouveau Paradigme"
+  },
+  {
+    "Name": "Epier",
+    "Size": 2,
+    "Class": "Military",
+    "Grade": "C",
+    "Manufacturer": "Groupe Nouveau Paradigme"
+  },
+  {
+    "Name": "Fawad",
+    "Size": "",
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "WillsOp"
+  },
+  {
+    "Name": "Fleming",
+    "Size": 1,
+    "Class": "Civilian",
+    "Grade": "D",
+    "Manufacturer": "WillsOp"
+  },
+  {
+    "Name": "FullSpec",
+    "Size": "",
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "Chimera Communications"
+  },
+  {
+    "Name": "Hunter (radar)",
+    "Size": 1,
+    "Class": "Stealth",
+    "Grade": "B",
+    "Manufacturer": "Blue Triangle Inc."
+  },
+  {
+    "Name": "Lephari",
+    "Size": 3,
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "WillsOp"
+  },
+  {
+    "Name": "Observer-Lite",
+    "Size": 1,
+    "Class": "Industrial",
+    "Grade": "D",
+    "Manufacturer": "Chimera Communications"
+  },
+  {
+    "Name": "Pelerous",
+    "Size": 1,
+    "Class": "Stealth",
+    "Grade": "C",
+    "Manufacturer": "Blue Triangle Inc."
+  },
+  {
+    "Name": "Prevenir",
+    "Size": 0,
+    "Class": "Military",
+    "Grade": "C",
+    "Manufacturer": "Groupe Nouveau Paradigme"
+  },
+  {
+    "Name": "Prophet",
+    "Size": "",
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "Blue Triangle Inc."
+  },
+  {
+    "Name": "Sens",
+    "Size": 0,
+    "Class": "Military",
+    "Grade": "B",
+    "Manufacturer": "Groupe Nouveau Paradigme"
+  },
+  {
+    "Name": "SNS-R6",
+    "Size": 1,
+    "Class": "Competition",
+    "Grade": "C",
+    "Manufacturer": "Nav-E7 Gadgets"
+  },
+  {
+    "Name": "Surveyor",
+    "Size": 2,
+    "Class": "Industrial",
+    "Grade": "C",
+    "Manufacturer": "Chimera Communications"
+  },
+  {
+    "Name": "Surveyor-Go",
+    "Size": 0,
+    "Class": "Industrial",
+    "Grade": "C",
+    "Manufacturer": "Chimera Communications"
+  },
+  {
+    "Name": "Surveyor-Lite",
+    "Size": 1,
+    "Class": "Industrial",
+    "Grade": "C",
+    "Manufacturer": "Chimera Communications"
+  },
+  {
+    "Name": "Tige",
+    "Size": "",
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "Groupe Nouveau Paradigme"
+  },
+  {
+    "Name": "V801-12",
+    "Size": "",
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "Groupe Nouveau Paradigme"
+  },
+  {
+    "Name": "Vigilance",
+    "Size": "",
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "Groupe Nouveau Paradigme"
+  },
+  {
+    "Name": "Vogel",
+    "Size": "",
+    "Class": "",
+    "Grade": "",
+    "Manufacturer": "WillsOp"
+  },
+  {
+    "Name": "Voir",
+    "Size": 1,
+    "Class": "Military",
+    "Grade": "D",
+    "Manufacturer": "Groupe Nouveau Paradigme"
+  }
+]

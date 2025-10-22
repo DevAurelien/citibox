@@ -1,0 +1,72 @@
+[
+  {
+    "Name": "AdrenaPen (Demexatrine)",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  },
+  {
+    "Name": "AdrenaPen Xtra",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  },
+  {
+    "Name": "BoostPen (Modamphetamine)",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  },
+  {
+    "Name": "BoostPen Xtra",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  },
+  {
+    "Name": "CorticoPen (Sterogen)",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  },
+  {
+    "Name": "CorticoPen Xtra",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  },
+  {
+    "Name": "DeconPen (Canoiodide)",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  },
+  {
+    "Name": "DeconPen Xtra",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  },
+  {
+    "Name": "DetoxPen (Resurgera)",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  },
+  {
+    "Name": "Drema Injector",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "Roussimoff Rehabilitation Systems"
+  },
+  {
+    "Name": "MedPen (Hemozal)",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  },
+  {
+    "Name": "OpioPen (Roxaphen)",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  },
+  {
+    "Name": "OxyPen",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  },
+  {
+    "Name": "VitalityPen",
+    "Occupancy": "180 µSCU",
+    "Manufacturer": "CureLife"
+  }
+]
