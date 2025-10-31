@@ -10,3 +10,25 @@ html {
   height: 100%;
   width: 100%;
 }
+.scrollbar-dark::-webkit-scrollbar {
+  width: 8px;
+}
+
+.scrollbar-dark::-webkit-scrollbar-track {
+  background: #1f2937; /* gris-900 Tailwind */
+}
+
+.scrollbar-dark::-webkit-scrollbar-thumb {
+  background-color: #4b5563; /* gris-700 Tailwind */
+  border-radius: 9999px;
+  border: 2px solid #1f2937; 
+}
+
+.scrollbar-dark::-webkit-scrollbar-thumb:hover {
+  background-color: #6b7280; /* gris-500 Tailwind */
+}
+
+.scrollbar-dark {
+  scrollbar-width: thin;
+  scrollbar-color: #4b5563 #1f2937;
+}
