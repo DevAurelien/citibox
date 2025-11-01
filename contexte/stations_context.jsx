@@ -5,9 +5,10 @@ const StationsContext = createContext(stationCitizen);
 
 export function StationsProvider({ children }) {
   const [stations, setStations] = useState(stationCitizen); 
+  const [stationSelected, setStationSelected] = useState(null);
 
   return (
-    <StationsContext.Provider value={{ stations, setStations }}>
+    <StationsContext.Provider value={{ stations, setStations, stationSelected, setStationSelected }}>
       {children}
     </StationsContext.Provider>
   );
