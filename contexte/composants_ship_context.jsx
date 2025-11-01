@@ -41,7 +41,7 @@ export function ComposantsProvider({ children }) {
   },[])
 
   return (
-    <ComposantsContext.Provider value={{ composants, setComposants }}>
+    <ComposantsContext.Provider value={{ composants, setComposants, composantsSelected, setComposantsSelected, shipsSelected, setShipsSelected }}>
       {children}
     </ComposantsContext.Provider>
   );

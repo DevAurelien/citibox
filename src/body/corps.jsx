@@ -1,10 +1,12 @@
 import CardObject from "../components/CardObject";
 import StationsContext from "../../contexte/stations_context";
 import { useContext, useState } from "react";
+import ComposantsContext from "../../contexte/composants_ship_context";
 
 export default function Corps() {
 
   const {stationSelected} = useContext(StationsContext);
+  const {composantsSelected} = useContext(ComposantsContext);
   
   return (
     <div className="flex w-[70%] h-full bg-zinc-950 rounded-2xl">
@@ -23,9 +25,7 @@ export default function Corps() {
             placeholder="Stations"
           /> */}
           <div className="grid grid-cols-2 gap-2">
-            <CardObject/> 
-            <CardObject/>
-            <CardObject/>
+            
           </div>
         </div>
       </div>
