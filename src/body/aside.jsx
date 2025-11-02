@@ -6,7 +6,6 @@ export default function Aside() {
   const { composants = [] } = useContext(ComposantsContext);
   const [valeur, setValeur] = useState("");
 
-  // Normalise les objets pour avoir une propriété "name" quelle que soit la casse de la clé d'origine
   const normalizedComposants = useMemo(() => {
     if (!Array.isArray(composants)) return [];
     return composants.map(c => ({
