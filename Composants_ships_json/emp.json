@@ -6,7 +6,8 @@
     "Charge": "22 s",
     "Cooldown": "16 s",
     "Duration": "1.5 s",
-    "Manufacturer": "Roberts Space Industries"
+    "Manufacturer": "Roberts Space Industries",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "REP-8 EMP Generator",
@@ -15,7 +16,8 @@
     "Charge": "20 s",
     "Cooldown": "22 s",
     "Duration": "1.5 s",
-    "Manufacturer": "Aegis Dynamics"
+    "Manufacturer": "Aegis Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "REP-VS EMP Generator",
@@ -24,7 +26,8 @@
     "Charge": "26 s",
     "Cooldown": "40 s",
     "Duration": "1.5 s",
-    "Manufacturer": "Aegis Dynamics"
+    "Manufacturer": "Aegis Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "TroMag Burst Generator",
@@ -33,6 +36,7 @@
     "Charge": "12 s",
     "Cooldown": "6 s",
     "Duration": "0.75 s",
-    "Manufacturer": "MaxOx"
+    "Manufacturer": "MaxOx",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   }
 ]

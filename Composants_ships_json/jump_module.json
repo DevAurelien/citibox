@@ -4,27 +4,31 @@
     "Size": 2,
     "Class": "Civilian",
     "Grade": "C",
-    "Manufacturer": "Tarsus"
+    "Manufacturer": "Tarsus",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Exfiltrate",
     "Size": 4,
     "Class": "",
     "Grade": "",
-    "Manufacturer": "Wei-Tek"
+    "Manufacturer": "Wei-Tek",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Exodus",
     "Size": 3,
     "Class": "Civilian",
     "Grade": "C",
-    "Manufacturer": "Tarsus"
+    "Manufacturer": "Tarsus",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Explorer",
     "Size": 1,
     "Class": "Civilian",
     "Grade": "C",
-    "Manufacturer": "Tarsus"
+    "Manufacturer": "Tarsus",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   }
 ]

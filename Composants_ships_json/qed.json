@@ -8,7 +8,8 @@
     "Charge": "90 s",
     "Cooldown": "1 s",
     "Duration": "30 s",
-    "Manufacturer": "Wei-Tek"
+    "Manufacturer": "Wei-Tek",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Captor QD",
@@ -19,7 +20,8 @@
     "Charge": "90 s",
     "Cooldown": "1 s",
     "Duration": "30 s",
-    "Manufacturer": "Roberts Space Industries"
+    "Manufacturer": "Roberts Space Industries",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Reynie QED",
@@ -30,7 +32,8 @@
     "Charge": "90 s",
     "Cooldown": "1 s",
     "Duration": "30 s",
-    "Manufacturer": "Wei-Tek"
+    "Manufacturer": "Wei-Tek",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Tidelock QD",
@@ -41,6 +44,7 @@
     "Charge": "90 s",
     "Cooldown": "1 s",
     "Duration": "30 s",
-    "Manufacturer": "Roberts Space Industries"
+    "Manufacturer": "Roberts Space Industries",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   }
 ]

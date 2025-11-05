@@ -18,11 +18,11 @@ export default function NavLieuxnav() {
 
 
   return (
-    <nav className="flex flex-col gap-4 justify-start w-[10%] h-full ml-[0.2rem] p-2 bg-zinc-950 rounded-2xl hover:overflow-y-scroll h-[200px] scrollbar-dark">
+    <nav className="flex flex-col gap-4 justify-start w-[10vw] h-[85vh] ml-[0.2rem] p-2 bg-zinc-950 rounded-2xl overflow-y-scroll scrollbar-dark-left">
       {/* <div><input className="bg-white rounded-xl w-full p-1 my-[0.2rem]" type="text"/></div> */}
       {/* <button className="bg-zinc-800 rounded-xl">Ajouter</button> */}
       <ul
-        className="flex flex-col gap-2 text-[0.6rem] text-white h-[200vh]"
+        className="flex flex-col gap-2 text-white h-full"
       >
         {toggleDisplay}
       </ul>

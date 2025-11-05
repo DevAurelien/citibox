@@ -6,7 +6,8 @@
     "Energy damage": "395,620.4 🗡️",
     "Tracking signal": "Cross Section",
     "Lock time": "5 s",
-    "Manufacturer": "Talon Weapons Systems"
+    "Manufacturer": "Talon Weapons Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/7/74/TALN_Argos_S9.png/400px-TALN_Argos_S9.png.webp"
   },
   {
     "Name": "Calamity XII-CS Torpedo",
@@ -15,7 +16,8 @@
     "Energy damage": "",
     "Tracking signal": "Cross Section",
     "Lock time": "10 s",
-    "Manufacturer": "Talon Weapons Systems"
+    "Manufacturer": "Talon Weapons Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Calamity XII-IR Torpedo",
@@ -24,7 +26,8 @@
     "Energy damage": "",
     "Tracking signal": "Electromagnetic",
     "Lock time": "10 s",
-    "Manufacturer": "Talon Weapons Systems"
+    "Manufacturer": "Talon Weapons Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "EX-T10-CS \"Executor\" Torpedo",
@@ -33,7 +36,8 @@
     "Energy damage": "",
     "Tracking signal": "Cross Section",
     "Lock time": "7 s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "EX-T10-EM \"Executor\" Torpedo",
@@ -42,7 +46,8 @@
     "Energy damage": "",
     "Tracking signal": "Electromagnetic",
     "Lock time": "7 s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "EX-T10-IR \"Executor\" Torpedo",
@@ -51,7 +56,8 @@
     "Energy damage": "",
     "Tracking signal": "Infrared",
     "Lock time": "7 s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "EX-T12-CS \"Executor\" Torpedo",
@@ -60,7 +66,8 @@
     "Energy damage": "",
     "Tracking signal": "Cross Section",
     "Lock time": "10 s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "EX-T12-EM \"Executor\" Torpedo",
@@ -69,7 +76,8 @@
     "Energy damage": "",
     "Tracking signal": "Electromagnetic",
     "Lock time": "10 s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "EX-T12-IR \"Executor\" Torpedo",
@@ -78,7 +86,8 @@
     "Energy damage": "",
     "Tracking signal": "Infared",
     "Lock time": "10 s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Reaper V Missile",
@@ -87,7 +96,8 @@
     "Energy damage": "14,838.21 🗡️",
     "Tracking signal": "Electromagnetic",
     "Lock time": "1 s",
-    "Manufacturer": "Talon Weapons Systems"
+    "Manufacturer": "Talon Weapons Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/6/6e/TALN_Reaper_S5.png/400px-TALN_Reaper_S5.png.webp"
   },
   {
     "Name": "Seeker IX Torpedo",
@@ -96,7 +106,8 @@
     "Energy damage": "425,676.8 🗡️",
     "Tracking signal": "Electromagnetic",
     "Lock time": "5 s",
-    "Manufacturer": "Talon Weapons Systems"
+    "Manufacturer": "Talon Weapons Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/a/a2/TALN_Seeker_S9.png/400px-TALN_Seeker_S9.png.webp"
   },
   {
     "Name": "Stalker V Missile",
@@ -105,7 +116,8 @@
     "Energy damage": "17,091.71 🗡️",
     "Tracking signal": "Cross Section",
     "Lock time": "1 s",
-    "Manufacturer": "Talon Weapons Systems"
+    "Manufacturer": "Talon Weapons Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/b/b0/TALN_Stalker_S5-1.png/400px-TALN_Stalker_S5-1.png.webp"
   },
   {
     "Name": "Typhoon IX Torpedo",
@@ -114,7 +126,8 @@
     "Energy damage": "407,676.7 🗡️",
     "Tracking signal": "Infrared",
     "Lock time": "5 s",
-    "Manufacturer": "Talon Weapons Systems"
+    "Manufacturer": "Talon Weapons Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/e/e8/TALN_Typhoon_S9.png/400px-TALN_Typhoon_S9.png.webp"
   },
   {
     "Name": "Valkyrie V Missile",
@@ -123,7 +136,8 @@
     "Energy damage": "15,464.96 🗡️",
     "Tracking signal": "Infrared",
     "Lock time": "1 s",
-    "Manufacturer": "Talon Weapons Systems"
+    "Manufacturer": "Talon Weapons Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/1/19/TALN_Valkyrie_S5.png/400px-TALN_Valkyrie_S5.png.webp"
   },
   {
     "Name": "Vanquisher X-CS Torpedo",
@@ -132,7 +146,8 @@
     "Energy damage": "",
     "Tracking signal": "Cross Section",
     "Lock time": "7 s",
-    "Manufacturer": "Talon Weapons Systems"
+    "Manufacturer": "Talon Weapons Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Vanquisher X-EM Torpedo",
@@ -141,7 +156,8 @@
     "Energy damage": "",
     "Tracking signal": "Electromagnetic",
     "Lock time": "7 s",
-    "Manufacturer": "Talon Weapons Systems"
+    "Manufacturer": "Talon Weapons Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Vanquisher X-IR Torpedo",
@@ -150,7 +166,8 @@
     "Energy damage": "",
     "Tracking signal": "Infrared",
     "Lock time": "7 s",
-    "Manufacturer": "Talon Weapons Systems"
+    "Manufacturer": "Talon Weapons Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "VT-T10 \"Veritas\" Torpedo",
@@ -159,6 +176,7 @@
     "Energy damage": "",
     "Tracking signal": "Infrared",
     "Lock time": "7 s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   }
 ]

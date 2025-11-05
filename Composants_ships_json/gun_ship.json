@@ -7,7 +7,8 @@
     "Range": "2,794.96 m",
     "Ammo": 28,
     "Muzzle velocity": "1,288 m/s",
-    "Manufacturer": "Vanduul Clans"
+    "Manufacturer": "Vanduul Clans",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "'WARLORD' Cannon",
@@ -17,7 +18,8 @@
     "Range": "2,600 m",
     "Ammo": 10,
     "Muzzle velocity": "1,600 m/s",
-    "Manufacturer": "Vanduul Clans"
+    "Manufacturer": "Vanduul Clans",
+    "image_url": "https://media.starcitizen.tools/thumb/4/46/Star_Citizen_8_17_2024_11_05_28_PM.png/400px-Star_Citizen_8_17_2024_11_05_28_PM.png.webp"
   },
   {
     "Name": "'WASP' Repeater",
@@ -27,7 +29,8 @@
     "Range": "2,304 m",
     "Ammo": 62,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Vanduul Clans"
+    "Manufacturer": "Vanduul Clans",
+    "image_url": "https://media.starcitizen.tools/thumb/0/0a/Star_Citizen_8_17_2024_11_05_13_PM.png/400px-Star_Citizen_8_17_2024_11_05_13_PM.png.webp"
   },
   {
     "Name": "'WEAK' Repeater",
@@ -37,7 +40,8 @@
     "Range": "1,998 m",
     "Ammo": 102,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Vanduul Clans"
+    "Manufacturer": "Vanduul Clans",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "'WHIP' Cannon",
@@ -47,7 +51,8 @@
     "Range": "2,300 m",
     "Ammo": 100,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Vanduul Clans"
+    "Manufacturer": "Vanduul Clans",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "'WRATH' Cannon",
@@ -57,7 +62,8 @@
     "Range": "2,794.96 m",
     "Ammo": 12,
     "Muzzle velocity": "1,288 m/s",
-    "Manufacturer": "Vanduul Clans"
+    "Manufacturer": "Vanduul Clans",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "10-Series Greatsword Cannon",
@@ -67,7 +73,8 @@
     "Range": "2,304 m",
     "Ammo": 467,
     "Muzzle velocity": "1,600 m/s",
-    "Manufacturer": "KnightBridge Arms"
+    "Manufacturer": "KnightBridge Arms",
+    "image_url": "https://media.starcitizen.tools/thumb/9/9a/10-Series_Greatsword_-_Shop_Display_Cutout.png/400px-10-Series_Greatsword_-_Shop_Display_Cutout.png.webp"
   },
   {
     "Name": "11-Series Broadsword Cannon",
@@ -77,7 +84,8 @@
     "Range": "2,608 m",
     "Ammo": 500,
     "Muzzle velocity": "1,600 m/s",
-    "Manufacturer": "KnightBridge Arms"
+    "Manufacturer": "KnightBridge Arms",
+    "image_url": "https://media.starcitizen.tools/thumb/8/87/Broadsword.png/400px-Broadsword.png.webp"
   },
   {
     "Name": "9-Series Longsword Cannon",
@@ -87,7 +95,8 @@
     "Range": "2,000 m",
     "Ammo": 433,
     "Muzzle velocity": "1,600 m/s",
-    "Manufacturer": "KnightBridge Arms"
+    "Manufacturer": "KnightBridge Arms",
+    "image_url": "https://media.starcitizen.tools/thumb/3/34/Longsword.png/400px-Longsword.png.webp"
   },
   {
     "Name": "Absolution Distortion Scattergun",
@@ -97,7 +106,8 @@
     "Range": "1,400 m",
     "Ammo": 10,
     "Muzzle velocity": "700 m/s",
-    "Manufacturer": "Preacher Armament"
+    "Manufacturer": "Preacher Armament",
+    "image_url": "https://media.starcitizen.tools/thumb/9/92/PRAR-Distortion-Scattergun-S4-6.jpg/400px-PRAR-Distortion-Scattergun-S4-6.jpg.webp"
   },
   {
     "Name": "AD4B Ballistic Gatling",
@@ -107,7 +117,8 @@
     "Range": "2,997 m",
     "Ammo": "1,500",
     "Muzzle velocity": "900 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "AD5B Ballistic Gatling",
@@ -117,7 +128,8 @@
     "Range": "3,303 m",
     "Ammo": "1,800",
     "Muzzle velocity": "900 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "AD6B Ballistic Gatling",
@@ -127,7 +139,8 @@
     "Range": "3,600 m",
     "Ammo": "2,100",
     "Muzzle velocity": "900 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Ardor-1 Salvaged Repeater",
@@ -137,7 +150,8 @@
     "Range": "2,000 m",
     "Ammo": 174,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Ardor-2 Salvaged Repeater",
@@ -147,7 +161,8 @@
     "Range": "2,300 m",
     "Ammo": 175,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/4/4c/Ardor_2_salvaged_repeater.png/400px-Ardor_2_salvaged_repeater.png.webp"
   },
   {
     "Name": "Ardor-3 Salvaged Repeater",
@@ -157,7 +172,8 @@
     "Range": "2,600 m",
     "Ammo": 174,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/5/50/Ardor_3_salvaged_repeater.png/400px-Ardor_3_salvaged_repeater.png.webp"
   },
   {
     "Name": "Attrition-1 Repeater",
@@ -167,7 +183,8 @@
     "Range": "2,000 m",
     "Ammo": 349,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/a/a6/Attrition_Repeater_-_Cutout_Sizes_1-3.jpg/400px-Attrition_Repeater_-_Cutout_Sizes_1-3.jpg.webp"
   },
   {
     "Name": "Attrition-2 Repeater",
@@ -177,7 +194,8 @@
     "Range": "2,300 m",
     "Ammo": 350,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/a/a6/Attrition_Repeater_-_Cutout_Sizes_1-3.jpg/400px-Attrition_Repeater_-_Cutout_Sizes_1-3.jpg.webp"
   },
   {
     "Name": "Attrition-3 Repeater",
@@ -187,7 +205,8 @@
     "Range": "2,600 m",
     "Ammo": 346,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/a/a6/Attrition_Repeater_-_Cutout_Sizes_1-3.jpg/400px-Attrition_Repeater_-_Cutout_Sizes_1-3.jpg.webp"
   },
   {
     "Name": "Attrition-4 Repeater",
@@ -197,7 +216,8 @@
     "Range": "3,000 m",
     "Ammo": 350,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/f/fd/Attrition_Repeater_-_Cutout_Sizes_4-6.jpg/400px-Attrition_Repeater_-_Cutout_Sizes_4-6.jpg.webp"
   },
   {
     "Name": "Attrition-5 Repeater",
@@ -207,7 +227,8 @@
     "Range": "3,300 m",
     "Ammo": 350,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/f/fd/Attrition_Repeater_-_Cutout_Sizes_4-6.jpg/400px-Attrition_Repeater_-_Cutout_Sizes_4-6.jpg.webp"
   },
   {
     "Name": "Attrition-6 Repeater",
@@ -217,7 +238,8 @@
     "Range": "3,600 m",
     "Ammo": 349,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/f/fd/Attrition_Repeater_-_Cutout_Sizes_4-6.jpg/400px-Attrition_Repeater_-_Cutout_Sizes_4-6.jpg.webp"
   },
   {
     "Name": "ATVS Repeater",
@@ -227,7 +249,8 @@
     "Range": "2,302.3 m",
     "Ammo": 250,
     "Muzzle velocity": "1,430 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/c/cf/ATVS_Repeater_-_Cutout_Shop_Terminal.jpg/400px-ATVS_Repeater_-_Cutout_Shop_Terminal.jpg.webp"
   },
   {
     "Name": "BRVS Repeater",
@@ -237,7 +260,8 @@
     "Range": "2,310 m",
     "Ammo": "1,000",
     "Muzzle velocity": "1,320 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/7/75/BRVS_Repeater_-_Cutout_Shop_Terminal.jpg/400px-BRVS_Repeater_-_Cutout_Shop_Terminal.jpg.webp"
   },
   {
     "Name": "C-788 Cannon",
@@ -247,7 +271,8 @@
     "Range": "6,525 m",
     "Ammo": 100,
     "Muzzle velocity": "900 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/4/49/C-788_Cannon_-_Shop_Display_Cutout.jpg/400px-C-788_Cannon_-_Shop_Display_Cutout.jpg.webp"
   },
   {
     "Name": "CF-117 Bulldog Repeater",
@@ -257,7 +282,8 @@
     "Range": "1,998 m",
     "Ammo": 375,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Klaus & Werner"
+    "Manufacturer": "Klaus & Werner",
+    "image_url": "https://media.starcitizen.tools/thumb/0/07/Bulldog.png/400px-Bulldog.png.webp"
   },
   {
     "Name": "CF-227 Badger Repeater",
@@ -267,7 +293,8 @@
     "Range": "2,304 m",
     "Ammo": 375,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Klaus & Werner"
+    "Manufacturer": "Klaus & Werner",
+    "image_url": "https://media.starcitizen.tools/thumb/f/ff/Badger.png/400px-Badger.png.webp"
   },
   {
     "Name": "CF-337 Panther Repeater",
@@ -277,7 +304,8 @@
     "Range": "2,592 m",
     "Ammo": 374,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Klaus & Werner"
+    "Manufacturer": "Klaus & Werner",
+    "image_url": "https://media.starcitizen.tools/thumb/9/9c/CF-337_-_4.3.2_in-game_shop_display_cutout_-_Mesh_BG-_SCT_logo.jpg/400px-CF-337_-_4.3.2_in-game_shop_display_cutout_-_Mesh_BG-_SCT_logo.jpg.webp"
   },
   {
     "Name": "CF-447 Rhino Repeater",
@@ -287,7 +315,8 @@
     "Range": "3,006 m",
     "Ammo": 375,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Klaus & Werner"
+    "Manufacturer": "Klaus & Werner",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/CF-447_Rhino_Repeater_-_Shop_Display_Cutout.png/400px-CF-447_Rhino_Repeater_-_Shop_Display_Cutout.png.webp"
   },
   {
     "Name": "CF-557 Galdereen Repeater",
@@ -297,7 +326,8 @@
     "Range": "3,294 m",
     "Ammo": 374,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Klaus & Werner"
+    "Manufacturer": "Klaus & Werner",
+    "image_url": "https://media.starcitizen.tools/thumb/e/e7/CF-Series_Repeater_Size_4-6_-_Cutout_Left.jpg/400px-CF-Series_Repeater_Size_4-6_-_Cutout_Left.jpg.webp"
   },
   {
     "Name": "CF-667 Mammoth Repeater",
@@ -307,7 +337,8 @@
     "Range": "3,600 m",
     "Ammo": 374,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Klaus & Werner"
+    "Manufacturer": "Klaus & Werner",
+    "image_url": "https://media.starcitizen.tools/thumb/e/e7/CF-Series_Repeater_Size_4-6_-_Cutout_Left.jpg/400px-CF-Series_Repeater_Size_4-6_-_Cutout_Left.jpg.webp"
   },
   {
     "Name": "Condemnation Distortion Scattergun",
@@ -317,7 +348,8 @@
     "Range": "1,400 m",
     "Ammo": 10,
     "Muzzle velocity": "700 m/s",
-    "Manufacturer": "Preacher Armament"
+    "Manufacturer": "Preacher Armament",
+    "image_url": "https://media.starcitizen.tools/thumb/9/92/PRAR-Distortion-Scattergun-S4-6.jpg/400px-PRAR-Distortion-Scattergun-S4-6.jpg.webp"
   },
   {
     "Name": "Conqueror-7",
@@ -327,7 +359,8 @@
     "Range": "3,999.24 m",
     "Ammo": 317,
     "Muzzle velocity": "756 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "CVSA Cannon",
@@ -337,7 +370,8 @@
     "Range": "2,310 m",
     "Ammo": 350,
     "Muzzle velocity": "1,320 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/a/a6/CVSA_Cannon_-_Cutout_Shop_Terminal.jpg/400px-CVSA_Cannon_-_Cutout_Shop_Terminal.jpg.webp"
   },
   {
     "Name": "Deadbolt I Cannon",
@@ -347,7 +381,8 @@
     "Range": "1,998 m",
     "Ammo": 217,
     "Muzzle velocity": "900 m/s",
-    "Manufacturer": "Esperia"
+    "Manufacturer": "Esperia",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Deadbolt II Cannon",
@@ -357,7 +392,8 @@
     "Range": "2,304 m",
     "Ammo": 233,
     "Muzzle velocity": "900 m/s",
-    "Manufacturer": "Esperia"
+    "Manufacturer": "Esperia",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Deadbolt III Cannon",
@@ -367,7 +403,8 @@
     "Range": "2,601 m",
     "Ammo": 250,
     "Muzzle velocity": "900 m/s",
-    "Manufacturer": "Esperia"
+    "Manufacturer": "Esperia",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Deadbolt IV Cannon",
@@ -377,7 +414,8 @@
     "Range": "2,998.08 m",
     "Ammo": 267,
     "Muzzle velocity": "864 m/s",
-    "Manufacturer": "Esperia"
+    "Manufacturer": "Esperia",
+    "image_url": "https://media.starcitizen.tools/thumb/0/0f/Deadbolt_IV_PU_-_Cutout.jpg/400px-Deadbolt_IV_PU_-_Cutout.jpg.webp"
   },
   {
     "Name": "Deadbolt V Cannon",
@@ -387,7 +425,8 @@
     "Range": "3,303.72 m",
     "Ammo": 283,
     "Muzzle velocity": "828 m/s",
-    "Manufacturer": "Esperia"
+    "Manufacturer": "Esperia",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Deadbolt VI Cannon",
@@ -397,7 +436,8 @@
     "Range": "3,603.6 m",
     "Ammo": 300,
     "Muzzle velocity": "792 m/s",
-    "Manufacturer": "Esperia"
+    "Manufacturer": "Esperia",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Destroyer Mass Driver Cannon",
@@ -407,7 +447,8 @@
     "Range": "10,000 m",
     "Ammo": 500,
     "Muzzle velocity": "5,000 m/s",
-    "Manufacturer": "Klaus & Werner"
+    "Manufacturer": "Klaus & Werner",
+    "image_url": "https://media.starcitizen.tools/thumb/b/b4/K%26W_Destroyer_-_Mass_Driver_Cannon.png/400px-K%26W_Destroyer_-_Mass_Driver_Cannon.png.webp"
   },
   {
     "Name": "Dominance-1 Scattergun",
@@ -417,7 +458,8 @@
     "Range": "2,000 m",
     "Ammo": 160,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/3/37/Dominance-2_-_PU_Cutout.jpg/400px-Dominance-2_-_PU_Cutout.jpg.webp"
   },
   {
     "Name": "Dominance-2 Scattergun",
@@ -427,7 +469,8 @@
     "Range": "2,000 m",
     "Ammo": 160,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/3/37/Dominance-2_-_PU_Cutout.jpg/400px-Dominance-2_-_PU_Cutout.jpg.webp"
   },
   {
     "Name": "Dominance-3 Scattergun",
@@ -437,7 +480,8 @@
     "Range": "2,000 m",
     "Ammo": 160,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/3/37/Dominance-2_-_PU_Cutout.jpg/400px-Dominance-2_-_PU_Cutout.jpg.webp"
   },
   {
     "Name": "DR Model-XJ1 Repeater",
@@ -447,7 +491,8 @@
     "Range": "2,000.284 m",
     "Ammo": 175,
     "Muzzle velocity": "1,300 m/s",
-    "Manufacturer": "Associated Sciences & Development"
+    "Manufacturer": "Associated Sciences & Development",
+    "image_url": "https://media.starcitizen.tools/thumb/c/c0/DR_Model-XJ_Series_Sizes_1-3_-_Cutout.jpg/400px-DR_Model-XJ_Series_Sizes_1-3_-_Cutout.jpg.webp"
   },
   {
     "Name": "DR Model-XJ2 Repeater",
@@ -457,7 +502,8 @@
     "Range": "2,301.026 m",
     "Ammo": 174,
     "Muzzle velocity": "1,300 m/s",
-    "Manufacturer": "Associated Sciences & Development"
+    "Manufacturer": "Associated Sciences & Development",
+    "image_url": "https://media.starcitizen.tools/thumb/c/c0/DR_Model-XJ_Series_Sizes_1-3_-_Cutout.jpg/400px-DR_Model-XJ_Series_Sizes_1-3_-_Cutout.jpg.webp"
   },
   {
     "Name": "DR Model-XJ3 Repeater",
@@ -467,7 +513,8 @@
     "Range": "2,594.774 m",
     "Ammo": 174,
     "Muzzle velocity": "1,300 m/s",
-    "Manufacturer": "Associated Sciences & Development"
+    "Manufacturer": "Associated Sciences & Development",
+    "image_url": "https://media.starcitizen.tools/thumb/c/c0/DR_Model-XJ_Series_Sizes_1-3_-_Cutout.jpg/400px-DR_Model-XJ_Series_Sizes_1-3_-_Cutout.jpg.webp"
   },
   {
     "Name": "Draugar Gatling",
@@ -477,7 +524,8 @@
     "Range": "3,600 m",
     "Ammo": "2,800",
     "Muzzle velocity": "1,200 m/s",
-    "Manufacturer": "Apocalypse Arms"
+    "Manufacturer": "Apocalypse Arms",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "EVSD Cannon",
@@ -487,7 +535,8 @@
     "Range": "2,301.026 m",
     "Ammo": 75,
     "Muzzle velocity": "1,300 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/4/43/EVSD_Cannon_-_Cutout_Shop_Terminal.jpg/400px-EVSD_Cannon_-_Cutout_Shop_Terminal.jpg.webp"
   },
   {
     "Name": "Exodus-10 Laser Beam",
@@ -497,7 +546,8 @@
     "Range": "2,800 m",
     "Ammo": 237,
     "Muzzle velocity": "700 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/0/05/Idris_K_concept_design_02_-_cropped.jpg/400px-Idris_K_concept_design_02_-_cropped.jpg.webp"
   },
   {
     "Name": "FL-11 Cannon",
@@ -507,7 +557,8 @@
     "Range": "1,998 m",
     "Ammo": 145,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Kroneg"
+    "Manufacturer": "Kroneg",
+    "image_url": "https://media.starcitizen.tools/thumb/8/88/00_KRONEG_S1_S3.png/400px-00_KRONEG_S1_S3.png.webp"
   },
   {
     "Name": "FL-22 Cannon",
@@ -517,7 +568,8 @@
     "Range": "2,304 m",
     "Ammo": 145,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Kroneg"
+    "Manufacturer": "Kroneg",
+    "image_url": "https://media.starcitizen.tools/thumb/8/88/00_KRONEG_S1_S3.png/400px-00_KRONEG_S1_S3.png.webp"
   },
   {
     "Name": "FL-33 Cannon",
@@ -527,7 +579,8 @@
     "Range": "2,592 m",
     "Ammo": 145,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Kroneg"
+    "Manufacturer": "Kroneg",
+    "image_url": "https://media.starcitizen.tools/thumb/4/4c/FL-33-HUR-L4-3.9.jpg/400px-FL-33-HUR-L4-3.9.jpg.webp"
   },
   {
     "Name": "GVSR Repeater",
@@ -537,7 +590,8 @@
     "Range": "2,300 m",
     "Ammo": 350,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/e/e4/GVSR_Repeater_-_Cutout_Shop_Terminal.jpg/400px-GVSR_Repeater_-_Cutout_Shop_Terminal.jpg.webp"
   },
   {
     "Name": "Havoc Scattergun",
@@ -547,7 +601,8 @@
     "Range": "2,000 m",
     "Ammo": 80,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Apocalypse Arms"
+    "Manufacturer": "Apocalypse Arms",
+    "image_url": "https://media.starcitizen.tools/thumb/3/34/Havoc_Scattergun_-_Shop_Display_Cutout.jpg/400px-Havoc_Scattergun_-_Shop_Display_Cutout.jpg.webp"
   },
   {
     "Name": "Havoc Scattergun Sharkmouth Edition",
@@ -557,7 +612,8 @@
     "Range": "2,000 m",
     "Ammo": 80,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Apocalypse Arms"
+    "Manufacturer": "Apocalypse Arms",
+    "image_url": "https://media.starcitizen.tools/0/05/Havoc_Scattergun_Sharkmouth_Edition_01.jpg"
   },
   {
     "Name": "Hellion Scattergun",
@@ -567,7 +623,8 @@
     "Range": "2,000 m",
     "Ammo": 90,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Apocalypse Arms"
+    "Manufacturer": "Apocalypse Arms",
+    "image_url": "https://media.starcitizen.tools/thumb/3/34/Havoc_Scattergun_-_Shop_Display_Cutout.jpg/400px-Havoc_Scattergun_-_Shop_Display_Cutout.jpg.webp"
   },
   {
     "Name": "Lightstrike I Cannon",
@@ -577,7 +634,8 @@
     "Range": "1,998 m",
     "Ammo": 145,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Esperia"
+    "Manufacturer": "Esperia",
+    "image_url": "https://media.starcitizen.tools/thumb/3/3c/Lightstrike_III_PU_%3D_Cutout.jpg/400px-Lightstrike_III_PU_%3D_Cutout.jpg.webp"
   },
   {
     "Name": "Lightstrike II Cannon",
@@ -587,7 +645,8 @@
     "Range": "2,304 m",
     "Ammo": 145,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Esperia"
+    "Manufacturer": "Esperia",
+    "image_url": "https://media.starcitizen.tools/thumb/3/3c/Lightstrike_III_PU_%3D_Cutout.jpg/400px-Lightstrike_III_PU_%3D_Cutout.jpg.webp"
   },
   {
     "Name": "Lightstrike III Cannon",
@@ -597,7 +656,8 @@
     "Range": "2,592 m",
     "Ammo": 145,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Esperia"
+    "Manufacturer": "Esperia",
+    "image_url": "https://media.starcitizen.tools/thumb/3/3c/Lightstrike_III_PU_%3D_Cutout.jpg/400px-Lightstrike_III_PU_%3D_Cutout.jpg.webp"
   },
   {
     "Name": "Lightstrike IV Cannon",
@@ -607,7 +667,8 @@
     "Range": "3,006.72 m",
     "Ammo": 145,
     "Muzzle velocity": "1,728 m/s",
-    "Manufacturer": "Esperia"
+    "Manufacturer": "Esperia",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Lightstrike V Cannon",
@@ -617,7 +678,8 @@
     "Range": "3,295.44 m",
     "Ammo": 145,
     "Muzzle velocity": "1,656 m/s",
-    "Manufacturer": "Esperia"
+    "Manufacturer": "Esperia",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Lightstrike VI Cannon",
@@ -627,7 +689,8 @@
     "Range": "3,595.68 m",
     "Ammo": 145,
     "Muzzle velocity": "1,584 m/s",
-    "Manufacturer": "Esperia"
+    "Manufacturer": "Esperia",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "M3A Cannon",
@@ -637,7 +700,8 @@
     "Range": "2,000 m",
     "Ammo": 100,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/f/f6/M3A.png/400px-M3A.png.webp"
   },
   {
     "Name": "M4A Cannon",
@@ -647,7 +711,8 @@
     "Range": "2,300 m",
     "Ammo": 100,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/d/d9/M4A.png/400px-M4A.png.webp"
   },
   {
     "Name": "M5A Cannon",
@@ -657,7 +722,8 @@
     "Range": "2,600 m",
     "Ammo": 100,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/0/02/M5A.png/400px-M5A.png.webp"
   },
   {
     "Name": "M6A Cannon",
@@ -667,7 +733,8 @@
     "Range": "3,004.8 m",
     "Ammo": 100,
     "Muzzle velocity": "960 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/e/eb/M6A.png/400px-M6A.png.webp"
   },
   {
     "Name": "M7A Cannon",
@@ -677,7 +744,8 @@
     "Range": "3,302.8 m",
     "Ammo": 100,
     "Muzzle velocity": "920 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/d/dd/M7A.png/400px-M7A.png.webp"
   },
   {
     "Name": "M8A Cannon",
@@ -687,7 +755,8 @@
     "Range": "3,599.2 m",
     "Ammo": 100,
     "Muzzle velocity": "880 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "M9A Cannon",
@@ -697,7 +766,8 @@
     "Range": "3,999.24 m",
     "Ammo": 317,
     "Muzzle velocity": "756 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Mantis GT-220 Gatling",
@@ -707,7 +777,8 @@
     "Range": "2,608 m",
     "Ammo": "2,133",
     "Muzzle velocity": "1,600 m/s",
-    "Manufacturer": "Gallenson Tactical Systems"
+    "Manufacturer": "Gallenson Tactical Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/c/c1/GATS_GT-220_Mantis.png/400px-GATS_GT-220_Mantis.png.webp"
   },
   {
     "Name": "Maris Cannon",
@@ -717,7 +788,8 @@
     "Range": "4,895 m",
     "Ammo": 900,
     "Muzzle velocity": "890 m/s",
-    "Manufacturer": "Roberts Space Industries"
+    "Manufacturer": "Roberts Space Industries",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "MVSA Cannon",
@@ -727,7 +799,8 @@
     "Range": "2,301 m",
     "Ammo": 100,
     "Muzzle velocity": "1,300 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/e/e1/MVSA_Cannons_-_3.10_Vanguard_CloseUp_Highlighted.jpg/400px-MVSA_Cannons_-_3.10_Vanguard_CloseUp_Highlighted.jpg.webp"
   },
   {
     "Name": "NDB-26 Repeater",
@@ -737,7 +810,8 @@
     "Range": "2,002 m",
     "Ammo": 333,
     "Muzzle velocity": "1,400 m/s",
-    "Manufacturer": "MaxOx"
+    "Manufacturer": "MaxOx",
+    "image_url": "https://media.starcitizen.tools/thumb/c/c0/NDB-Series_Repeater_Sizes_1-3_-_Cutout_Left.jpg/400px-NDB-Series_Repeater_Sizes_1-3_-_Cutout_Left.jpg.webp"
   },
   {
     "Name": "NDB-28 Repeater",
@@ -747,7 +821,8 @@
     "Range": "2,296 m",
     "Ammo": 333,
     "Muzzle velocity": "1,400 m/s",
-    "Manufacturer": "MaxOx"
+    "Manufacturer": "MaxOx",
+    "image_url": "https://media.starcitizen.tools/thumb/c/c0/NDB-Series_Repeater_Sizes_1-3_-_Cutout_Left.jpg/400px-NDB-Series_Repeater_Sizes_1-3_-_Cutout_Left.jpg.webp"
   },
   {
     "Name": "NDB-30 Repeater",
@@ -757,7 +832,8 @@
     "Range": "2,604 m",
     "Ammo": 333,
     "Muzzle velocity": "1,400 m/s",
-    "Manufacturer": "MaxOx"
+    "Manufacturer": "MaxOx",
+    "image_url": "https://media.starcitizen.tools/thumb/c/c0/NDB-Series_Repeater_Sizes_1-3_-_Cutout_Left.jpg/400px-NDB-Series_Repeater_Sizes_1-3_-_Cutout_Left.jpg.webp"
   },
   {
     "Name": "NN-13 Cannon",
@@ -767,7 +843,8 @@
     "Range": "2,002 m",
     "Ammo": 100,
     "Muzzle velocity": "1,400 m/s",
-    "Manufacturer": "MaxOx"
+    "Manufacturer": "MaxOx",
+    "image_url": "https://media.starcitizen.tools/thumb/0/0c/NN13.jpg/400px-NN13.jpg.webp"
   },
   {
     "Name": "NN-14 Cannon",
@@ -777,7 +854,8 @@
     "Range": "2,296 m",
     "Ammo": 100,
     "Muzzle velocity": "1,400 m/s",
-    "Manufacturer": "MaxOx"
+    "Manufacturer": "MaxOx",
+    "image_url": "https://media.starcitizen.tools/thumb/d/d0/NN14.jpg/400px-NN14.jpg.webp"
   },
   {
     "Name": "NV57 Ballistic Gatling",
@@ -787,7 +865,8 @@
     "Range": "4,000 m",
     "Ammo": "3,200",
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Omnisky III Cannon",
@@ -797,7 +876,8 @@
     "Range": "2,002 m",
     "Ammo": 100,
     "Muzzle velocity": "1,400 m/s",
-    "Manufacturer": "Amon & Reese Co."
+    "Manufacturer": "Amon & Reese Co.",
+    "image_url": "https://media.starcitizen.tools/thumb/4/4a/Omnisky_Size_1-3_-_Cutout_Left.jpg/400px-Omnisky_Size_1-3_-_Cutout_Left.jpg.webp"
   },
   {
     "Name": "Omnisky IX Cannon",
@@ -807,7 +887,8 @@
     "Range": "2,604 m",
     "Ammo": 100,
     "Muzzle velocity": "1,400 m/s",
-    "Manufacturer": "Amon & Reese Co."
+    "Manufacturer": "Amon & Reese Co.",
+    "image_url": "https://media.starcitizen.tools/thumb/4/4a/Omnisky_Size_1-3_-_Cutout_Left.jpg/400px-Omnisky_Size_1-3_-_Cutout_Left.jpg.webp"
   },
   {
     "Name": "Omnisky VI Cannon",
@@ -817,7 +898,8 @@
     "Range": "2,296 m",
     "Ammo": 100,
     "Muzzle velocity": "1,400 m/s",
-    "Manufacturer": "Amon & Reese Co."
+    "Manufacturer": "Amon & Reese Co.",
+    "image_url": "https://media.starcitizen.tools/thumb/4/4a/Omnisky_Size_1-3_-_Cutout_Left.jpg/400px-Omnisky_Size_1-3_-_Cutout_Left.jpg.webp"
   },
   {
     "Name": "Omnisky XII Cannon",
@@ -827,7 +909,8 @@
     "Range": "2,997.12 m",
     "Ammo": 100,
     "Muzzle velocity": "1,344 m/s",
-    "Manufacturer": "Amon & Reese Co."
+    "Manufacturer": "Amon & Reese Co.",
+    "image_url": "https://media.starcitizen.tools/thumb/4/42/Omnisky_Size_4-6_-_Cutout_Left.jpg/400px-Omnisky_Size_4-6_-_Cutout_Left.jpg.webp"
   },
   {
     "Name": "Omnisky XV Cannon",
@@ -837,7 +920,8 @@
     "Range": "3,310.16 m",
     "Ammo": 100,
     "Muzzle velocity": "1,288 m/s",
-    "Manufacturer": "Amon & Reese Co."
+    "Manufacturer": "Amon & Reese Co.",
+    "image_url": "https://media.starcitizen.tools/thumb/4/42/Omnisky_Size_4-6_-_Cutout_Left.jpg/400px-Omnisky_Size_4-6_-_Cutout_Left.jpg.webp"
   },
   {
     "Name": "Omnisky XVIII Cannon",
@@ -847,7 +931,8 @@
     "Range": "3,597.44 m",
     "Ammo": 100,
     "Muzzle velocity": "1,232 m/s",
-    "Manufacturer": "Amon & Reese Co."
+    "Manufacturer": "Amon & Reese Co.",
+    "image_url": "https://media.starcitizen.tools/thumb/4/42/Omnisky_Size_4-6_-_Cutout_Left.jpg/400px-Omnisky_Size_4-6_-_Cutout_Left.jpg.webp"
   },
   {
     "Name": "Predator Scattergun",
@@ -857,7 +942,8 @@
     "Range": "2,000 m",
     "Ammo": 100,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Apocalypse Arms"
+    "Manufacturer": "Apocalypse Arms",
+    "image_url": "https://media.starcitizen.tools/thumb/3/34/Havoc_Scattergun_-_Shop_Display_Cutout.jpg/400px-Havoc_Scattergun_-_Shop_Display_Cutout.jpg.webp"
   },
   {
     "Name": "PyroBurst Scattergun",
@@ -867,7 +953,8 @@
     "Range": "2,400 m",
     "Ammo": 35,
     "Muzzle velocity": "1,200 m/s",
-    "Manufacturer": "Amon & Reese Co."
+    "Manufacturer": "Amon & Reese Co.",
+    "image_url": "https://media.starcitizen.tools/thumb/8/89/Pyroburst.png/400px-Pyroburst.png.webp"
   },
   {
     "Name": "Quarreler Cannon",
@@ -877,7 +964,8 @@
     "Range": "2,604 m",
     "Ammo": 100,
     "Muzzle velocity": "1,400 m/s",
-    "Manufacturer": "Kruger Intergalactic"
+    "Manufacturer": "Kruger Intergalactic",
+    "image_url": "https://media.starcitizen.tools/thumb/6/61/Quarreler_Cannon_-_Shop_Display_Cutout.png/400px-Quarreler_Cannon_-_Shop_Display_Cutout.png.webp"
   },
   {
     "Name": "Reign-3 Repeater",
@@ -887,7 +975,8 @@
     "Range": "5,000 m",
     "Ammo": 346,
     "Muzzle velocity": "1,000 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Revenant Gatling",
@@ -897,7 +986,8 @@
     "Range": "3,000 m",
     "Ammo": "2,000",
     "Muzzle velocity": "1,200 m/s",
-    "Manufacturer": "Apocalypse Arms"
+    "Manufacturer": "Apocalypse Arms",
+    "image_url": "https://media.starcitizen.tools/thumb/5/59/Revenant.jpg/400px-Revenant.jpg.webp"
   },
   {
     "Name": "Salvation Distortion Scattergun",
@@ -907,7 +997,8 @@
     "Range": "1,400 m",
     "Ammo": 10,
     "Muzzle velocity": "700 m/s",
-    "Manufacturer": "Preacher Armament"
+    "Manufacturer": "Preacher Armament",
+    "image_url": "https://media.starcitizen.tools/thumb/9/92/PRAR-Distortion-Scattergun-S4-6.jpg/400px-PRAR-Distortion-Scattergun-S4-6.jpg.webp"
   },
   {
     "Name": "Scorpion GT-215 Gatling",
@@ -917,7 +1008,8 @@
     "Range": "2,304 m",
     "Ammo": "1,600",
     "Muzzle velocity": "1,600 m/s",
-    "Manufacturer": "Gallenson Tactical Systems"
+    "Manufacturer": "Gallenson Tactical Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/b/bd/GT-215_-_Shop_display.png/400px-GT-215_-_Shop_display.png.webp"
   },
   {
     "Name": "SF7B Gatling",
@@ -927,7 +1019,8 @@
     "Range": "3,996 m",
     "Ammo": "3,600",
     "Muzzle velocity": "900 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/6/6b/Behring-SF7B_Ballistic_Gatling_Gun.png/400px-Behring-SF7B_Ballistic_Gatling_Gun.png.webp"
   },
   {
     "Name": "SF7E Cannon",
@@ -937,7 +1030,8 @@
     "Range": "3,999 m",
     "Ammo": 106,
     "Muzzle velocity": "860 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/c/c4/Behring-SF7E_Laser_Cannon.png/400px-Behring-SF7E_Laser_Cannon.png.webp"
   },
   {
     "Name": "Singe Cannon (S1)",
@@ -947,7 +1041,8 @@
     "Range": "1,050 m",
     "Ammo": 3,
     "Muzzle velocity": "3,000 m/s",
-    "Manufacturer": "Banu Souli"
+    "Manufacturer": "Banu Souli",
+    "image_url": "https://media.starcitizen.tools/thumb/9/91/Banu_Singe.jpg/400px-Banu_Singe.jpg.webp"
   },
   {
     "Name": "Singe Cannon (S2)",
@@ -957,7 +1052,8 @@
     "Range": "1,200 m",
     "Ammo": 3,
     "Muzzle velocity": "3,000 m/s",
-    "Manufacturer": "Banu Souli"
+    "Manufacturer": "Banu Souli",
+    "image_url": "https://media.starcitizen.tools/thumb/9/91/Banu_Singe.jpg/400px-Banu_Singe.jpg.webp"
   },
   {
     "Name": "Singe Cannon (S3)",
@@ -967,7 +1063,8 @@
     "Range": "1,500 m",
     "Ammo": 3,
     "Muzzle velocity": "3,000 m/s",
-    "Manufacturer": "Banu Souli"
+    "Manufacturer": "Banu Souli",
+    "image_url": "https://media.starcitizen.tools/thumb/9/91/Banu_Singe.jpg/400px-Banu_Singe.jpg.webp"
   },
   {
     "Name": "Slayer Cannon",
@@ -977,7 +1074,8 @@
     "Range": "6,147.6 m",
     "Ammo": 60,
     "Muzzle velocity": "564 m/s",
-    "Manufacturer": "Hurston Dynamics"
+    "Manufacturer": "Hurston Dynamics",
+    "image_url": "https://media.starcitizen.tools/thumb/a/aa/Nova_Tank_Cannon_grassland.jpg/400px-Nova_Tank_Cannon_grassland.jpg.webp"
   },
   {
     "Name": "Sledge I Mass Driver Cannon",
@@ -987,7 +1085,8 @@
     "Range": "1,050 m",
     "Ammo": 70,
     "Muzzle velocity": "3,000 m/s",
-    "Manufacturer": "Klaus & Werner"
+    "Manufacturer": "Klaus & Werner",
+    "image_url": "https://media.starcitizen.tools/thumb/8/8e/Sledge_Mass_Driver_Cannon_-_Sizes_1-3.jpg/400px-Sledge_Mass_Driver_Cannon_-_Sizes_1-3.jpg.webp"
   },
   {
     "Name": "Sledge II Mass Driver Cannon",
@@ -997,7 +1096,8 @@
     "Range": "1,200 m",
     "Ammo": 70,
     "Muzzle velocity": "3,000 m/s",
-    "Manufacturer": "Klaus & Werner"
+    "Manufacturer": "Klaus & Werner",
+    "image_url": "https://media.starcitizen.tools/thumb/8/8e/Sledge_Mass_Driver_Cannon_-_Sizes_1-3.jpg/400px-Sledge_Mass_Driver_Cannon_-_Sizes_1-3.jpg.webp"
   },
   {
     "Name": "Sledge III Mass Driver Cannon",
@@ -1007,7 +1107,8 @@
     "Range": "1,500 m",
     "Ammo": 70,
     "Muzzle velocity": "3,000 m/s",
-    "Manufacturer": "Klaus & Werner"
+    "Manufacturer": "Klaus & Werner",
+    "image_url": "https://media.starcitizen.tools/thumb/8/8e/Sledge_Mass_Driver_Cannon_-_Sizes_1-3.jpg/400px-Sledge_Mass_Driver_Cannon_-_Sizes_1-3.jpg.webp"
   },
   {
     "Name": "Strife Mass Driver Cannon",
@@ -1017,7 +1118,8 @@
     "Range": "5,500 m",
     "Ammo": 80,
     "Muzzle velocity": "5,000 m/s",
-    "Manufacturer": "Apocalypse Arms"
+    "Manufacturer": "Apocalypse Arms",
+    "image_url": "https://media.starcitizen.tools/thumb/a/a3/AA_Strife_Mass_Driver.jpg/400px-AA_Strife_Mass_Driver.jpg.webp"
   },
   {
     "Name": "Suckerpunch Cannon",
@@ -1027,7 +1129,8 @@
     "Range": "2,000.284 m",
     "Ammo": 50,
     "Muzzle velocity": "1,300 m/s",
-    "Manufacturer": "Joker Engineering"
+    "Manufacturer": "Joker Engineering",
+    "image_url": "https://media.starcitizen.tools/thumb/f/f0/JOKR_DISTORTIONCANNON_SIZE1-3_AA01.png/400px-JOKR_DISTORTIONCANNON_SIZE1-3_AA01.png.webp"
   },
   {
     "Name": "Suckerpunch-L Cannon",
@@ -1037,7 +1140,8 @@
     "Range": "2,301.026 m",
     "Ammo": 50,
     "Muzzle velocity": "1,300 m/s",
-    "Manufacturer": "Joker Engineering"
+    "Manufacturer": "Joker Engineering",
+    "image_url": "https://media.starcitizen.tools/thumb/f/f0/JOKR_DISTORTIONCANNON_SIZE1-3_AA01.png/400px-JOKR_DISTORTIONCANNON_SIZE1-3_AA01.png.webp"
   },
   {
     "Name": "Suckerpunch-XL Cannon",
@@ -1047,7 +1151,8 @@
     "Range": "2,594.774 m",
     "Ammo": 50,
     "Muzzle velocity": "1,300 m/s",
-    "Manufacturer": "Joker Engineering"
+    "Manufacturer": "Joker Engineering",
+    "image_url": "https://media.starcitizen.tools/thumb/f/f0/JOKR_DISTORTIONCANNON_SIZE1-3_AA01.png/400px-JOKR_DISTORTIONCANNON_SIZE1-3_AA01.png.webp"
   },
   {
     "Name": "SureGrip TH2 Tractor Beam",
@@ -1057,7 +1162,8 @@
     "Range": "",
     "Ammo": "",
     "Muzzle velocity": "",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "SW16BR1 \"Buzzsaw\" Repeater",
@@ -1067,7 +1173,8 @@
     "Range": "2,004 m",
     "Ammo": 833,
     "Muzzle velocity": "1,200 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/d/df/SW16BR3_Shredder_-_Shop_Display_Cutout.jpg/400px-SW16BR3_Shredder_-_Shop_Display_Cutout.jpg.webp"
   },
   {
     "Name": "SW16BR2 \"Sawbuck\" Repeater",
@@ -1077,7 +1184,8 @@
     "Range": "2,304 m",
     "Ammo": "1,000",
     "Muzzle velocity": "1,200 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/d/df/SW16BR3_Shredder_-_Shop_Display_Cutout.jpg/400px-SW16BR3_Shredder_-_Shop_Display_Cutout.jpg.webp"
   },
   {
     "Name": "SW16BR3 \"Shredder\" Repeater",
@@ -1087,7 +1195,8 @@
     "Range": "2,604 m",
     "Ammo": "1,167",
     "Muzzle velocity": "1,200 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/d/df/SW16BR3_Shredder_-_Shop_Display_Cutout.jpg/400px-SW16BR3_Shredder_-_Shop_Display_Cutout.jpg.webp"
   },
   {
     "Name": "Tarantula GT-870 Mark 1 Cannon",
@@ -1097,7 +1206,8 @@
     "Range": "2,000 m",
     "Ammo": 433,
     "Muzzle velocity": "1,600 m/s",
-    "Manufacturer": "Gallenson Tactical Systems"
+    "Manufacturer": "Gallenson Tactical Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/a/a4/Tarantula_GT-870_Mark_1_-_Shop_Display_Cutout.png/400px-Tarantula_GT-870_Mark_1_-_Shop_Display_Cutout.png.webp"
   },
   {
     "Name": "Tarantula GT-870 Mark 2 Cannon",
@@ -1107,7 +1217,8 @@
     "Range": "2,304 m",
     "Ammo": 467,
     "Muzzle velocity": "1,600 m/s",
-    "Manufacturer": "Gallenson Tactical Systems"
+    "Manufacturer": "Gallenson Tactical Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/e/ec/TarantulaMk2.jpg/400px-TarantulaMk2.jpg.webp"
   },
   {
     "Name": "Tarantula GT-870 Mark 3 Cannon",
@@ -1117,7 +1228,8 @@
     "Range": "2,608 m",
     "Ammo": 500,
     "Muzzle velocity": "1,600 m/s",
-    "Manufacturer": "Gallenson Tactical Systems"
+    "Manufacturer": "Gallenson Tactical Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/7/70/TarantulaMk3.jpg/400px-TarantulaMk3.jpg.webp"
   },
   {
     "Name": "Tigerstrike T-19P",
@@ -1127,7 +1239,8 @@
     "Range": "",
     "Ammo": "",
     "Muzzle velocity": "",
-    "Manufacturer": "Kruger Intergalactic"
+    "Manufacturer": "Kruger Intergalactic",
+    "image_url": "https://media.starcitizen.tools/thumb/6/6a/Tigerstrike_T-19P_-_Above_P-52_Highlited.jpg/400px-Tigerstrike_T-19P_-_Above_P-52_Highlited.jpg.webp"
   },
   {
     "Name": "Tigerstrike T-21 Gatling",
@@ -1137,7 +1250,8 @@
     "Range": "2,604 m",
     "Ammo": "1,600",
     "Muzzle velocity": "1,200 m/s",
-    "Manufacturer": "Kruger Intergalactic"
+    "Manufacturer": "Kruger Intergalactic",
+    "image_url": "https://media.starcitizen.tools/thumb/a/ae/Tigerstrike_T-21_-_3.10_Avenger_CloseUp_Highlighted.jpg/400px-Tigerstrike_T-21_-_3.10_Avenger_CloseUp_Highlighted.jpg.webp"
   },
   {
     "Name": "TMSB-5 Gatling",
@@ -1147,7 +1261,8 @@
     "Range": "2,835 m",
     "Ammo": "1,750",
     "Muzzle velocity": "1,050 m/s",
-    "Manufacturer": "Behring Applied Technology"
+    "Manufacturer": "Behring Applied Technology",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "YellowJacket GT-210 Gatling",
@@ -1157,7 +1272,8 @@
     "Range": "2,000 m",
     "Ammo": "1,067",
     "Muzzle velocity": "1,600 m/s",
-    "Manufacturer": "Gallenson Tactical Systems"
+    "Manufacturer": "Gallenson Tactical Systems",
+    "image_url": "https://media.starcitizen.tools/thumb/d/d8/GT-210_-_Shop_display.png/400px-GT-210_-_Shop_display.png.webp"
   },
   {
     "Name": "Yeng'tu Repeater",
@@ -1167,6 +1283,7 @@
     "Range": "2,592 m",
     "Ammo": 374,
     "Muzzle velocity": "1,800 m/s",
-    "Manufacturer": "Torral Aggregate"
+    "Manufacturer": "Torral Aggregate",
+    "image_url": "https://media.starcitizen.tools/thumb/b/bd/Yeng%E2%80%99tu_Repeater_concept_-_Mesh_BG.png/400px-Yeng%E2%80%99tu_Repeater_concept_-_Mesh_BG.png.webp"
   }
 ]

@@ -3,48 +3,56 @@
     "Name": "Argo Ore Pod",
     "Size": 1,
     "Manufacturer": "Argo Astronautics",
-    "Inventory": "12,000,000 µSCU"
+    "Inventory": "12,000,000 µSCU",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Drake Ore Pod",
     "Size": 1,
     "Manufacturer": "Drake Interplanetary",
-    "Inventory": "16,000,000 µSCU"
+    "Inventory": "16,000,000 µSCU",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "GEO Resource Pod",
     "Size": 1,
     "Manufacturer": "Argo Astronautics",
-    "Inventory": "100,000 µSCU"
+    "Inventory": "100,000 µSCU",
+    "image_url": "https://media.starcitizen.tools/thumb/1/11/Geo_ressource_pod.png/400px-Geo_ressource_pod.png.webp"
   },
   {
     "Name": "Greycat ROC Ore Pod",
     "Size": 1,
     "Manufacturer": "Greycat Industrial",
-    "Inventory": "1,200,000 µSCU"
+    "Inventory": "1,200,000 µSCU",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Greycat ROC-DS Ore Pod",
     "Size": 1,
     "Manufacturer": "Greycat Industrial",
-    "Inventory": "3,400,000 µSCU"
+    "Inventory": "3,400,000 µSCU",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "MISC Ore Pod",
     "Size": 1,
     "Manufacturer": "Musashi Industrial and Starflight Concern",
-    "Inventory": "8,000,000 µSCU"
+    "Inventory": "8,000,000 µSCU",
+    "image_url": "https://media.starcitizen.tools/thumb/2/23/MISC_Ore_Pod_-_SD.jpg/400px-MISC_Ore_Pod_-_SD.jpg.webp"
   },
   {
     "Name": "Stor*All Big Box Model A",
     "Size": 4,
     "Manufacturer": "Stor*All",
-    "Inventory": "6,000,000 µSCU"
+    "Inventory": "6,000,000 µSCU",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Stor*All Mini",
     "Size": 4,
     "Manufacturer": "Stor*All",
-    "Inventory": "3,000,000 µSCU"
+    "Inventory": "3,000,000 µSCU",
+    "image_url": "https://media.starcitizen.tools/thumb/1/1b/Comm-Link-Jp-Storall2.jpg/400px-Comm-Link-Jp-Storall2.jpg.webp"
   }
 ]

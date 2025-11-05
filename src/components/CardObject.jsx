@@ -13,11 +13,11 @@ export default function CardObject({composant}) {
   const manufacturer = composant?.Manufacturer ?? composant?.manufacturer ?? "";
 
   // debug : vérifie l'objet reçu dans la console du navigateur
-  console.log("CardObject reçu:", composant);
+  // console.log("CardObject reçu:", composant);
 
   return (
     <div className="flex flex-col my-2 w-full bg-zinc-800 rounded-2xl p-3 text-white">
-      <img className="rounded-2xl mb-2" src="./Panther.png" alt="Objet" />
+      <img className="rounded-2xl mb-2" src={composant?.image_url || "./Panther.png"} alt="Objet" />
       <h3 className="text-lg font-semibold">{title}</h3>
       {manufacturer && <p className="text-sm text-white/70">{manufacturer}</p>}
     </div>

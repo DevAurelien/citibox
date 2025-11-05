@@ -8,9 +8,7 @@ export default function Aside() {
 
   const normalizedComposants = useMemo(() => {
     if (!Array.isArray(composants)) return [];
-    return composants.map(c => ({
-      ...c,
-      name: String(c?.Name ?? c?.name ?? "").trim()
+    return composants.map(c => ({...c, name: String(c?.Name ?? c?.name ?? "").trim()
     }));
   }, [composants]);
 
@@ -21,7 +19,7 @@ export default function Aside() {
   }, [normalizedComposants, valeur]);
 
   return (
-    <div className="flex-col w-[30%] h-full bg-zinc-950 rounded-2xl overflow-y-auto">
+    <div className="flex-col w-[30%] h-[90vh] bg-zinc-950 rounded-2xl overflow-y-auto scrollbar-dark">
       <input
         value={valeur}
         onChange={(e) => setValeur(e.target.value)}

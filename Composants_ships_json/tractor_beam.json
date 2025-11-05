@@ -7,7 +7,8 @@
     "Max range": "75 m",
     "Max angle": "60 °",
     "Max volume": "300,000",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "ReadyGrip Tractor Module",
@@ -17,7 +18,8 @@
     "Max range": "",
     "Max angle": "",
     "Max volume": "",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "SureGrip HV-S1 Tractor Beam",
@@ -27,7 +29,8 @@
     "Max range": "130 m",
     "Max angle": "60 °",
     "Max volume": "300,000",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "SureGrip HV-S2 Tractor Beam",
@@ -37,7 +40,8 @@
     "Max range": "130 m",
     "Max angle": "60 °",
     "Max volume": "300,000",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "SureGrip PR-S1 Tractor Beam",
@@ -47,7 +51,8 @@
     "Max range": "130 m",
     "Max angle": "80 °",
     "Max volume": "300,000",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "SureGrip PR-S2 Tractor Beam",
@@ -57,7 +62,8 @@
     "Max range": "130 m",
     "Max angle": "80 °",
     "Max volume": "300,000",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "SureGrip S1 Tractor Beam",
@@ -67,7 +73,8 @@
     "Max range": "150 m",
     "Max angle": "60 °",
     "Max volume": "300,000",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "SureGrip S2 Tractor Beam",
@@ -77,7 +84,8 @@
     "Max range": "150 m",
     "Max angle": "60 °",
     "Max volume": "300,000",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/c/cf/Sure_Grip_Tractor_-_On_workbench.png/400px-Sure_Grip_Tractor_-_On_workbench.png.webp"
   },
   {
     "Name": "SureGrip TH1 Tractor Beam",
@@ -87,7 +95,8 @@
     "Max range": "150 m",
     "Max angle": "60 °",
     "Max volume": "300,000",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "SureGrip TH4 Tractor Beam",
@@ -97,7 +106,8 @@
     "Max range": "300 m",
     "Max angle": "60 °",
     "Max volume": "300,000",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "ViseLock S1 Tractor Beam",
@@ -107,7 +117,8 @@
     "Max range": "135 m",
     "Max angle": "80 °",
     "Max volume": "300,000",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "ViseLock S2 Tractor Beam",
@@ -117,6 +128,7 @@
     "Max range": "135 m",
     "Max angle": "80 °",
     "Max volume": "300,000",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   }
 ]

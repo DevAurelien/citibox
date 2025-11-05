@@ -2,16 +2,19 @@
   {
     "Name": "Harkin",
     "Size": 2,
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Norfield",
     "Size": 2,
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "RN-7s",
     "Size": 2,
-    "Manufacturer": "Musashi Industrial and Starflight Concern"
+    "Manufacturer": "Musashi Industrial and Starflight Concern",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   }
 ]

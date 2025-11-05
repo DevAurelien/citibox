@@ -2,481 +2,578 @@
   {
     "name": "ARC-L1 Wide Forest Station",
     "image_url": "https://media.starcitizen.tools/thumb/1/13/ARC-L1-Exterior-Alpha3.12.png/400px-ARC-L1-Exterior-Alpha3.12.png.webp",
-    "uuid": "4228e79f-2126-44c1-ac8a-797c7b1c0ab1"
+    "uuid": "4228e79f-2126-44c1-ac8a-797c7b1c0ab1",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/a/aa/ARC-L1_Wide_Forest_Station_-_3.12.0.png"
+    ,"reste":"/revision/latest?cb=20210804185635"
   },
   {
     "name": "ARC-L2 Lively Pathway Station",
     "image_url": "https://media.starcitizen.tools/thumb/8/8b/ARC-L2-Exterior-Alpha-3.17.2.jpg/400px-ARC-L2-Exterior-Alpha-3.17.2.jpg.webp",
-    "uuid": "85535cbb-d111-4d6c-8f8f-c9c4f5a65a67"
+    "uuid": "85535cbb-d111-4d6c-8f8f-c9c4f5a65a67",
+    "png_url": null
   },
   {
     "name": "ARC-L3 Modern Express Station",
     "image_url": "https://media.starcitizen.tools/thumb/6/6c/ARC-L3-Exterior-Alpha-3.17.2.jpg/400px-ARC-L3-Exterior-Alpha-3.17.2.jpg.webp",
-    "uuid": "9e5226f6-f132-40e4-9103-5b153878104a"
+    "uuid": "9e5226f6-f132-40e4-9103-5b153878104a",
+    "png_url": null
   },
   {
     "name": "ARC-L4 Faint Glen Station",
     "image_url": "https://media.starcitizen.tools/thumb/3/3c/ARC-L4-Exterior-Alpha-3.17.2.jpg/400px-ARC-L4-Exterior-Alpha-3.17.2.jpg.webp",
-    "uuid": "5b6db4ea-a3b8-4421-9234-7a814a8b4833"
+    "uuid": "5b6db4ea-a3b8-4421-9234-7a814a8b4833",
+    "png_url": null
   },
   {
     "name": "ARC-L5 Yellow Core Station",
     "image_url": "https://media.starcitizen.tools/thumb/9/9b/ARC-L5-Exterior-Alpha-3.17.2.jpg/400px-ARC-L5-Exterior-Alpha-3.17.2.jpg.webp",
-    "uuid": "e3d7b75b-81ab-4177-80f7-d96e102fbb69"
+    "uuid": "e3d7b75b-81ab-4177-80f7-d96e102fbb69",
+    "png_url": null
   },
   {
     "name": "Archangel Station",
     "image_url": "https://media.starcitizen.tools/thumb/4/45/Archangel_Station.png/400px-Archangel_Station.png.webp",
-    "uuid": "882252d4-5c18-4c9a-ac9c-aa7051c9814e"
+    "uuid": "882252d4-5c18-4c9a-ac9c-aa7051c9814e",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/4/45/Archangel_Station.png/revision/latest?cb=20210412072613"
   },
   {
     "name": "Archon Base",
     "image_url": "https://media.starcitizen.tools/thumb/7/73/Archon_Base.png/400px-Archon_Base.png.webp",
-    "uuid": "e4cf4db0-887a-464b-8306-8815a09011a2"
+    "uuid": "e4cf4db0-887a-464b-8306-8815a09011a2",
+    "png_url": null
   },
   {
     "name": "Attritus OLP",
     "image_url": "https://media.starcitizen.tools/thumb/6/6a/Attritus_OLP%2C_Daymar.webp/400px-Attritus_OLP%2C_Daymar.webp",
-    "uuid": "f6faef37-3ba0-4546-a08c-419e6683cbb9"
+    "uuid": "f6faef37-3ba0-4546-a08c-419e6683cbb9",
+    "png_url": null
   },
   {
     "name": "Bacchus Flotilla",
     "image_url": "https://media.starcitizen.tools/thumb/7/7e/Bacchus_Flotilla.png/400px-Bacchus_Flotilla.png.webp",
-    "uuid": "e4525639-9f82-4325-8456-13017536bba5"
+    "uuid": "e4525639-9f82-4325-8456-13017536bba5",
+    "png_url": null
   },
   {
     "name": "Baijini Point",
     "image_url": "https://media.starcitizen.tools/thumb/6/6e/Arccorp-baijini-point-01.jpg/400px-Arccorp-baijini-point-01.jpg.webp",
-    "uuid": "2c7ca5d7-c032-4572-8d93-f067746163d3"
+    "uuid": "2c7ca5d7-c032-4572-8d93-f067746163d3",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/7/74/Baijini_Point_-_3.11.0.png/revision/latest?cb=20210804185632"
   },
   {
     "name": "Banu Station",
     "image_url": "https://media.starcitizen.tools/thumb/9/97/Banu_Station.png/400px-Banu_Station.png.webp",
-    "uuid": "797cced4-8a93-4cff-bef5-689f392075a7"
+    "uuid": "797cced4-8a93-4cff-bef5-689f392075a7",
+    "png_url": null
   },
   {
     "name": "Buloi Sataball Arena",
     "image_url": "https://media.starcitizen.tools/thumb/c/ca/Buloi_Sataball_Arena.png/400px-Buloi_Sataball_Arena.png.webp",
-    "uuid": "6bb8611d-82dc-4850-95f5-fa31a5224b84"
+    "uuid": "6bb8611d-82dc-4850-95f5-fa31a5224b84",
+    "png_url": null
   },
   {
     "name": "Checkmate Station",
     "image_url": "https://media.starcitizen.tools/thumb/b/b8/Cutter_Approaching_Checkmate_Station.png/400px-Cutter_Approaching_Checkmate_Station.png.webp",
-    "uuid": "9e4dbbf1-8e37-4885-8c1c-aa886b04be5f"
+    "uuid": "9e4dbbf1-8e37-4885-8c1c-aa886b04be5f",
+    "png_url": null
   },
   {
     "name": "Comm Array ST1-02",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "21e2d34d-7d61-46e8-a2e2-05c0abacd8b1"
+    "uuid": "21e2d34d-7d61-46e8-a2e2-05c0abacd8b1",
+    "png_url": null
   },
   {
     "name": "Comm Array ST1-13",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "d1939f6b-1270-480a-8168-de196ac91cdf"
+    "uuid": "d1939f6b-1270-480a-8168-de196ac91cdf",
+    "png_url": null
   },
   {
     "name": "Comm Array ST1-48",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "7de690c2-a01c-452f-b11e-6204906c8c15"
+    "uuid": "7de690c2-a01c-452f-b11e-6204906c8c15",
+    "png_url": null
   },
   {
     "name": "Comm Array ST1-61",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "ee579162-a163-4d35-abef-8445133c1199"
+    "uuid": "ee579162-a163-4d35-abef-8445133c1199",
+    "png_url": null
   },
   {
     "name": "Comm Array ST1-92",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "e4e460ad-c119-408c-874f-4d03bfae8547"
+    "uuid": "e4e460ad-c119-408c-874f-4d03bfae8547",
+    "png_url": null
   },
   {
     "name": "Comm Array ST2-28",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "6e6c364d-9f0a-4143-a53b-3ec1aec249a1"
+    "uuid": "6e6c364d-9f0a-4143-a53b-3ec1aec249a1",
+    "png_url": null
   },
   {
     "name": "Comm Array ST2-47",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "f86523a7-d2fc-47cf-8ec5-90ecf0d725cb"
+    "uuid": "f86523a7-d2fc-47cf-8ec5-90ecf0d725cb",
+    "png_url": null
   },
   {
     "name": "Comm Array ST2-55",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "f753994e-19ec-4be3-82f8-c856f0b351be"
+    "uuid": "f753994e-19ec-4be3-82f8-c856f0b351be",
+    "png_url": null
   },
   {
     "name": "Comm Array ST2-76",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "50c9fe7a-627c-49b9-83e0-fb2157e8b680"
+    "uuid": "50c9fe7a-627c-49b9-83e0-fb2157e8b680",
+    "png_url": null
   },
   {
     "name": "Comm Array ST3-18",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "63d5ea2c-5f53-4de0-8573-d98a0ae85ddb"
+    "uuid": "63d5ea2c-5f53-4de0-8573-d98a0ae85ddb",
+    "png_url": null
   },
   {
     "name": "Comm Array ST3-35",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "3d22f0a3-a85b-427e-954c-e64aeb0605b5"
+    "uuid": "3d22f0a3-a85b-427e-954c-e64aeb0605b5",
+    "png_url": null
   },
   {
     "name": "Comm Array ST3-90",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "0aa1a010-eb29-48b9-91fe-906cfa8f6580"
+    "uuid": "0aa1a010-eb29-48b9-91fe-906cfa8f6580",
+    "png_url": null
   },
   {
     "name": "Comm Array ST4-22",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "354ca346-e510-477a-b5e3-b9992d763e54"
+    "uuid": "354ca346-e510-477a-b5e3-b9992d763e54",
+    "png_url": null
   },
   {
     "name": "Comm Array ST4-31",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "38246e7c-ba99-4f0d-8a8a-eb34c14a06f9"
+    "uuid": "38246e7c-ba99-4f0d-8a8a-eb34c14a06f9",
+    "png_url": null
   },
   {
     "name": "Comm Array ST4-59",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "8269d48c-151d-4048-9535-ab291523660e"
+    "uuid": "8269d48c-151d-4048-9535-ab291523660e",
+    "png_url": null
   },
   {
     "name": "Comm Array ST4-64",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/Hurston-comm-array-3.3.7.png/400px-Hurston-comm-array-3.3.7.png.webp",
-    "uuid": "ad4d1e51-f2de-4717-af75-468b9818e4b5"
+    "uuid": "ad4d1e51-f2de-4717-af75-468b9818e4b5",
+    "png_url": null
   },
   {
     "name": "Covalex Hub Gundo",
     "image_url": "https://media.starcitizen.tools/thumb/d/da/Stanton-crusader-daymar-gundo-3.8.0.jpg/400px-Stanton-crusader-daymar-gundo-3.8.0.jpg.webp",
-    "uuid": "b2159532-4052-47b5-a8b9-f30adf2134fd"
+    "uuid": "b2159532-4052-47b5-a8b9-f30adf2134fd",
+    "png_url": null
   },
   {
     "name": "CRU-L1 Ambitious Dream Station",
     "image_url": "https://media.starcitizen.tools/thumb/e/e9/CRU-L1-Exterior-Alpha-3.12.png/400px-CRU-L1-Exterior-Alpha-3.12.png.webp",
-    "uuid": "9c4f3207-3ac1-4d9b-9c38-f45efed2e3b0"
+    "uuid": "9c4f3207-3ac1-4d9b-9c38-f45efed2e3b0",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/7/77/CRU-L1_Ambitious_Dream_Station_-_3.12.0.png/revision/latest?cb=20210804185635"
   },
   {
     "name": "CRU-L4 Shallow Fields Station",
     "image_url": "https://media.starcitizen.tools/thumb/e/e1/CRU-L4-Exterior-Alpha-3.12.png/400px-CRU-L4-Exterior-Alpha-3.12.png.webp",
-    "uuid": "1808d12c-c2c8-4052-9f35-aeecce3a5e5b"
+    "uuid": "1808d12c-c2c8-4052-9f35-aeecce3a5e5b",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/3/33/CRU-L4_Shallow_Fields_Station_-_3.12.0.png/revision/latest?cb=20210804185638"
   },
   {
     "name": "CRU-L5 Beautiful Glen Station",
     "image_url": "https://media.starcitizen.tools/thumb/4/4d/CRU-L5-Exterior-Alpha-3.14.jpg/400px-CRU-L5-Exterior-Alpha-3.14.jpg.webp",
-    "uuid": "8c74b6ec-7953-4bee-b5e2-de6618a121ed"
+    "uuid": "8c74b6ec-7953-4bee-b5e2-de6618a121ed",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/4/44/CRU-L5_Beautiful_Glen_Station_-_3.6.0.png/revision/latest?cb=20210804185638"
   },
   {
     "name": "Dudley & Daughters",
     "image_url": "https://media.starcitizen.tools/thumb/e/e7/Dudley_%26_Daughters%2C_Pyro.png/400px-Dudley_%26_Daughters%2C_Pyro.png.webp",
-    "uuid": "96e3410f-fc69-4a8f-88ae-d09304faeac9"
+    "uuid": "96e3410f-fc69-4a8f-88ae-d09304faeac9",
+    "png_url": null
   },
   {
     "name": "Echo Eleven",
     "image_url": "https://media.starcitizen.tools/thumb/c/c7/StarMarine11.jpg/400px-StarMarine11.jpg.webp",
-    "uuid": "956ae8e5-f56f-4168-b937-7824756df165"
+    "uuid": "956ae8e5-f56f-4168-b937-7824756df165",
+    "png_url": null
   },
   {
     "name": "Encole Station",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "6af1e8b0-f9b4-4f5d-9ac0-e2bc9cc8405a"
+    "uuid": "6af1e8b0-f9b4-4f5d-9ac0-e2bc9cc8405a",
+    "png_url": null
   },
   {
     "name": "Endgame",
     "image_url": "https://media.starcitizen.tools/thumb/0/0b/Endgame_station%2C_Pyro.jpg/400px-Endgame_station%2C_Pyro.jpg.webp",
-    "uuid": "6f795cef-5399-4923-8b38-4099c9e0f1a4"
+    "uuid": "6f795cef-5399-4923-8b38-4099c9e0f1a4",
+    "png_url": null
   },
   {
     "name": "Everus Harbor",
     "image_url": "https://media.starcitizen.tools/thumb/7/72/Hurston-everus-harbor-01.jpg/400px-Hurston-everus-harbor-01.jpg.webp",
-    "uuid": "918ba8fa-8b30-4bb8-8896-d4a4aceaf8f9"
+    "uuid": "918ba8fa-8b30-4bb8-8896-d4a4aceaf8f9",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/6/6d/Everus_Harbor_-_3.11.0.png/revision/latest?cb=20210804185645"
   },
   {
     "name": "Gaslight",
     "image_url": "https://media.starcitizen.tools/thumb/2/21/Pyro_V_L2_-_Gaslight_space_station.webp/400px-Pyro_V_L2_-_Gaslight_space_station.webp",
-    "uuid": "7c93454d-8181-43fb-9a7b-ea30e18d5a4e"
+    "uuid": "7c93454d-8181-43fb-9a7b-ea30e18d5a4e",
+    "png_url": null
   },
   {
     "name": "Grim HEX",
     "image_url": "https://media.starcitizen.tools/thumb/0/09/Star_Citizen_-_GrimHEX_close-up.png/400px-Star_Citizen_-_GrimHEX_close-up.png.webp",
-    "uuid": "02c829ec-f0c2-4993-b625-a3dad745eb74"
+    "uuid": "02c829ec-f0c2-4993-b625-a3dad745eb74",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/f/ff/Grim_HEX_%281%29.png/revision/latest?cb=20200905045658"
   },
   {
     "name": "HUR-L1 Green Glade Station",
     "image_url": "https://media.starcitizen.tools/thumb/4/49/HUR-L1-Exterior-Alpha-3.12.png/400px-HUR-L1-Exterior-Alpha-3.12.png.webp",
-    "uuid": "8c61a596-1064-458e-b8f4-8e4e25209423"
+    "uuid": "8c61a596-1064-458e-b8f4-8e4e25209423",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/d/d4/HUR-L1_Green_Glade_Station_-_3.12.0.png/revision/latest?cb=20210804185643"
   },
   {
     "name": "HUR-L2 Faithful Dream Station",
     "image_url": "https://media.starcitizen.tools/thumb/2/2c/HUR-L2-Exterior2-Alpha-3.12.png/400px-HUR-L2-Exterior2-Alpha-3.12.png.webp",
-    "uuid": "84b83b8c-9366-48cc-aed8-f5cab7bd3462"
+    "uuid": "84b83b8c-9366-48cc-aed8-f5cab7bd3462",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/f/f8/HUR-L2_Faithful_Dream_Station_-_3.12.0.png/revision/latest?cb=20210804185648"
   },
   {
     "name": "HUR-L3 Thundering Express Station",
     "image_url": "https://media.starcitizen.tools/thumb/a/a9/HUR-L3-Exterior-Alpha-3.12.png/400px-HUR-L3-Exterior-Alpha-3.12.png.webp",
-    "uuid": "3a3b8390-9a40-4e1a-aef4-4f801dfd1702"
+    "uuid": "3a3b8390-9a40-4e1a-aef4-4f801dfd1702",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/0/00/HUR-L3_Thundering_Express_Station_-_3.12.0.png/revision/latest?cb=20210804185647"
   },
   {
     "name": "HUR-L4 Melodic Fields Station",
     "image_url": "https://media.starcitizen.tools/thumb/7/71/HUR-L4-Exterior-Alpha-3.12.png/400px-HUR-L4-Exterior-Alpha-3.12.png.webp",
-    "uuid": "3a9af359-b492-4f5f-a97e-067a015331c1"
+    "uuid": "3a9af359-b492-4f5f-a97e-067a015331c1",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/e/ee/HUR-L4_Melodic_Fields_Station_-_3.12.0.png/revision/latest?cb=20210804185649"
   },
   {
     "name": "HUR-L5 High Course Station",
     "image_url": "https://media.starcitizen.tools/thumb/7/7e/HUR-L5-Exterior-Alpha-3.12.png/400px-HUR-L5-Exterior-Alpha-3.12.png.webp",
-    "uuid": "d522f842-3a72-4401-b25c-2ecc182b8821"
+    "uuid": "d522f842-3a72-4401-b25c-2ecc182b8821",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/0/05/HUR-L5_High_Course_Station_-_3.12.0.png/revision/latest?cb=20210804185656"
   },
   {
     "name": "IAS Hammett",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "eda21e9a-7ce6-48f9-8bc1-9be3f16b578f"
+    "uuid": "eda21e9a-7ce6-48f9-8bc1-9be3f16b578f",
+    "png_url": null
   },
   {
     "name": "ICC ScanHub Stanton",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "dc7dbe52-7eba-4b09-8ae0-4d833b07e68d"
+    "uuid": "dc7dbe52-7eba-4b09-8ae0-4d833b07e68d",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/0/07/ICC_ScanHub_Stanton_%281%29.png/revision/latest?cb=20200905080516"
   },
   {
     "name": "IMS Bolliver",
     "image_url": "https://media.starcitizen.tools/thumb/a/a3/IMS-Bolliver-Holograph.png/400px-IMS-Bolliver-Holograph.png.webp",
-    "uuid": "6a344174-6053-4d78-b732-6926c2acaa68"
+    "uuid": "6a344174-6053-4d78-b732-6926c2acaa68",
+    "png_url": null
   },
   {
     "name": "INS Aniene",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "3d2ac471-6209-48f1-a979-9d716b12debd"
+    "uuid": "3d2ac471-6209-48f1-a979-9d716b12debd",
+    "png_url": null
   },
   {
     "name": "INS Dunleavy",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "4257521b-b2ff-442e-bd26-5696f7e70d32"
+    "uuid": "4257521b-b2ff-442e-bd26-5696f7e70d32",
+    "png_url": null
   },
   {
     "name": "INS Flavus",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "851273c5-d7b2-43cf-baa5-69361c74dd63"
+    "uuid": "851273c5-d7b2-43cf-baa5-69361c74dd63",
+    "png_url": null
   },
   {
     "name": "INS Hephaestus",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "5c86c68b-628d-4592-b83e-13bbf517fb85"
+    "uuid": "5c86c68b-628d-4592-b83e-13bbf517fb85",
+    "png_url": null
   },
   {
     "name": "INS Jericho",
     "image_url": "https://media.starcitizen.tools/thumb/3/30/Stanton-ins-jericho-3.12.jpg/400px-Stanton-ins-jericho-3.12.jpg.webp",
-    "uuid": "0ccdc7f7-0da2-4af8-8367-fe25d73ac94c"
+    "uuid": "0ccdc7f7-0da2-4af8-8367-fe25d73ac94c",
+    "png_url": null
   },
   {
     "name": "INS Reilly",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "3690bcdf-be99-4c75-a05a-fa7d03eadc48"
+    "uuid": "3690bcdf-be99-4c75-a05a-fa7d03eadc48",
+    "png_url": null
   },
   {
     "name": "JusticeStar Satellite",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "fec41ff8-28e1-48c0-ae32-f92b2d5020c3"
+    "uuid": "fec41ff8-28e1-48c0-ae32-f92b2d5020c3",
+    "png_url": null
   },
   {
     "name": "Kedsu Reef",
     "image_url": "https://media.starcitizen.tools/thumb/f/f5/Hadrian_Kedsu_Reef.png/400px-Hadrian_Kedsu_Reef.png.webp",
-    "uuid": "701a3377-2da7-4653-9a2c-74886cbd5bc1"
+    "uuid": "701a3377-2da7-4653-9a2c-74886cbd5bc1",
+    "png_url": null
   },
   {
     "name": "Lamina OLP",
     "image_url": "https://media.starcitizen.tools/thumb/3/3d/Lamina_OLP%2C_Daymar%2C_and_Crusader.jpg/400px-Lamina_OLP%2C_Daymar%2C_and_Crusader.jpg.webp",
-    "uuid": "6445428a-801b-46ae-a424-401d6ce21999"
+    "uuid": "6445428a-801b-46ae-a424-401d6ce21999",
+    "png_url": null
   },
   {
     "name": "Lamina PAF-I",
     "image_url": "https://media.starcitizen.tools/thumb/1/18/Lamina_PAF-I%2C_Daymar.webp/400px-Lamina_PAF-I%2C_Daymar.webp",
-    "uuid": "c0924a44-b536-4e32-bf12-f321b9287b34"
+    "uuid": "c0924a44-b536-4e32-bf12-f321b9287b34",
+    "png_url": null
   },
   {
     "name": "Lyris Flotilla",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "139cd1a5-7063-4574-a797-12dcfdc9eca4"
+    "uuid": "139cd1a5-7063-4574-a797-12dcfdc9eca4",
+    "png_url": null
   },
   {
     "name": "Magnus Gateway",
     "image_url": "https://media.starcitizen.tools/thumb/b/b3/Magnus_Gateway%2C_Stanton_System.jpg/400px-Magnus_Gateway%2C_Stanton_System.jpg.webp",
-    "uuid": "2a0749e9-051c-4fa8-b756-9264e62e30bc"
+    "uuid": "2a0749e9-051c-4fa8-b756-9264e62e30bc",
+    "png_url": null
   },
   {
     "name": "Megumi Refueling",
     "image_url": "https://media.starcitizen.tools/thumb/e/e5/Megumi_Refueling%2C_Pyro_system.jpg/400px-Megumi_Refueling%2C_Pyro_system.jpg.webp",
-    "uuid": "b56d303f-5b79-403c-a89e-4f93fc6eb038"
+    "uuid": "b56d303f-5b79-403c-a89e-4f93fc6eb038",
+    "png_url": null
   },
   {
     "name": "MIC-L1 Shallow Frontier Station",
     "image_url": "https://media.starcitizen.tools/thumb/5/56/MIC-L1-Exterior1-Alpha-3.12.png/400px-MIC-L1-Exterior1-Alpha-3.12.png.webp",
-    "uuid": "56bca7f2-f722-43e3-b896-47e2fd758524"
+    "uuid": "56bca7f2-f722-43e3-b896-47e2fd758524",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/b/b7/MIC-L1_Shallow_Frontier_Station_-_3.12.0.png/revision/latest?cb=20210804185654"
   },
   {
     "name": "MIC-L2 Long Forest Station",
     "image_url": "https://media.starcitizen.tools/thumb/7/7e/MIC-L2-Exterior2-Alpha-3.17.2.jpg/400px-MIC-L2-Exterior2-Alpha-3.17.2.jpg.webp",
-    "uuid": "aafed566-f17a-4424-9441-a9ac7c62b1cc"
+    "uuid": "aafed566-f17a-4424-9441-a9ac7c62b1cc",
+    "png_url": null
   },
   {
     "name": "MIC-L3 Endless Odyssey Station",
     "image_url": "https://media.starcitizen.tools/thumb/a/a6/MIC-L3-Exterior-Alpha-3.17.2.jpg/400px-MIC-L3-Exterior-Alpha-3.17.2.jpg.webp",
-    "uuid": "6c87f186-71f2-4a6b-b503-76dbb1ee967c"
+    "uuid": "6c87f186-71f2-4a6b-b503-76dbb1ee967c",
+    "png_url": null
   },
   {
     "name": "MIC-L4 Red Crossroads Station",
     "image_url": "https://media.starcitizen.tools/thumb/5/58/MIC-L4-Exterior2-Alpha-3.17.2.jpg/400px-MIC-L4-Exterior2-Alpha-3.17.2.jpg.webp",
-    "uuid": "68fa05c0-7831-4069-99f8-0542256932bf"
+    "uuid": "68fa05c0-7831-4069-99f8-0542256932bf",
+    "png_url": null
   },
   {
     "name": "MIC-L5 Modern Icarus Station",
     "image_url": "https://media.starcitizen.tools/thumb/b/b8/MIC-L5-Exterior1-Alpha-3.17.2.jpg/400px-MIC-L5-Exterior1-Alpha-3.17.2.jpg.webp",
-    "uuid": "224757c8-d22e-4db6-870c-f06fe1f59c80"
+    "uuid": "224757c8-d22e-4db6-870c-f06fe1f59c80",
+    "png_url": null
   },
   {
     "name": "OB Kobold",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "773fe268-9bbd-4e6e-857e-73fc4b986356"
+    "uuid": "773fe268-9bbd-4e6e-857e-73fc4b986356",
+    "png_url": null
   },
   {
     "name": "OB Station Gryphon",
     "image_url": "https://media.starcitizen.tools/thumb/b/b8/Kallis_OB_Station_Gryphon.png/400px-Kallis_OB_Station_Gryphon.png.webp",
-    "uuid": "85bde675-42ac-4de6-98bb-1473bd46225d"
+    "uuid": "85bde675-42ac-4de6-98bb-1473bd46225d",
+    "png_url": null
   },
   {
     "name": "OB Station Pegasus",
     "image_url": "https://media.starcitizen.tools/thumb/d/d9/OB_Station_Pegasus.png/400px-OB_Station_Pegasus.png.webp",
-    "uuid": "fc3f03d9-1fc1-4e03-a73b-81fad6be9044"
+    "uuid": "fc3f03d9-1fc1-4e03-a73b-81fad6be9044",
+    "png_url": null
   },
   {
     "name": "OP Station Demien",
     "image_url": "https://media.starcitizen.tools/thumb/2/2e/StarMarine7.jpg/400px-StarMarine7.jpg.webp",
-    "uuid": "215612d1-5cac-46f6-be76-1beab6b0bc02"
+    "uuid": "215612d1-5cac-46f6-be76-1beab6b0bc02",
+    "png_url": null
   },
   {
     "name": "Orbituary",
     "image_url": "https://media.starcitizen.tools/thumb/2/24/Pyro_-_Orbituary_space_station.png/400px-Pyro_-_Orbituary_space_station.png.webp",
-    "uuid": "91c5b757-aac7-40c4-97fc-6460b321d50b"
+    "uuid": "91c5b757-aac7-40c4-97fc-6460b321d50b",
+    "png_url": null
   },
   {
     "name": "Patch City",
     "image_url": "https://media.starcitizen.tools/thumb/7/79/Patch_City%2C_Pyro.webp/400px-Patch_City%2C_Pyro.webp",
-    "uuid": "258fa254-ded0-4c09-9973-0713608706be"
+    "uuid": "258fa254-ded0-4c09-9973-0713608706be",
+    "png_url": null
   },
   {
     "name": "Port Olisar",
     "image_url": "https://media.starcitizen.tools/thumb/3/3d/Crusader-port-olisar-3.14.jpg/400px-Crusader-port-olisar-3.14.jpg.webp",
-    "uuid": "e75a5fdd-2c28-4cbb-8e24-a0bded9fc511"
+    "uuid": "e75a5fdd-2c28-4cbb-8e24-a0bded9fc511",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/d/d2/Port_Olisar_-_Station.png/revision/latest?cb=20200605023448"
   },
   {
     "name": "Port Tressler",
     "image_url": "https://media.starcitizen.tools/thumb/4/4a/Port-Tressler-Exterior-Alpha-3.12.png/400px-Port-Tressler-Exterior-Alpha-3.12.png.webp",
-    "uuid": "db0b0002-1148-4e63-835a-083ff8a0df46"
+    "uuid": "db0b0002-1148-4e63-835a-083ff8a0df46",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/6/66/Port_Tressler_-_3.11.0.png/revision/latest?cb=20210804185656"
   },
   {
     "name": "Pyro Gateway",
     "image_url": "https://media.starcitizen.tools/thumb/c/cc/Pyro_Gateway%2C_Stanton_System.jpg/400px-Pyro_Gateway%2C_Stanton_System.jpg.webp",
-    "uuid": "dff991f3-115e-4508-9551-f664d2ecc47e"
+    "uuid": "dff991f3-115e-4508-9551-f664d2ecc47e",
+    "png_url": null
   },
   {
     "name": "Rat's Nest",
     "image_url": "https://media.starcitizen.tools/thumb/6/61/Rat%27s_Nest%2C_Pyro.png/400px-Rat%27s_Nest%2C_Pyro.png.webp",
-    "uuid": "783c923f-2aee-4a0a-8691-a23db3d088bb"
+    "uuid": "783c923f-2aee-4a0a-8691-a23db3d088bb",
+    "png_url": null
   },
   {
     "name": "Rod's Fuel 'N Supplies",
     "image_url": "https://media.starcitizen.tools/thumb/1/1b/Rod%27s_Fuel_%27N_Supplies%2C_Pyro_system.jpg/400px-Rod%27s_Fuel_%27N_Supplies%2C_Pyro_system.jpg.webp",
-    "uuid": "c9fabd9c-f6b3-4ace-a0eb-2e54460a6491"
+    "uuid": "c9fabd9c-f6b3-4ace-a0eb-2e54460a6491",
+    "png_url": null
   },
   {
     "name": "Ruin Station",
     "image_url": "https://media.starcitizen.tools/thumb/0/0c/Ruin_Station%2C_Terminus%2C_Pyro.webp/400px-Ruin_Station%2C_Terminus%2C_Pyro.webp",
-    "uuid": "a0f589f3-0ed7-4910-98fd-8e329101bf63"
+    "uuid": "a0f589f3-0ed7-4910-98fd-8e329101bf63",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/b/b2/Ruin_Station.png/revision/latest?cb=20201003083100"
   },
   {
     "name": "Ruptura OLP",
     "image_url": "https://media.starcitizen.tools/thumb/b/b6/Ruptura_OLP%2C_Aberdeen.webp/400px-Ruptura_OLP%2C_Aberdeen.webp",
-    "uuid": "1ed93a61-9cdf-492a-87fa-ed037931df54"
+    "uuid": "1ed93a61-9cdf-492a-87fa-ed037931df54",
+    "png_url": null
   },
   {
     "name": "Ruptura PAF-I",
     "image_url": "https://media.starcitizen.tools/thumb/3/33/Ruptura_PAF-I%2C_Aberdeen.webp/400px-Ruptura_PAF-I%2C_Aberdeen.webp",
-    "uuid": "cc351f35-daa8-4e05-912a-3fe376af10f9"
+    "uuid": "cc351f35-daa8-4e05-912a-3fe376af10f9",
+    "png_url": null
   },
   {
     "name": "Ruptura PAF-II",
     "image_url": "https://media.starcitizen.tools/thumb/e/ee/Ruptura_PAF-II%2C_Aberdeen.webp/400px-Ruptura_PAF-II%2C_Aberdeen.webp",
-    "uuid": "acdd0795-ee08-487a-a693-0d8d247b719a"
+    "uuid": "acdd0795-ee08-487a-a693-0d8d247b719a",
+    "png_url": null
   },
   {
     "name": "Ruptura PAF-III",
     "image_url": "https://media.starcitizen.tools/thumb/5/5b/Ruptura_PAF-III%2C_Aberdeen.webp/400px-Ruptura_PAF-III%2C_Aberdeen.webp",
-    "uuid": "6881962b-576c-427e-9d3d-f8633886bce1"
+    "uuid": "6881962b-576c-427e-9d3d-f8633886bce1",
+    "png_url": null
   },
   {
     "name": "Security Post Kareah",
     "image_url": "https://media.starcitizen.tools/thumb/c/c8/Rsi_stanton_tour_security_post_kareah.webp/400px-Rsi_stanton_tour_security_post_kareah.webp",
-    "uuid": "602a137e-c16a-4669-bb26-a5a38c2645fc"
+    "uuid": "602a137e-c16a-4669-bb26-a5a38c2645fc",
+    "png_url": "https://static.wikia.nocookie.net/starcitizen/images/3/3b/Security_Post_Kareah_-_2.0.0.png/revision/latest?cb=20201101200106"
   },
   {
     "name": "Seraphim Station",
     "image_url": "https://media.starcitizen.tools/thumb/9/9f/Seraphim_Station.png/400px-Seraphim_Station.png.webp",
-    "uuid": "3f00f6bb-d0f8-40a0-8849-3805ef2d3325"
+    "uuid": "3f00f6bb-d0f8-40a0-8849-3805ef2d3325",
+    "png_url": null
   },
   {
     "name": "Spider",
     "image_url": "https://media.starcitizen.tools/thumb/3/38/CathcartSpider3.jpg/400px-CathcartSpider3.jpg.webp",
-    "uuid": "34f3a8ed-f1d0-49f2-9f52-0270621f0217"
+    "uuid": "34f3a8ed-f1d0-49f2-9f52-0270621f0217",
+    "png_url": null
   },
   {
     "name": "Stanton Gateway",
     "image_url": "https://media.starcitizen.tools/thumb/0/06/Stanton_Gateway_and_jump_point%2C_Pyro_system.webp/400px-Stanton_Gateway_and_jump_point%2C_Pyro_system.webp",
-    "uuid": "3957513e-a2e4-429a-a1fa-32bb72c7b665"
+    "uuid": "3957513e-a2e4-429a-a1fa-32bb72c7b665",
+    "png_url": null
   },
   {
     "name": "Starlight Service Station",
     "image_url": "https://media.starcitizen.tools/thumb/4/4c/Starlight_Service_Station%2C_Pyro.webp/400px-Starlight_Service_Station%2C_Pyro.webp",
-    "uuid": "ac2b14b7-a625-4d15-9eca-d1dfc70b2668"
+    "uuid": "ac2b14b7-a625-4d15-9eca-d1dfc70b2668",
+    "png_url": null
   },
   {
     "name": "TDD Kesner",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "75655437-63d0-497c-9449-a91316038d11"
+    "uuid": "75655437-63d0-497c-9449-a91316038d11",
+    "png_url": null
   },
   {
     "name": "Terra Gateway",
     "image_url": "https://media.starcitizen.tools/thumb/2/2f/Terra_Gateway%2C_Stanton_System.jpg/400px-Terra_Gateway%2C_Stanton_System.jpg.webp",
-    "uuid": "a7c8150e-e281-438a-aaa5-0d9f7256ed56"
+    "uuid": "a7c8150e-e281-438a-aaa5-0d9f7256ed56",
+    "png_url": null
   },
   {
     "name": "Vivere OLP",
     "image_url": "https://media.starcitizen.tools/thumb/7/79/Vivere_OLP%2C_Aberdeen.webp/400px-Vivere_OLP%2C_Aberdeen.webp",
-    "uuid": "11f22961-3b0a-4a19-a411-fc8a42179caa"
+    "uuid": "11f22961-3b0a-4a19-a411-fc8a42179caa",
+    "png_url": null
   },
   {
     "name": "Vivere PAF-I",
     "image_url": "https://media.starcitizen.tools/thumb/9/92/Vivere_PAF-I%2C_Aberdeen.webp/400px-Vivere_PAF-I%2C_Aberdeen.webp",
-    "uuid": "8cb9ec0f-fa5a-4d6d-85db-ff3a23d0299d"
+    "uuid": "8cb9ec0f-fa5a-4d6d-85db-ff3a23d0299d",
+    "png_url": null
   },
   {
     "name": "Vivere PAF-II",
     "image_url": "https://media.starcitizen.tools/thumb/2/25/Vivere_PAF-II%2C_Aberdeen.webp/400px-Vivere_PAF-II%2C_Aberdeen.webp",
-    "uuid": "dba65c8f-68ff-446e-a47f-a887d343c2dd"
+    "uuid": "dba65c8f-68ff-446e-a47f-a887d343c2dd",
+    "png_url": null
   },
   {
     "name": "Vivere PAF-III",
     "image_url": "https://media.starcitizen.tools/thumb/5/5b/Vivere_PAF-III%2C_Aberdeen.webp/400px-Vivere_PAF-III%2C_Aberdeen.webp",
-    "uuid": "29ef8785-699a-48ed-8d30-49f159056bbf"
+    "uuid": "29ef8785-699a-48ed-8d30-49f159056bbf",
+    "png_url": null
   },
   {
     "name": "Xenia",
     "image_url": "https://media.starcitizen.tools/thumb/f/f8/BakerXenia.jpg/400px-BakerXenia.jpg.webp",
-    "uuid": "2a07f5b4-3503-480a-8d5a-7f0635b0c1d5"
+    "uuid": "2a07f5b4-3503-480a-8d5a-7f0635b0c1d5",
+    "png_url": null
   },
   {
     "name": "Yogi Station",
     "image_url": "https://media.starcitizen.tools/thumb/5/5e/OsoStationChimera.png/400px-OsoStationChimera.png.webp",
-    "uuid": "9ab12efc-f61c-49d7-ada7-cc2e045691cb"
+    "uuid": "9ab12efc-f61c-49d7-ada7-cc2e045691cb",
+    "png_url": null
   },
   {
     "name": "Yulin Flotilla",
     "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp",
-    "uuid": "fd0c9827-6a6b-46c2-bcf5-44d9ac5777d6"
+    "uuid": "fd0c9827-6a6b-46c2-bcf5-44d9ac5777d6",
+    "png_url": null
   }
 ]

@@ -8,7 +8,8 @@
     "Max radius": "",
     "Arm time": "",
     "Ignite time": "",
-    "Manufacturer": "FireStorm Kinetics"
+    "Manufacturer": "FireStorm Kinetics",
+    "image_url": "https://media.starcitizen.tools/thumb/d/da/Bomb-FSKI-Colossus_%28closed%29.png/400px-Bomb-FSKI-Colossus_%28closed%29.png.webp"
   },
   {
     "Name": "Stormburst Bomb",
@@ -19,7 +20,8 @@
     "Max radius": "",
     "Arm time": "",
     "Ignite time": "",
-    "Manufacturer": "FireStorm Kinetics"
+    "Manufacturer": "FireStorm Kinetics",
+    "image_url": "https://media.starcitizen.tools/thumb/0/0f/Bomb_s5.jpg/400px-Bomb_s5.jpg.webp"
   },
   {
     "Name": "Thunderball Bomb",
@@ -30,6 +32,7 @@
     "Max radius": "",
     "Arm time": "",
     "Ignite time": "",
-    "Manufacturer": "FireStorm Kinetics"
+    "Manufacturer": "FireStorm Kinetics",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   }
 ]

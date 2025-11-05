@@ -8,7 +8,8 @@
     "Resistance": "25 %",
     "Inert materials": "",
     "Optimal charge window": "40 %",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Arbor MH2 Mining Laser",
@@ -19,7 +20,8 @@
     "Resistance": "25 %",
     "Inert materials": "",
     "Optimal charge window": "40 %",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Arbor MHV Mining Laser",
@@ -30,7 +32,8 @@
     "Resistance": "",
     "Inert materials": "",
     "Optimal charge window": "",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Helix I Mining Laser",
@@ -41,7 +44,8 @@
     "Resistance": "-30 %",
     "Inert materials": "",
     "Optimal charge window": "-40 %",
-    "Manufacturer": "Thermyte Concern"
+    "Manufacturer": "Thermyte Concern",
+    "image_url": "https://media.starcitizen.tools/thumb/2/20/Helix_I_-_Terminal_Display_-_3.10.2.png/400px-Helix_I_-_Terminal_Display_-_3.10.2.png.webp"
   },
   {
     "Name": "Helix II Mining Laser",
@@ -52,7 +56,8 @@
     "Resistance": "-30 %",
     "Inert materials": "",
     "Optimal charge window": "-40 %",
-    "Manufacturer": "Thermyte Concern"
+    "Manufacturer": "Thermyte Concern",
+    "image_url": "https://media.starcitizen.tools/thumb/2/20/Helix_I_-_Terminal_Display_-_3.10.2.png/400px-Helix_I_-_Terminal_Display_-_3.10.2.png.webp"
   },
   {
     "Name": "Hofstede-S1 Mining Laser",
@@ -63,7 +68,8 @@
     "Resistance": "-30 %",
     "Inert materials": "",
     "Optimal charge window": "",
-    "Manufacturer": "Shubin Interstellar"
+    "Manufacturer": "Shubin Interstellar",
+    "image_url": "https://media.starcitizen.tools/thumb/f/f5/Hofstede-S2_-_Terminal_Display_-_3.10.2.png/400px-Hofstede-S2_-_Terminal_Display_-_3.10.2.png.webp"
   },
   {
     "Name": "Hofstede-S2 Mining Laser",
@@ -74,7 +80,8 @@
     "Resistance": "-30 %",
     "Inert materials": "",
     "Optimal charge window": "",
-    "Manufacturer": "Shubin Interstellar"
+    "Manufacturer": "Shubin Interstellar",
+    "image_url": "https://media.starcitizen.tools/thumb/f/f5/Hofstede-S2_-_Terminal_Display_-_3.10.2.png/400px-Hofstede-S2_-_Terminal_Display_-_3.10.2.png.webp"
   },
   {
     "Name": "Impact I Mining Laser",
@@ -85,7 +92,8 @@
     "Resistance": "10 %",
     "Inert materials": "",
     "Optimal charge window": "20 %",
-    "Manufacturer": "Thermyte Concern"
+    "Manufacturer": "Thermyte Concern",
+    "image_url": "https://media.starcitizen.tools/thumb/d/dc/Impact-S1_-_Terminal_Display_-_3.10.2.png/400px-Impact-S1_-_Terminal_Display_-_3.10.2.png.webp"
   },
   {
     "Name": "Impact II Mining Laser",
@@ -96,7 +104,8 @@
     "Resistance": "10 %",
     "Inert materials": "",
     "Optimal charge window": "20 %",
-    "Manufacturer": "Thermyte Concern"
+    "Manufacturer": "Thermyte Concern",
+    "image_url": "https://media.starcitizen.tools/thumb/d/dc/Impact-S1_-_Terminal_Display_-_3.10.2.png/400px-Impact-S1_-_Terminal_Display_-_3.10.2.png.webp"
   },
   {
     "Name": "Klein-S1 Mining Laser",
@@ -107,7 +116,8 @@
     "Resistance": "-45 %",
     "Inert materials": "",
     "Optimal charge window": "20 %",
-    "Manufacturer": "Shubin Interstellar"
+    "Manufacturer": "Shubin Interstellar",
+    "image_url": "https://media.starcitizen.tools/thumb/d/d3/Klein-S1_-_Terminal_Display_-_3.10.2.png/400px-Klein-S1_-_Terminal_Display_-_3.10.2.png.webp"
   },
   {
     "Name": "Klein-S2 Mining Laser",
@@ -118,7 +128,8 @@
     "Resistance": "-45 %",
     "Inert materials": "",
     "Optimal charge window": "20 %",
-    "Manufacturer": "Shubin Interstellar"
+    "Manufacturer": "Shubin Interstellar",
+    "image_url": "https://media.starcitizen.tools/thumb/d/d3/Klein-S1_-_Terminal_Display_-_3.10.2.png/400px-Klein-S1_-_Terminal_Display_-_3.10.2.png.webp"
   },
   {
     "Name": "Lancet MH1 Mining Laser",
@@ -129,7 +140,8 @@
     "Resistance": "",
     "Inert materials": "",
     "Optimal charge window": "-60 %",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/a/ad/Lancet_MH1_-_Terminal_Display_-_3.10.2.png/400px-Lancet_MH1_-_Terminal_Display_-_3.10.2.png.webp"
   },
   {
     "Name": "Lancet MH2 Mining Laser",
@@ -140,7 +152,8 @@
     "Resistance": "",
     "Inert materials": "",
     "Optimal charge window": "-60 %",
-    "Manufacturer": "Greycat Industrial"
+    "Manufacturer": "Greycat Industrial",
+    "image_url": "https://media.starcitizen.tools/thumb/a/ad/Lancet_MH1_-_Terminal_Display_-_3.10.2.png/400px-Lancet_MH1_-_Terminal_Display_-_3.10.2.png.webp"
   },
   {
     "Name": "Lawson Mining Laser",
@@ -151,7 +164,8 @@
     "Resistance": "",
     "Inert materials": "",
     "Optimal charge window": "",
-    "Manufacturer": "Shubin Interstellar"
+    "Manufacturer": "Shubin Interstellar",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "Pitman Mining Laser",
@@ -162,7 +176,8 @@
     "Resistance": "",
     "Inert materials": "",
     "Optimal charge window": "",
-    "Manufacturer": "Drake Interplanetary"
+    "Manufacturer": "Drake Interplanetary",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "S0 Helix",
@@ -173,7 +188,8 @@
     "Resistance": "",
     "Inert materials": "",
     "Optimal charge window": "",
-    "Manufacturer": "Thermyte Concern"
+    "Manufacturer": "Thermyte Concern",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   },
   {
     "Name": "S00 Hofstede",
@@ -184,6 +200,7 @@
     "Resistance": "",
     "Inert materials": "",
     "Optimal charge window": "",
-    "Manufacturer": "Shubin Interstellar"
+    "Manufacturer": "Shubin Interstellar",
+    "image_url": "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
   }
 ]
