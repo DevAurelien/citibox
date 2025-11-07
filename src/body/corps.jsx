@@ -41,7 +41,7 @@ export default function Corps() {
   }, [stationSelected, imageCache]);
 
   return (
-    <div className="flex w-[70%] h-full bg-zinc-950 rounded-2xl">
+    <div className="flex w-[70vw] h-full bg-zinc-950 rounded-2xl z-1">
       <div className="grid w-full">
         <img
           className="w-full h-[90vh] row-span-full col-span-full object-cover rounded-2xl"
