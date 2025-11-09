@@ -46,6 +46,7 @@ export default function CardObject({ composant }) {
   return (
     <div className="flex flex-col w-[25vw] bg-zinc-800 rounded-2xl p-2 ml-8 text-white">
       <div className="flex relative p-2">
+        <img className="absolute h-[1vh] w-[10vw] -rotate-45 -left-10 top-10" src="./Grade/competition2.png" alt="banderole" />
         <img
           className="rounded-2xl min-h-[15vh] min-w-[15vw] max-w-[15vw]"
           src={
