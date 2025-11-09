@@ -11,7 +11,7 @@ function App() {
     <StationsProvider>
       <ComposantsProvider>
         <Header />
-        <div className="flex mt-[1rem] px-2 size-full h-[85vh]">
+        <div className="flex mt-[1rem] size-full h-[85vh] gap-4">
           <NavLieux />
           <Corps />
           <Aside />
