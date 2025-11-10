@@ -1,5 +1,6 @@
 import { useEffect, useReducer, useState } from "react";
 import { searchApi } from "../../utility/fonction";
+import { ReactComponent as Logo } from "../assets/Grade/gun2.svg?react"
 
 export default function CardObject({ composant }) {
   const sizeColors = {
@@ -46,15 +47,15 @@ export default function CardObject({ composant }) {
   return (
     <div className="flex flex-col w-[25vw] bg-zinc-800 rounded-2xl p-2 ml-8 text-white">
       <div className="flex relative p-2">
-        <img className="absolute h-[1vh] w-[10vw] -rotate-45 -left-10 top-10" src="./Grade/competition2.png" alt="banderole" />
         <img
           className="rounded-2xl min-h-[15vh] min-w-[15vw] max-w-[15vw]"
           src={
             composant?.image_url ||
             "https://media.starcitizen.tools/thumb/9/93/Placeholderv2.png/400px-Placeholderv2.png.webp"
           }
-          alt="Objet"
+          alt="Star_citizen_unavailable"
         />
+        {grade ? <Logo className="absolute size-15 text-white"/> : ""}
         {size ? (
           <div
             className={`absolute top-[15vh] -left-8 flex text-black text-3xl rounded-full ${sizeColors[size]} justify-center items-center size-[6vh]`}
@@ -64,6 +65,7 @@ export default function CardObject({ composant }) {
         ) : (
           ""
         )}
+        <Logo className="absolute size-15 text-white"></Logo>
         <ul className="absolute">{caracteristiques.grade}</ul>
         <div className="h-[20vh] overflow-hidden scroll-auto">
           {/*todo description longue*/}
