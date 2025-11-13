@@ -1,11 +1,11 @@
 import { useEffect, useReducer, useState } from "react";
 // import { searchApi } from "../../utility/fonction";
-import { ReactComponent as MilitaryLogo } from "../assets/Grade/gun2.svg?react"
-import { ReactComponent as CivilLogo } from "../assets/Grade/civil2.svg?react"
-import { ReactComponent as IndustrialLogo } from "../assets/Grade/gear2.svg?react"
-import { ReactComponent as StealthLogo } from "../assets/Grade/stealth2.svg?react"
-import { ReactComponent as CourseLogo } from "../assets/Grade/course.svg?react"
-import { ReactComponent as FavoriLogo } from "../assets/Grade/favori.svg?react"
+import { ReactComponent as MilitaryLogo } from "../assets/Grade/gun2.svg?react";
+import { ReactComponent as CivilLogo } from "../assets/Grade/civil2.svg?react";
+import { ReactComponent as IndustrialLogo } from "../assets/Grade/gear2.svg?react";
+import { ReactComponent as StealthLogo } from "../assets/Grade/stealth2.svg?react";
+import { ReactComponent as CourseLogo } from "../assets/Grade/course.svg?react";
+import { ReactComponent as FavoriLogo } from "../assets/Grade/favori.svg?react";
 
 export default function CardObject({ composant }) {
   const sizeColors = {
@@ -30,7 +30,7 @@ export default function CardObject({ composant }) {
     19: "bg-rose-950",
     20: "bg-neutral-900",
   };
-  
+
   const [filled, setFilled] = useState(false);
   const [favorisObjet, setFavorisObjet] = useState([]);
   // useEffect(() => {
@@ -40,12 +40,12 @@ export default function CardObject({ composant }) {
   // }, []);
 
   const logoMap = {
-    "Military":MilitaryLogo,
-    "Civilian":CivilLogo,
-    "Industrial":IndustrialLogo,
-    "Stealth":StealthLogo,
-    "Competition":CourseLogo,
-  }
+    Military: MilitaryLogo,
+    Civilian: CivilLogo,
+    Industrial: IndustrialLogo,
+    Stealth: StealthLogo,
+    Competition: CourseLogo,
+  };
 
   const Logo = composant.Classe ? logoMap[composant.Classe] : null;
 
@@ -54,12 +54,24 @@ export default function CardObject({ composant }) {
   const size = composant?.Size ?? composant?.size ?? "";
   const grade = composant?.Grade ?? composant?.grade ?? "";
   const classe = composant?.Classe ?? composant?.classe ?? "";
-  const caracteristiques = [
-    grade ? ` Grade : ${grade} ` : "",
-    classe ? `Classe : ${classe}` : "\n",
-  ];
 
-// console.log(composant)
+  let keys = Object.keys(composant);
+  let keyClean = keys.filter((item) => {
+    return (
+      item != "Name" &&
+      item != "name" &&
+      item != "Size" &&
+      item != "size" &&
+      item != "Classe" &&
+      item != "classe" &&
+      item != "image_url" &&
+      item != "manufacturer" &&
+      item != "Manufacturer"
+    );
+  });
+
+  // console.log(keyClean)
+  // console.log(composant)
 
   return (
     <div className="flex flex-col w-[25vw] bg-zinc-800 rounded-2xl p-2 ml-8 text-white">
@@ -73,26 +85,30 @@ export default function CardObject({ composant }) {
           }
           alt="Star_citizen_unavailable"
         />
-        
-        
-      <div className="absolute flex h-[20vh] bg-zinc-600/70 w-[6vh] -top-2 -left-8 rounded-4xl">
-          <FavoriLogo onClick={() => setFilled(!filled)}
-        style={{ color: filled ? '#FFD700' : 'transparent' }} className="absolute size-[6vh]"/> {/* #ffed00*/}
-          {Logo && <Logo className="absolute top-[7vh] rounded-full size-[6vh] text-white"/>}
+
+        <div className="absolute flex h-[20vh] bg-zinc-600/70 w-[6vh] -top-2 -left-8 rounded-4xl">
+          <FavoriLogo
+            onClick={() => setFilled(!filled)}
+            style={{ color: filled ? "#FFD700" : "transparent" }}
+            className="absolute size-[6vh]"
+          />{" "}
+          {/* #ffed00*/}
+          {Logo && (
+            <Logo className="absolute top-[7vh] rounded-full size-[6vh] text-white" />
+          )}
           {size ? (
-          <div
-            className={`absolute flex top-[14vh] text-black text-3xl rounded-full ${sizeColors[size]} justify-center items-center size-[6vh]`}
-          >
-            {size ? `${size}` : ""}
-          </div>
-        ) : (
-          ""
-        )}
-        {/* <Logo className="absolute size-15 text-white"></Logo> */}
-      </div>
-        <ul className="relative text-sm">{caracteristiques}</ul>
-        <div className="h-[20vh] overflow-hidden scroll-auto">
-          {/*todo description longue*/}
+            <div
+              className={`absolute flex top-[14vh] text-black text-3xl rounded-full ${sizeColors[size]} justify-center items-center size-[6vh]`}
+            >
+              {size ? `${size}` : ""}
+            </div>
+          ) : (
+            ""
+          )}
+          {/* <Logo className="absolute size-15 text-white"></Logo> */}
+        </div>
+        <div className="h-full w-full text-sm overflow-hidden scroll-auto p-4">
+          {composant && keyClean.map((item) => `${item} = ${composant[item]} `)}
         </div>
       </div>
       <h3 className="text-lg font-semibold">{title}</h3>
