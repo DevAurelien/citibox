@@ -108,7 +108,7 @@ export default function CardObject({ composant }) {
           {/* <Logo className="absolute size-15 text-white"></Logo> */}
         </div>
         <div className="h-full w-full text-sm overflow-hidden scroll-auto p-4">
-          {composant && keyClean.map((item) => `${item} = ${composant[item]} `)}
+          {composant && keyClean.map((item, index) => <p>{item} = {composant[item]}</p>)}
         </div>
       </div>
       <h3 className="text-lg font-semibold">{title}</h3>
