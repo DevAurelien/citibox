@@ -32,11 +32,18 @@ export default function Aside() {
           <CardObject
             key={item.id ?? item.Name ?? item.name}
             composant={item}
+            draggable={true}
+            onDragStart={handleDragStart}
           />
         ))
       );
     }
   }, [composantsFiltres]);
+
+  function handleDragStart(e, composant) {
+  e.dataTransfer.setData("composant", JSON.stringify(composant));
+  e.dataTransfer.effectAllowed = "copy";
+}
 
   return (
     <div className="flex flex-col w-[30vw] h-[90vh] bg-black rounded-2xl ">
@@ -49,7 +56,7 @@ export default function Aside() {
           placeholder="Objet"
         />
       </div>
-      <div className="flex flex-col gap-4 h-full overflow-y-auto overflow-x-hidden scrollbar-dark pr-2">
+      <div className="flex flex-col gap-4 h-full overflow-y-auto overflow-x-hidden scrollbar-dark pr-6">
         {data}
       </div>
     </div>

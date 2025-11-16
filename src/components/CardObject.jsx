@@ -1,5 +1,4 @@
-import { useEffect, useReducer, useState } from "react";
-// import { searchApi } from "../../utility/fonction";
+import { useState, useRef } from "react";
 import { ReactComponent as MilitaryLogo } from "../assets/Grade/gun2.svg?react";
 import { ReactComponent as CivilLogo } from "../assets/Grade/civil2.svg?react";
 import { ReactComponent as IndustrialLogo } from "../assets/Grade/gear2.svg?react";
@@ -7,7 +6,7 @@ import { ReactComponent as StealthLogo } from "../assets/Grade/stealth2.svg?reac
 import { ReactComponent as CourseLogo } from "../assets/Grade/course.svg?react";
 import { ReactComponent as FavoriLogo } from "../assets/Grade/favori.svg?react";
 
-export default function CardObject({ composant }) {
+export default function CardObject({ composant, draggable, onDragStart }) {
   const sizeColors = {
     1: "bg-green-700",
     2: "bg-green-600",
@@ -32,12 +31,6 @@ export default function CardObject({ composant }) {
   };
 
   const [filled, setFilled] = useState(false);
-  const [favorisObjet, setFavorisObjet] = useState([]);
-  // useEffect(() => {
-  //   searchApi("api.fleetyards.net/v1/components") // api.fleetyards.net/v1/commodities
-  //     .then((result) => setData(result))
-  //     .catch((err) => setData("Erreur"));
-  // }, []);
 
   const logoMap = {
     Military: MilitaryLogo,
@@ -47,34 +40,37 @@ export default function CardObject({ composant }) {
     Competition: CourseLogo,
   };
 
-  const Logo = composant.Classe ? logoMap[composant.Classe] : null;
+  const LogoClasse = composant.Classe ? logoMap[composant.Classe] : null;
 
   const title = composant?.Name ?? composant?.name ?? "Nom inconnu";
   const manufacturer = composant?.Manufacturer ?? composant?.manufacturer ?? "";
   const size = composant?.Size ?? composant?.size ?? "";
-  const grade = composant?.Grade ?? composant?.grade ?? "";
-  const classe = composant?.Classe ?? composant?.classe ?? "";
 
-  let keys = Object.keys(composant);
-  let keyClean = keys.filter((item) => {
-    return (
-      item != "Name" &&
-      item != "name" &&
-      item != "Size" &&
-      item != "size" &&
-      item != "Classe" &&
-      item != "classe" &&
-      item != "image_url" &&
-      item != "manufacturer" &&
-      item != "Manufacturer"
-    );
-  });
+  // --- keyClean pour les propriétés à afficher
+  const keyClean = Object.keys(composant).filter(
+    (item) =>
+      ![
+        "Name",
+        "name",
+        "Size",
+        "size",
+        "Classe",
+        "classe",
+        "image_url",
+        "manufacturer",
+        "Manufacturer",
+      ].includes(item)
+  );
 
-  // console.log(keyClean)
-  // console.log(composant)
+  const cardRef = useRef();
 
   return (
-    <div className="flex flex-col w-[25vw] bg-zinc-800 rounded-2xl p-2 ml-8 text-white">
+    <div
+      ref={cardRef}
+      draggable={draggable}
+      onDragStart={(e) => onDragStart && onDragStart(e, composant, cardRef)}
+      className="flex flex-col align-items-end w-[25vw] lg:min-h-[30vh] bg-zinc-800 rounded-2xl p-2 ml-12 text-white hover:scale-105 transition-transform"
+    >
       <div className="flex relative p-2">
         <img
           className="select-none pointer-events-auto rounded-2xl min-h-[15vh] min-w-[15vw] max-w-[15vw]"
@@ -91,26 +87,29 @@ export default function CardObject({ composant }) {
             onClick={() => setFilled(!filled)}
             style={{ color: filled ? "#FFD700" : "transparent" }}
             className="absolute size-[6vh]"
-          />{" "}
-          {/* #ffed00*/}
-          {Logo && (
-            <Logo className="absolute top-[7vh] rounded-full size-[6vh] text-white" />
+          />
+          {LogoClasse && (
+            <LogoClasse className="absolute top-[7vh] rounded-full size-[6vh] text-white" />
           )}
-          {size ? (
+          {size && (
             <div
               className={`absolute flex top-[14vh] text-black text-3xl rounded-full ${sizeColors[size]} justify-center items-center size-[6vh]`}
             >
-              {size ? `${size}` : ""}
+              {size}
             </div>
-          ) : (
-            ""
           )}
-          {/* <Logo className="absolute size-15 text-white"></Logo> */}
         </div>
+
         <div className="h-full w-full text-sm overflow-hidden scroll-auto p-4">
-          {composant && keyClean.map((item, index) => <p>{item} = {composant[item]}</p>)}
+          {composant &&
+            keyClean.map((item, index) => (
+              <p key={index}>
+                {item} = {composant[item]}
+              </p>
+            ))}
         </div>
       </div>
+
       <h3 className="text-lg font-semibold">{title}</h3>
       {manufacturer && <p className="text-sm text-white/70">{manufacturer}</p>}
     </div>

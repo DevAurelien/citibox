@@ -31,6 +31,7 @@ const ComposantsContext = createContext();
 export function ComposantsProvider({ children }) {
   const [composants, setComposants] = useState([]);
   const [ships, setShips] = useState([]); 
+  const [composantsByStation, setComposantsByStation] = useState({});
 
   const [composantsSelected, setComposantsSelected] = useState(null);
   const [shipsSelected, setShipsSelected] = useState(null);
@@ -40,8 +41,16 @@ export function ComposantsProvider({ children }) {
     setComposants([...blade, ...bomb,...cargo_pod,...cooler,...emp,...fuel_nozzle,...fuel_pod,...gun_ship,...jump_module,...life_support,...mining_laser,...missile_rack,...missiles,...power_plant,...qed,...quantum_drive,...radar,...rocket_pod,...salvage_head,...scrapper_module,...shield,...torpedo,...towing_beam,...tractor_beam,...weapon_mount])
   },[])
 
+  function addComposantToStation(stationUuid, composant) {
+  setComposantsByStation(prev => ({
+    ...prev,
+    [stationUuid]: [...(prev[stationUuid] || []), composant]
+  }));
+}
+
   return (
-    <ComposantsContext.Provider value={{ composants, setComposants, composantsSelected, setComposantsSelected, shipsSelected, setShipsSelected }}>
+    <ComposantsContext.Provider value={{ composants, setComposants, composantsSelected, setComposantsSelected, shipsSelected, setShipsSelected, composantsByStation,
+  addComposantToStation }}>
       {children}
     </ComposantsContext.Provider>
   );
