@@ -40,10 +40,14 @@ export default function Aside() {
     }
   }, [composantsFiltres]);
 
-  function handleDragStart(e, composant) {
-  e.dataTransfer.setData("composant", JSON.stringify(composant));
-  e.dataTransfer.effectAllowed = "copy";
-}
+  function handleDragStart(e, composant, cardRef, quantity) {
+    const payload = {
+      ...composant,
+      quantity: composant?.quantity ?? quantity ?? 0,
+    };
+    e.dataTransfer.setData("composant", JSON.stringify(payload));
+    e.dataTransfer.effectAllowed = "copy";
+  }
 
   return (
     <div className="flex flex-col w-[30vw] h-[90vh] bg-black rounded-2xl ">

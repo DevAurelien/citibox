@@ -45,8 +45,8 @@ export default function CardObject({ composant, draggable, onDragStart }) {
   const title = composant?.Name ?? composant?.name ?? "Nom inconnu";
   const manufacturer = composant?.Manufacturer ?? composant?.manufacturer ?? "";
   const size = composant?.Size ?? composant?.size ?? "";
+  const quantity = composant?.quantity ?? 0;
 
-  // --- keyClean pour les propriétés à afficher
   const keyClean = Object.keys(composant).filter(
     (item) =>
       ![
@@ -68,7 +68,7 @@ export default function CardObject({ composant, draggable, onDragStart }) {
     <div
       ref={cardRef}
       draggable={draggable}
-      onDragStart={(e) => onDragStart && onDragStart(e, composant, cardRef)}
+      onDragStart={(e) => onDragStart && onDragStart(e, composant, cardRef, quantity)}
       className="flex flex-col align-items-end w-[25vw] lg:min-h-[30vh] bg-zinc-800 rounded-2xl p-2 ml-12 text-white hover:scale-105 transition-transform"
     >
       <div className="flex relative p-2">
