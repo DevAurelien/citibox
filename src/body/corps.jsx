@@ -6,8 +6,7 @@ export default function Corps() {
   const { stationSelected, stations } = useContext(StationsContext);
   const { composantsByStation, addComposantToStation } =
     useContext(ComposantsContext);
-  
-  
+
   // const [composantsForThisStation, setcomposantsForThisStation] = useState({})
   const [imageCache, setImageCache] = useState({});
   const [currentImg, setCurrentImg] = useState("/citibox.png");
@@ -44,24 +43,26 @@ export default function Corps() {
   }, [stationSelected, imageCache]);
 
   function handleDrop(e) {
-  e.preventDefault();
-  console.log("DROP EVENT", e);
-  if (!stationSelected) {
-    console.log("No station selected");
-    return;
+    e.preventDefault();
+    console.log("DROP EVENT", e);
+    if (!stationSelected) {
+      console.log("No station selected");
+      return;
+    }
+
+    const data = e.dataTransfer.getData("composant");
+    console.log("dataTransfer:", data);
+    if (!data) return;
+
+    const composant = JSON.parse(data);
+    console.log("Composant à ajouter:", composant);
+
+    const payload = { ...composant};
+
+    addComposantToStation(stationSelected.uuid, payload);
+
+
   }
-
-  const data = e.dataTransfer.getData("composant");
-  console.log("dataTransfer:", data);
-  if (!data) return;
-
-  const composant = JSON.parse(data);
-  console.log("Composant à ajouter:", composant);
-
-  const payload = {...composant, quantity:composant?.quantity ?? 0,}
-
-  addComposantToStation(stationSelected.uuid, payload);
-}
 
   function handleDragOver(e) {
     e.preventDefault();
@@ -69,9 +70,6 @@ export default function Corps() {
 
   const composantsForThisStation =
     composantsByStation[stationSelected?.uuid] || [];
-
-  
-
 
   return (
     <div className="flex w-[70vw] h-full bg-zinc-950 rounded-2xl gap-6 relative">
@@ -99,10 +97,21 @@ export default function Corps() {
           {/* Liste des composants déposés */}
           <div className="grid grid-cols-8 gap-2 text-white">
             {composantsForThisStation.map((c, i) => (
-              <div key={i} className="relative bg-zinc-800 rounded-xl p-2 text-sm"><div className="absolute -top-2 -right-2 rounded-full size-[2rem] bg-zinc-950 text-white"></div>
-              {/* {c.quantity} */}
-                {c.Name || c.name} <img src={c.image_url} alt="image_article" className="size-[8rem] object-contain -mb-[1rem]"/>
-                <div className="h-[2rem] w-full rounded-full bg-zinc-950 text-white justify-between items-center p-1">{c.Size}</div>
+              <div
+                key={i}
+                className="relative bg-zinc-800 rounded-xl p-2 text-sm"
+              >
+                <div className="flex justify-center items-center text-xl absolute -top-2 -right-2 rounded-full size-[2rem] bg-zinc-950 text-white">{c.quantity}</div>
+                {/* {c.quantity} */}
+                {c?.Name ?? c?.name}{" "}
+                <img
+                  src={c?.image_url ?? "/placeholder.png"}
+                  alt="image_article"
+                  className="size-[8rem] object-contain -mb-[1rem]"
+                />
+                <div className="h-[2rem] w-full rounded-full bg-zinc-950 text-white justify-between items-center p-1">
+                  {c?.Size ?? c?.size ?? ""}
+                </div>
               </div>
             ))}
           </div>

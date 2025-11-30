@@ -41,11 +41,38 @@ export function ComposantsProvider({ children }) {
     setComposants([...blade, ...bomb,...cargo_pod,...cooler,...emp,...fuel_nozzle,...fuel_pod,...gun_ship,...jump_module,...life_support,...mining_laser,...missile_rack,...missiles,...power_plant,...qed,...quantum_drive,...radar,...rocket_pod,...salvage_head,...scrapper_module,...shield,...torpedo,...towing_beam,...tractor_beam,...weapon_mount])
   },[])
 
-  function addComposantToStation(stationUuid, composant, quantity) {
-  setComposantsByStation(prev => ({
-    ...prev,
-    [stationUuid]: [...(prev[stationUuid] || []), composant, quantity]
-  }));
+  function addComposantToStation(stationUuid, composant) {
+  setComposantsByStation((prev) => {
+    const arr = prev[stationUuid] || [];
+
+    // rechercher si composant déjà présent : identifiant fiable
+    const existingIndex = arr.findIndex(
+      (c) => c.Name === composant.Name
+    );
+
+    // si déjà présent → incrémenter la quantité
+    if (existingIndex !== -1) {
+      const updated = [...arr];
+      updated[existingIndex] = {
+        ...updated[existingIndex],
+        quantity: updated[existingIndex].quantity + 1
+      };
+
+      return {
+        ...prev,
+        [stationUuid]: updated
+      };
+    }
+
+    // sinon → ajouter avec quantity = 1
+    return {
+      ...prev,
+      [stationUuid]: [
+        ...arr,
+        { ...composant, quantity: 1 }
+      ]
+    };
+  });
 }
 
   return (
